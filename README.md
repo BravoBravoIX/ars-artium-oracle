@@ -1,5 +1,9 @@
 # The *Ars artium* oracle: does the machine compute its answers?
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23496228.svg)](https://doi.org/10.5281/zenodo.23496228)
+
+**Archived on Zenodo** with its paper, code, data and results: [doi:10.5281/zenodo.23496228](https://doi.org/10.5281/zenodo.23496228) (this DOI always opens the latest version; see How to cite at the end).
+
 *Ars artium sive ars magna cabalistica* ("the art of arts, or the great cabalistic art") is a Latin treatise that teaches a question-answering machine. The work claims to be by the German poet Hartmann Schopper and dates itself 1564 and 1569. The surviving copies are 17th or 18th century, and the work was probably composed then. You write a question in Latin and turn each letter into a number. The numbers then pass through nine stages: difference lines, "pyramids" and "roots", two rhomboid grids, a ring-shaped "orbit", a "golden number", a number grid called the *cipher*, a home-made algebra, and finally tables of proportions. The last stage keeps a number's remainder after dividing by 23 as a letter, and the letters are meant to spell the answer.
 
 The book gives worked example sheets. Two of them carry answers, and both answers are Latin verse. This study asks two questions:
@@ -182,4 +186,4 @@ The code uses the Python standard library only; `run_all.sh` asks `uv` for Pytho
 
 ## How to cite
 
-Burford, B. (2026). The *Ars artium* oracle: does the machine compute its answers? (version 1.0). Source: https://github.com/BravoBravoIX/ars-artium-oracle
+Burford, B. (2026). The *Ars artium* oracle: does the machine compute its answers? Zenodo. https://doi.org/10.5281/zenodo.23496228 (this DOI always opens the latest version)
