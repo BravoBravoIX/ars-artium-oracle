@@ -1,0 +1,175 @@
+{
+ "seed": 20261020,
+ "N": 10000,
+ "test2": {
+  "steps": [
+   {
+    "step": "6290 - 1536 (eye: 1536 or 1538)",
+    "book": 4553,
+    "correct": [
+     4754,
+     4752
+    ],
+    "ok": false
+   },
+   {
+    "step": "4553 / 16: quotient",
+    "book": 252,
+    "correct": 284,
+    "ok": false
+   },
+   {
+    "step": "4553 / 16: remainder",
+    "book": 16,
+    "correct": 9,
+    "ok": false
+   },
+   {
+    "step": "252 / 14: quotient",
+    "book": 17,
+    "correct": 18,
+    "ok": false
+   },
+   {
+    "step": "252 / 14: remainder",
+    "book": 0,
+    "correct": 0,
+    "ok": true
+   },
+   {
+    "step": "56 - 16",
+    "book": 40,
+    "correct": 40,
+    "ok": true
+   },
+   {
+    "step": "40 + 1 (P)",
+    "book": 41,
+    "correct": 41,
+    "ok": true
+   }
+  ],
+  "rule_letters_total": 42,
+  "printed_answer_letters": 35,
+  "match": false,
+  "golden_number_text": 0,
+  "golden_number_sheet_D": 2
+ },
+ "test3": {
+  "B": {
+   "letters": 67,
+   "observed": -2.06356732826192,
+   "shuffle_mean": -3.3530167387306262,
+   "shuffle_max": -2.942257438858001,
+   "p_shuffle": 9.999000099990002e-05,
+   "machine_mean": -3.2348682854961828,
+   "machine_max": -3.002915265234898,
+   "p_machine": 9.999000099990002e-05,
+   "latin_windows_mean": -1.923461412169074,
+   "latin_windows_share_below_observed": 0.2337
+  },
+  "D": {
+   "letters": 35,
+   "observed": -2.287107163661416,
+   "shuffle_mean": -3.3636151394841605,
+   "shuffle_max": -2.797122993083325,
+   "p_shuffle": 9.999000099990002e-05,
+   "machine_mean": -3.236056640975639,
+   "machine_max": -2.954360740052542,
+   "p_machine": 9.999000099990002e-05,
+   "latin_windows_mean": -1.919521340733422,
+   "latin_windows_share_below_observed": 0.0873
+  },
+  "holm": {
+   "B_shuffle": {
+    "p": 9.999000099990002e-05,
+    "p_holm": 0.00039996000399960006,
+    "reject_0.05": true
+   },
+   "B_machine": {
+    "p": 9.999000099990002e-05,
+    "p_holm": 0.00039996000399960006,
+    "reject_0.05": true
+   },
+   "D_shuffle": {
+    "p": 9.999000099990002e-05,
+    "p_holm": 0.00039996000399960006,
+    "reject_0.05": true
+   },
+   "D_machine": {
+    "p": 9.999000099990002e-05,
+    "p_holm": 0.00039996000399960006,
+    "reject_0.05": true
+   }
+  }
+ },
+ "test4": {
+  "A_sheet": {
+   "substitutions": 946,
+   "share_line4_changed": 0.8234672304439746,
+   "share_roots_changed": 0.9778012684989429
+  },
+  "B_sheet": {
+   "substitutions": 1276,
+   "share_line4_changed": 0.8746081504702194,
+   "share_roots_changed": 0.9898119122257053
+  },
+  "C_sheet": {
+   "substitutions": 1496,
+   "share_line4_changed": 0.8636363636363636,
+   "share_roots_changed": 0.9832887700534759
+  },
+  "D_sheet": {
+   "substitutions": 1408,
+   "share_line4_changed": 0.8806818181818182,
+   "share_roots_changed": 0.9808238636363636
+  },
+  "random_questions": {
+   "n": 2000,
+   "distinct_root_vectors": 2000,
+   "most_common_root_values": [
+    [
+     9,
+     538
+    ],
+    [
+     5,
+     527
+    ],
+    [
+     4,
+     504
+    ],
+    [
+     10,
+     504
+    ],
+    [
+     11,
+     491
+    ],
+    [
+     2,
+     446
+    ],
+    [
+     3,
+     435
+    ],
+    [
+     8,
+     412
+    ],
+    [
+     6,
+     389
+    ],
+    [
+     7,
+     323
+    ]
+   ],
+   "distinct_root_values": 921
+  }
+ }
+}

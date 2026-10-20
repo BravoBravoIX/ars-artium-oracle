@@ -1,0 +1,33 @@
+55.
+
+donec etiam ab hac superiori parte peruenieris ad Angulum exteriorem; tali autem pacto Differentias elicitas suo loco Branchijs repone [?]; semper, ut suprà dictum fuit, incipiendo, ubi Canalis medius Branchijs coniungitur, ut optimè in sequenti schemate, et Quesito de Cognomine Pontificis eligendi [underlined: Quesito de Cognomine Pontificis eligendi] suscepto, apposite [?] literae demonstrabunt. Quod Exemplum una cum alijs usque huc indigitatis in fine huius primae Partis inuenies.
+
+[DIAGRAM: Two rhomboid grids, each a stepped diamond of squares with 7 columns (col. 1 = leftmost) and 8 rows (row 1 = top). Numbers are written in alternate squares in a chequer pattern. Squares not listed are empty. Each grid sits on a curved channel (branch) that joins a central vertical canal between the two figures.
+
+Left figure, headed "Rhomboides Sinistra":
+row 1: col 4 = 4
+row 2 (letter C at its left end; dot at its right end): col 3 = 2 | col 5 = 4
+row 3 (letter D at its left end): col 2 = 0 | col 4 = 3 | col 6 = 10
+row 4: col 1 = 0 | col 3 = 7 | col 5 = 4 | col 7 = 2
+row 5: col 1 = 1 | col 3 = 4 | col 5 = 2 | col 7 = 6
+row 6 (letter B at its left end): col 2 = 10 | col 4 = 6 | col 6 = 3
+row 7 (letter A at its left end): col 3 = 4 | col 5 = 3
+row 8: col 4 = 1
+Curved branch below the grid, read along the curve from upper left to lower right. Numbers inside the channel: "16. 14. 6. 12." Letters outside the curve, in the same direction: "D. C. B. A."
+
+Centre, between the two figures: "R·" with "16 ✝" below it.
+
+Right figure, headed "Rhomboides dextera":
+row 1: col 4 = 2
+row 2 (letter C at its right end; dot at its left end): col 3 = 0 | col 5 = 3
+row 3 (letter D at its right end): col 2 = 1 | col 4 = 0 | col 6 = 9
+row 4: col 1 = 9 [? blotted] | col 3 = 4 | col 5 = 1 | col 7 = 2
+row 5: col 1 = 2 | col 3 = 1 | col 5 = 1 | col 7 = 1
+row 6 (letter B at its right end): col 2 = 1 | col 4 = 2 | col 6 = 6
+row 7 (letter A at its right end): col 3 = 2 | col 5 = 0
+row 8: col 4 = 2
+Curved branch below the grid, read along the curve from lower left to upper right. Numbers inside the channel: "16. 10. 13. 7." Letters outside the curve, in the same direction: "A. B. C. D."]
+
+Post Brancarum Carte 57.
+
+[MARGIN: on the facing left-hand page, cut off at the gutter: "...t uideb[...]", "...ata fu[...]", "...circi u[...]", "...famen", "...enim", "...iorem", "...entem", "...sequen[...]", "...primo", "...pend[...]", "...dece[...]" [?]]

@@ -1,0 +1,23 @@
+53 [?]
+
+[MARGIN: right edge, written vertically: Semicirculus dexter.]
+
+Rhomboides Sinistra | Rhomboides dextra
+
+[DIAGRAM: Two mirror-image rhomboid grids at the top, each narrowing into a curved branch (labelled "Branca Sinistra" at left and "Branca dextra" at right). Below them are two sets of concentric semicircular rings, left and right, which together form a circle open at the centre. Each set has a column of six numbers at its inner end.
+
+Left rhomboid (Rhomboides Sinistra). Cells are read by row from top to bottom, and from left to right within each row. Most cells are empty. Only the cells with a number or a dot are listed.
+- Row 1 (topmost, central column only): 3
+- Row 2: 5 (left cell) | [empty central cell] | 2 (right cell)
+- Row 3: 6 (far left) | · (a dot, second column) | 5 (central column) | [empty] | 13 (right)
+- Row 4 (widest row): 1 (far left) | · (a dot, second column) | 3 (central column) | [empty] | 3 (right)
+- Row 5: [empty] | 1· (second column) | [empty central] | 7· (fourth column)
+- Lower rows (two further rows narrowing, and the central column continuing into the branch): no numbers.
+
+Right rhomboid (Rhomboides dextra): grid of empty cells, no numbers.
+
+Branches: "Branca Sinistra." is written along the left curved branch, and "Branca dextra." along the right curved branch. The ink of "Branca dextra" is blotted.
+
+Rings, left set (Semicirculus sinister), six concentric rings, numbers at the inner end, read from the outermost ring to the innermost: ·12· | ·15· | ·15· | ·10· | ·11· | ·13·
+
+Rings, right set (Semicirculus dexter), six concentric rings, read from the outermost ring to the innermost: ·16· | ·16· | ·15· | ·14· | ·15· | ·16·]

@@ -1,0 +1,13 @@
+32
+
+ibi sunt lineę, quot Numerus generatiuus requirit; quod si prima assequatur linea, Secunda saltem non negabit intentum. = At si aliquando succedat, quod nec unica fieri posit linea; uti V.G. si dictio ad numeris esset scribenda, cuius Numeri sunt 1,4, ex quibus nulla Scripta [?] potest erui, nisi 0, tali casu nullam illi Verbo effeceris lineam, imò summa ipsa in suo esse relinquetur. = Sed, ut Extractio Radicum innotescat, sic operare studeas.
+
+[MARGIN: { Radicum Extractio.]
+
+Accipe Numerum quartę lineę primę Operationis, et secundum ipsius ualorem, et quantitatem multiplicabis summam ei correspondentem, et Productum ex quantitate orta ex Numero generatiuo ultimę lineę (siuè unica sit, siuè duo, siuè tres fuerint) huius secundę operationis subtrahes. Deindè quidquid ex subtractione superuenerit residui per Numerum integrum primę lineę illius primę Operationis, et coherentem dictę summę diuide: et Residuus erit quęsita Radix illius summę, et dictionis: quam Radicem collocabis post lineam huius secundę Operationis sub propria dictione, ut inferius factum cernes.
+
+Sed in hac Radicum extractione ultra generalem regulam nunc superius enunciatam non pauca sunt notanda:
+
+Et primò, quod si Numerus ultimę seu quartę lineę primę Operationis; qui (ut diximus) summa ei correspondente debet multiplicari; Zifra fuerit; ipsum considerabis, ac si Unitas esset; scilicet, in sua Multiplicatione Zifras non generabit, sed eamdem summam in suo esse retinebit. V.G. In primo suprà descripto Exemplo prima summa Verbi An est 41, et Numerus ei coherens in quarta linea positus est 0, unde multiplicando 00 per 41. secundum uulgarem Aritmeticę Methodum haberetur semper 00., sed in hoc nostro opere Zifras non generabit, sed eamdem summam reddet, scil. 41.
+
+Secundò notandum, quod Numerus diuidens subtractionem, et qui (ut dixi) est accipiendus à prima linea primę Operationis; si Numerus hic simplex fuerit, ueluti simplicem pro tuo diuisore retinebis; si autem Compositus extiterit,

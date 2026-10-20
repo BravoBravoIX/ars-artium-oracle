@@ -1,0 +1,22 @@
+26.
+
+constituendam. Sed accipe Exemplum desumptum ex superius prescripta Petitione, ut clarius primam hanc operationem percipias.
+
+An Antonius Lacutus [?] Venetus. Mercaturam exercebit.
+
+[DIAGRAM: rhomboid grid with dotted lines joining each pair of adjacent numbers to the number below between them. Labels on the right.
+Row 0 (sums of the words): 41. | 530. | 654. | 640. | 530. | 509.
+Row 1, "Prima linea": 3. | 23. | 21. | 24. | 23. | 58.
+Row 2, "Secunda linea": 3. | 5. | 2. | 6. | 5. | 13.
+Row 3, "tertia linea", set between the columns: 2. (between 3 and 5) | 3. (between 5 and 2) | 3. (between 2 and 6) | 1 [?] (between 6 and 5) | 7. (between 5 and 13)
+Row 4, struck through: 23 | 21 | 02 | 53 | 15
+Row 5, "quarta linea": 0. | 1. | 1. | 2. | 3.
+Row 6, linked by dotted lines: 0 (below, between 0 and 1) | 1 (below, between 2 and 3)
+Row 7, at the apex below: 0 — "Extremum lineę quartę, ut in sequentibus dicetur."]
+
+Sed quia hi Numeri quartę lineę retinent correlationem, et correspondentiam cum summis Dictionum, eoquod primus Numerus huius quartę lineę, qui est 0, cum prima coaptatur Summa, et correspondet, quę est 41, Ita et Secundus, qui est 1. cum Secunda Summa, quę est 530: et tertius cum tertia, et sic de reliquis., Ideirco cum Numeri tertię, et quartę lineę medium teneant locum inter antecedentem, et subsequentem Numerum lineę secundę, ut in superiori Exemplo uidere est, Vltima ergo Quęsiti summa, quę est 509 tali proportionali Numero ei coherenti carebit, quod ut assequaris, sic operare.
+
+Si Quęsiti tui Dictiones tunc accepti Numeri duo medij ultimę lineę huius operationis, ipsos Medios more solito comparabis, eorumque differentia erit Quartus proportionalis lineę quartę correspondens ultimę summę Dictionum. V.g. In Exemplo superius exhibito in primo huius Operis Capite in quo
+
+[MARGIN: left edge, fragments: "pr" | "li"]
+[MARGIN: right edge, fragments from the facing page, partly cut off: "...ra que" | "...lerente" | "...ince" | "...umme" | "Exemp..." | "ut sec..." | "...entia" | "...uato" | "...ultime" | "16." | "4." | "4." | "2" | "4" | "2" | "...tunc" | "...lay" | "Di..." | "...ria" | "...igue" | "Te" | "tim..." | "tin..." | "...olo" | "...ita" | "...e" [...]]

@@ -1,0 +1,23 @@
+83
+
+Alter Multiplicationis Exemplum
+
+P.0.R.P.0.Q.P.640.R.P.14080.Q. — Subductionis residuum
+P.80.R.P.2174.Q. ——— Additionis Quantitas
+
+P.0.Q.P.0.C.P.640.Q.P.14080.C.
+P.00.C.P.00.QQ.P.17392.C.P.382624.QQ.
+
+P.640.Q.P.31472.C.P.382624.QQ. — Productum. &.
+
+Secundò. Si acciderit, quod non una tantum ex Quantitatibus Subductionis, sed ambo residui forent 0., et per consequens etiam Radicum Quadrati, tunc quia ad diuisionem Algebricam conficiendam (quam post Multiplicationis regulas docebimus) tres absque ulla exce=ptione oportet adesse quantitates, et tali idcirco casu Multiplicatio fieri nequeat ob Zifrarum incidentiam, ut accidere posse proposui=mus; tunc accepta Additionis illius quantitate eiusque Quadrato, inter se ad inuicem multiplicabis; habebisque hoc pacto tertiam Quantitatem, ut ex ipsa tuam possis exequi Diuisionem; quam Quantitatem non literis QQ. conscribes; sed litera C. connotanda erit, ne terminorum Ordo confundatur. Exempli causa:
+
+P.0.R.P.0.Q.P.0.R.P.0.Q. — Subductionis residui.
+P.20.R.P.400.Q. ——— Quantitas Additionis.
+
+P.400.Q. — Additionis Quadratus multiplicandus.
+P.20.R. — Radix eiusdem multiplicans.
+
+P.20.R.P.400.Q.P.8000.C. — Productum.
+
+Tertiò: Si non Subductionis residui, sed Additionis Quan=titates Zifra tantum designarentur; quod succedere possit, non nego, quotiescumque Petitio tua ex quinque, uel simili quantitate constaret Dictionibus, et insuper Radix, quæ suo Quadrato additionis lineam constituit, esset Zifra (quod in tertio huius operis Capite, ubi de Radicibus satis abundè disser=tum fuit, euenire posse demonstrauimus) tunc acceptis

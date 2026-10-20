@@ -1,0 +1,19 @@
+42.
+
+Sed nostrâ iam confectâ Constructione Rhomboidum; quâ forma Numeri sint in Cellulis apponendi, docebim'.
+
+Et primum. Accipe Numeros, seu differentias secundę lineę, et primam differentiam dictę lineę pone in prima Cellula sinistrę Rhomboidis; quę Cellula sola est, et in sequentibus signata litera A. = Deinde secundam differentiam huius lineę constitue in secunda Cellula, signata litera B. Tertiam differentiam eiusdem lineę nota in tertia Cellula, signata litera C., et sic in cęteris operare; itaut ornare opus est sinistram Rhomboidem, eiusque Cellulas cum Numeris secundę, et tertię lineę: initio facto à prima differentia dictę secundę lineę usque ad ultimam eiusdem, prosequendo deindè ad primum tertię usque ad finem prędictę.
+
+Pariter in apponendis Numeris in Rhomboidum Cellulis sequens seruandus est Ordo. scilicet. Prima, et secunda Cellula sit Numeris repleta: Tertia uerò fac Numero careat: Quarta, quinta, septima, Nona, decima, duodecima, decimaquarta, decimaquinta, et decima septima Numerum detinebunt. E conuerso tertiam, sextam, octauam, Vndecimam, decimamtertiam, et decimam sextam uacuas cole [?]., et sic de cęteris intellige; itaut prima, et ultima Cellula uniuscuiusque Ordinis teneant Numerum, ut melius percipies apposito Exemplo, desumpto ex primo Quęsito superius exhibito.
+
+Sinistrę Rhomboidis Exemplum.
+
+[DIAGRAM: rhomboid grid of cells, 6 rows on a 5-column lattice, read top to bottom, left to right:
+Row 1: one cell, column 3: A.
+Row 2: three cells, columns 2–4: column 2 B. | column 3 empty | column 4 C.
+Row 3: five cells, columns 1–5: column 1 D. | column 2 empty | column 3 E. | column 4 empty | column 5 F.
+Row 4: five cells, columns 1–5: column 1 G. | column 2 empty | column 3 H. | column 4 empty | column 5 I.
+Row 5: three cells, columns 2–4: column 2 K. | column 3 empty | column 4 L.
+Row 6: one cell, column 3: M.]
+
+Duo tamen

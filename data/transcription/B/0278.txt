@@ -1,0 +1,42 @@
+28
+
+[DIAGRAM: Grid of 12 rows by 11 columns, read left to right, top to bottom. Empty cells are marked "—". The first column holds left-hand marginal numbers and the last column holds right-hand marginal numbers.]
+8 | 7 | 4 | 4 | 2 | 3 | 4 | 8 | 0 | 1 | —
+— | 1 | 3 | 4 | 1 | 6 | 0 | 0 | 2 | 4 | 10
+11 | 0 | 3 | 3 | 7 | 6 | 5 | 3 | 3 | 4 | —
+— | 0 | 4 | 8 | 8 | 7 | 8 | 2 | 3 | 0 | 15 [a cross "+" is written above the 15]
+3 | 1 | 6 | 3 | 7 | 7 | 2 | 2 | 5 | 7 | —
+— | 8 | 7 | 3 | 10 | 13 | 2 | 8 | 8 | 4 | 12
+4 | 3 | 6 | 3 | 4 | 10 | 8 | 8 | 2 | 3 | —
+— | 3 | 9 | 2 | 4 | 8 | 7 | 5 | 3 | 3 | 4 [a cross "+" is written after the 4]
+5 | 6 | 3 | 0 | 3 | 8 | 8 | 4 | 3 | 4 | —
+— | 0 | 3 | 2 | 7 | 3 | 7 | 4 | 2 | 6 | 11
+10 | 0 | 5 | 8 | 1 | 2 | 7 | 5 | 8 | 7 | —
+— | 5 | 7 | 3 | 2 | 2 | 8 | 8 | 3 | 1 | 8
+
+P. 12. R.P. 144. Q. M. 11. R.M. 121. Q.
+P. 8. R.P. 64. Q. M. 4. R.M. 16. Q.
+
+P. 4. R.P. 80. Q. M. 7. R.M. 105. Q.
+
+[DIAGRAM: Boxed list at left, headed "Additio.", one entry per line:]
+Additio.
+P. 3. R.P. .... 9. Q.
+P. 4. R.P. 16. Q.
+P. 5. R.P. .... 25. Q.
+P. 10. R.P. 100. Q.
+P. 39. R.P. 1521. Q.
+[rule]
+P. 61. R.P. 1671. Q.
+
+Multiplicatio.
+
+P. 4. R.P. 80. Q. M. 7. R.M. 105. Q.
+per .... P. 61. R.P. 1671. Q.
+
+P. 6684. C.P. 133680. QQ. M. 11697. C.M. 175455. QQ.
+P. 244. Q.P. 4880. C. M. 427. Q.M. 6405. C.
+
+M. 183. Q.M. 6538. C.M. 41775. QQ.
+
+[MARGIN: At the left edge, part of a facing-page circular diagram is visible. At the top, faint show-through of text from the other side of the leaf.]

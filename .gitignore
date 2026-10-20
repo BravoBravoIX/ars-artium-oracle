@@ -1,0 +1,6 @@
+# Rebuilt by code/run_all.sh from the fetched sources (Latin reference text); not redistributed
+work/
+# Sources fetched by scripts/fetch_sources.sh
+sources/downloads/
+__pycache__/
+.ruff_cache/

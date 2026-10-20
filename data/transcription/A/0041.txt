@@ -1,0 +1,44 @@
+44.
+
+tis Cellulas ut plurimum occupant. Nam aliquando ad conficiendam
+primam Medietatem, duo, tres, uel plures uacant Cellulę; i=
+circò antequam de secunda Medietate eiusdem Rhomboidis
+aliquid dicatur; oportet prius Formam inscribere [underlined], qua
+ubi possis, quotiescumque in Superiori Medietate uacuas
+Cellulas inueneris, quas ultima illa linea replere non ualuit.
+
+Pro prima ergo Cellula, quę in Superiori hac Medietate
+uacua superesset; accipe Numerum primę Cellulę dictę
+Rhomboidis dextrę, ipsumque comparabis cum Numero pri=
+mę Cellulę Rhomboidis Sinistrę; ipsorumque differen=
+tiam in vacua illa post iam confectas repone.
+
+Pro secunda uacua existente in hoc ultimo Ordine
+primę Medietatis, elicies differentiam eiusdem primę Cel=
+lulę Rhomboidis dextrę cum Numero primo angulari [underlined]
+exterioris latus Rhomboidis Sinistrę comparatę. At hic
+pro uera cognitione Angulorum Rhomboidum sciendum,
+quod unaquęque Rhomboides quatuor Angulos continet; quo=
+rum Unus Superior [underlined] dicitur, estque Cellula illa prima A [underlined]
+signata. Secundus est Interior [underlined] Angulus, qui constat duplici
+Cellula, et dicimus illum S.T. [underlined] signatum. Tertius inferior [underlined]
+Angulus nuncupatur, et est Cellula Q [underlined] inscripta. Ultimus
+tandem Angulus secundò diametraliter oppositus est ille,
+qui duo pariter comprehendit Cellulas, quem placuit si=
+gnare ✝, et X, ut uides.
+
+[DIAGRAM: rhomboid grid of five rows, laid out as a cross/diamond, columns numbered 1–5 from left to right.
+Label above: "Angulus Superior"
+Row 1 (single cell, column 3): 3.A
+Row 2 (columns 2–4): empty | empty | empty
+Row 3 (columns 1–5): S. | empty | empty | empty | 13.✝
+Row 4 (columns 1–5): T. | empty | empty | empty | X.
+Row 5 (columns 2–4): 1. [?] | empty | 7.
+Row 6 (single cell, column 3): 5.Q
+Label to the left of rows 3–4: "Angulus Interior"
+Label to the right of rows 3–4: "Angulus Exterior"
+Label below: "Angulus Inferior"]
+
+Pro tertia
+
+[MARGIN: at the left edge, fragments "pr" and "li" from an underlying leaf; at the right edge, fragments of the facing page; not part of this page]

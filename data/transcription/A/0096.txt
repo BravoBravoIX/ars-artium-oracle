@@ -1,0 +1,14 @@
+101
+
+quarta quartum &c. si tamen ibi tertium, et quartum, reliquos=
+que omnes forent connotatos.
+
+Attamen cum in Tabulis _duo tantum_ in unaquaque Diuisione sint Numeri adnotati, idcircò ad habendum, et tertium, et quartum sic operabis. Obserua diligenter _quan=tum distet_ primus à Secundo, scilicet, differentiam proportio=nalem inter hunc, et hunc positam; nam Secundum hanc distantiam tertium, et quartum generabis. Et ut melius Exemplo res innotescat. Si egisses Numero tertio proportio=nalitatis _Quintuplę_ sub prima Tabula positę, obserua, quę Quantitas inter primum, et Secundum Numerum ibi adscriptum comprehendatur. Et quià inter Numeros _5_, et 9 illi propor=tioni Quintuplę in Tabulis adscriptos, quatuor distant Vnitates, idcircò tertius Numerus erit _13_, qui quatuor distat pariter Vnitates à secundo, nempè 9, sicuti, et quartus Numerus eadem Causa foret _17_.
+
+Secundò sciendum sequentes progressiuas proportiones tribus in Tabulis conscriptas _comprehendere tres tantum Natu=rales Species Proportionum_; _Multiplices_, scilicet, _Superparti=culares_, et _Superpartientes_; nulla ibi facta demonstratione de duobus reliquis non simplicibus, sed _Compositis_: uti sunt _Multiplices Superparticulares_, et _Multiplices Superpartientes_. Nam sicuti istę duo Proportionalitates, (quorum Tabulas in Opere relinquimus) realiter nil aliud essentiâ demonstrant, quam simplicem quandam unionem simplicium naturalium progressionum, quas in tribus inscriptis Tabulis adnotauimus; iuremeritò eas amisimus, pręmissam breuitatem hoc modo exe=quentes. At cum posteà animaduerterem esse in Responsionum Operatione etiam Compositas has Progressiones necessarias, eo quod persępè occurrant, Methodum itaque, quo ipsis utamur facil=limè ostendam.
+
+[MARGIN: # (right margin, beside the line "...esse in Responsionum")]
+
+Si Progressio Composita tibi necessaria fuerit _Multiplex Superparticularis_, tunc obseruata eius denominatione (quę semper ex multiplici, et Superparticulari componi necesse est) iungenda erit quantitas, ostensâ _Multiplicium_ ostensa,
+
+[Underscores mark words underlined in the MS.]

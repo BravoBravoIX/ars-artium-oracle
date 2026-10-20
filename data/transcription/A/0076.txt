@@ -1,0 +1,13 @@
+79
+
+De Septima Operatione,
+ubi de Reductione, Subductione, et Multiplicatione,
+ac diuisione Algebrica, et qua forma hec perfi=
+ciantur pertractatur.
+Cap: VIII.
+
+Antequam de Algebricis Operationibus loquamur aliquid, huius Scientie Principia, et Regulas conscribere necesse foret; sed quià huius prime Partis intentio fuit, Opus solum absque ulla rerum congruarum intermissione conscribere, idcircò in secunda huius Operis Parte, omnes Cossice Artis regulas inse= rere, et latè conscribere non piguit, potius ad Operis perfectio= nem, quam ob Operantis indigentiam: Opinantes Neminem tam audacter pedes hoc in itinere posuisse, ni prius Alge= bricas possideret Regulas omnes. Quare supposita totalis Matheseorum Cognitio^ne^ ad practicam accedamus, et primum de Subductione discurrendum, ueluti que prima in occursum uenit Operanti.
+
+Scias igitur, non aliundè Subductionem eruendam, quam à Quantitatibus Aureum Numerum componentibus; Nam Numeri, seu potius Quantitates primam differentiam efformantes primam, seu Superiorem Subductionis lineam constituunt: Quantitates uerò, que secundam efficiunt Aurei Numeri differentiam, alte= rum, seu inferiorem Subductionis Ordinem statuunt. Sed tam in Superiori, quam in inferiori Subductionis huius area sedulò est obseruandum, que ipsius linee Quantitas maior sit, scilicet, an prima sit, uel secunda; Nam ubi maiorem reperies Quanti= tatem, ibi literam P adnotabis; ubi uerò Minor fuerit M adscri= betur, et Characteres Quantitatis qualitatem demonstrantes tuum sit opus lineare, tam in Radicibus, quam in earum Quadratis. Vide quoque ne hâs [?] Radices ex suis permutentur locis; nam sicuti in Extractione Numeri Aurei operatum fuit, ita sic in Subductione operare, scilicet, que à dextra illuc, hic quoque ad dextram pones, que à sinistra ad sinistram. Sed accipe huius Subductionis Exemplum ex Operatione de mei Fratris Captiuitate desumptum.
+
+[MARGIN: left edge, show-through/fragments from facing leaf: "dices no[...]", "[...]d non", "Sinistra[...]", "De Septim[...]"]

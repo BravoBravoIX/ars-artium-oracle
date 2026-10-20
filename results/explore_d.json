@@ -1,0 +1,7 @@
+{
+ "lower_root1=False,skipped_root=False": 70,
+ "lower_root1=False,skipped_root=True": 90,
+ "lower_root1=True,skipped_root=False": 87,
+ "lower_root1=True,skipped_root=True": 107,
+ "n": 108
+}

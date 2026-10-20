@@ -1,0 +1,43 @@
+27
+
+in quo de Cognomine Pontificis eligendi post mortem Pij quarti
+Florentini petitio est, Quesiti Dictiones impari Numero constant,
+idcirco ut ibi Numerum proportionalem correspondentem ultime
+Summe elicias, scilicet, Summe 359., ut hic inferius patet
+Exemplo, sumantur duo Medij linee illius ultime; qui Numeri,
+ut cernes, sunt 1. et 0., quorum differentia est 1., quam Diffe-
+rentiam conscribes inter ipsos forma sequenti, habebisque hoc
+pacto proportionalem ultimum linee Quarte coherentem
+ultime Summe, scilicet, 359., Sed accipe Exemplum.
+
+[DIAGRAM: numerical figure of seven rows, read left to right. Dotted zigzag lines join the rows 3–4 and 6–7 as described.
+Row 1: 16. | 225. | 376. | 99. | 300. | 295. | 78. | 460. | 359.
+Row 2: 4. | 02. | 31. | 0. | 30. | 64. | 0. | 16. | 13.
+Row 3: 4. | 2. | 4. | 0. | 3. | 10. | 0. | 7. | 4.
+Dotted zigzag lines run down from the row 3 numbers to the row 4 numbers, which sit between and below them.
+Row 4 (8 numbers, each below the gap between two row 3 numbers): 2. | 1. | 4. | 2. | 6. | 10. | 6. | 3.
+Row 5 (struck through with a line, 8 numbers): 20 | 12 | 04 | 10 | 23 | 010 | 50 | 40
+Row 6 (8 numbers): 2. | 0. | 3. | 1. | 0. | 9. | 5. | 4.
+Dotted lines run down from the 4th and 5th numbers of row 6 (1. and 0.) and meet at a single number below.
+Row 7: 1. (centred below the 1. and 0. of row 6)]
+
+At si Quesiti dictiones erunt pares Numero, et quantitate,
+tunc ad ueniendum proportionalem pro ultima summa eiusdem
+Quesiti comparabis primum Numerum ultime linee cum me-
+dio Numero eiusdem linee; ipsorumque differentiam, (ut supra
+dixi) uel mente notabis, uel saltem ad euitandos errores sub
+ipsa quarta linea inter primum, et medium collocabis. Dein-
+de non absimili studio obseruabis [?] eumdem Medium cum ul-
+timo eiusdem linee quarte, differentiamque ex opposito al-
+terius differentie habite inter Medium, et ultimum con-
+scribes. Deinde he differentie elicite pariter inter se
+comparentur, eruens ex eis Quartum proportionalem corre-
+spondentem ultime summe Quesiti. V. G. In altero Exem-
+plo superius exarato ex equali dictionum Numero composito,
+adest pro primo Numero ultime linee 0., et Numerum
+medium eiusdem linee quarte esse conspicies 1., quorum
+Differentia est 0. (nam Minoris cum Maiore est comparatio)
+quam sub hac linea inter eos depono. Deinde comparare
+eumdem medium Numerum scil. 1. cum ultimo Numero
+
+[MARGIN: left edge, fragments of writing from the facing page are visible and cut off, including "linea", "linea", "linea", "te", "com", "um", "0,", "41", "31", "in"; the rest is illegible [...]]

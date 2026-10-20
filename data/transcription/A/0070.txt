@@ -1,0 +1,23 @@
+73
+
+Schema.
+
+[DIAGRAM: square grid of 12 rows × 11 columns. Above the grid: "A." over the left side and "B." over the right side. Below the grid: "A." under the left side and "B." under the right side. Rows are read top to bottom and columns left to right.
+Row 1: outer left label "A" | col.1 ℞ | col.2 "1." | col.3 "2." | col.4 "3." | col.5 "4." | col.6 "5." | col.7 "6." | col.8 "7." | col.9 "8." | col.10 "9" | col.11 blank
+Row 2: col.1 blank | col.2 "2." | cols.3–10 blank | col.11 ℞ | outer right label "M."
+Row 3: outer left label "B." | col.1 ℞ | col.2 "3." | cols.3–11 blank
+Row 4: col.1 blank | col.2 ".4." (dot before the number) | cols.3–10 blank | col.11 ℞ | outer right label "L."
+Row 5: outer left label "C" | col.1 ℞ | col.2 "5." | cols.3–11 blank (small arrow-like stroke at the lower left of the cell)
+Row 6: col.1 blank | col.2 "6." | cols.3–10 blank | col.11 ℞ | outer right label "K."
+Row 7: outer left label "D." | col.1 ℞ | col.2 "7." | cols.3–11 blank (small arrow-like stroke at the lower left of the cell)
+Row 8: col.1 blank | col.2 "8." | cols.3–10 blank | col.11 ℞ | outer right label "I."
+Row 9: outer left label "E" | col.1 ℞ | col.2 "9." | cols.3–11 blank
+Row 10: col.1 blank | col.2 "10." | cols.3–10 blank | col.11 ℞ | outer right label "H."
+Row 11: outer left label "F" | col.1 ℞ | col.2 "11." | cols.3–11 blank
+Row 12: col.1 blank | col.2 "12." | cols.3–10 blank | col.11 ℞ | outer right label "G."]
+
+Hic pariter tamen Radices, quę in opere + obsignarentur, eodem signo, scilicet + sunt afficiendę, ut hic superius inscripto Exemplo, seu Ciphra factum esse conspicies.
+
+Post Radicum in Ciphrę Ordinibus lineationem reliquę omnes eiusdem Ciphrę Cellulę sunt inscribendę, quod sic assequeris.
+
+Accipe eiusdem Quęsiti Orbitę numerum primum, ille, scilicet, qui in superiori Semicirculi dextri Semidiametro primus inscriptus est, et sequenti Exemplo de Electione summi Pontificis [underlined: Electione summi Pontificis] litera A signatus, atque ipsum in prima Cellula primi Ciphrę tuę Ordinis eadem litera A, signata repone: Deinde ad secundum Numerum Co=lumnę primę eiusdem Semicirculi dextri transibis, ibique Nume=rum litera B notatum, in secunda Cellula plano ordine inscripta, et eadem litera lineata inseres. Tertium postea accipies Numerum Columnę secundę Semicirculi dextri litera C inscriptum, in tertia Ciphrę Cellula, quę eadem litera C pariter indicatur, designabis: hinc ad quartum tertię Columnę eiusdem Semicirculi Numerum D signa=tum accedas, et in quarta Ciphrę Cellula D signata repone. Pro quinta uerò Cellula eiusdem Ciphrę, quę litera E conscribitur [?], quintum ultimę Columnę illius Semicirculi Numerum consimili litera E connotatum, cape. Sextum posteà Numerum Semidiametri inferioris Semicirculi dextri litera F signatum accipe, et in sexta eiusdem Ciphrę Cellula, in qua literam F cernes, lineabis. Vbi deindè litera G in inferiori sinistri Semicirculi Semidiametro conspicies,

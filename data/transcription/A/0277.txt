@@ -1,0 +1,66 @@
+483 [?] [folio number at top left; a digit is overwritten or struck through]
+
+Romboides Sinistra          Romboides dextra [?]
+
+[DIAGRAM: Two rhomboid grids at the top. Each grid has 8 rows and is up to 7 columns wide. Their lowest cells run into two curved branches. The branches join at a central stem. The stem leads into a figure of 9 concentric rings, open at top and bottom along the central axis.]
+
+[DIAGRAM: Left rhomboid ("Romboides Sinistra"). Rows top to bottom. Cells are given left to right; empty cells are shown as blank.
+Row 1 (column 4 only): 3
+Row 2 (columns 3–5): 3 | | 3
+Row 3 (columns 2–6): 6 | | 12 | | 4
+Row 4 (columns 1–7): 5 | | 6 | | 1 | | 0
+Row 5 (columns 1–7): 0 | | 2 | | 5 | | 8
+Row 6 (columns 2–6): 0 | | 0 | | 5
+Row 7 (columns 3–5): 0 | | 4
+Row 8 (column 4 only): 3]
+
+[DIAGRAM: Right rhomboid ("Romboides dextra"). Rows top to bottom. Cells are given left to right; empty cells are shown as blank.
+Row 1 (column 4 only): 1
+Row 2 (columns 3–5): 1 | | 1
+Row 3 (columns 2–6): 4 | | 0 | | 0
+Row 4 (columns 1–7): 0 | | 2 | | 4 | | 1
+Row 5 (columns 1–7): 1 | | 0 | | 2 | | 0
+Row 6 (columns 2–6): 2 | | 1 | | 1
+Row 7 (columns 3–5): 0 | | 0
+Row 8 (column 4 only): 0]
+
+[DIAGRAM: Between the two grids, at centre: ℞. 8.]
+
+[DIAGRAM: Branches.
+Left branch, read from the bottom of the left grid down to the junction: 8. 8. 2. 5.
+Right branch, read from the bottom of the right grid down to the junction: 7. 8. 8. 7.
+Junction at centre: ·11·]
+
+[DIAGRAM: Upper ends of the rings along the central axis. Rows top to bottom, given as left ring-end | centre | right ring-end:
+Row 1: 5. | 3. | 7.
+Row 2: 5. | | 7.
+Row 3: 2. | 4. | 8.
+Row 4: 3. | | 7.
+Row 5: 8. | 5. | 8.
+Row 6: 8. | | 7.
+Row 7: 8. | 10. | 8.
+Row 8: 5 | † | 8.
+Row 9: 0 | 15. | 7.]
+
+[DIAGRAM: Numbers written inside the rings. Each group is read from the outermost ring (1) to the innermost ring (9).
+Left side, upper quadrant (diagonal row): 0. | 3. | 0. | 4. | 10. | 2. | 2. | 3. | 4.
+Left side, middle (horizontal row): 0. | 3. | 2. | 4. | 10. | 2. | 2. | 3. | 4.
+Left side, lower (diagonal row): 6. | 9 | 3. | 10. | 7. | 8. | 0 [?] | 2. [?] | 1.
+Left side, bottom quadrant (diagonal row): 3. | 6. | 3. | 7. | 1. | 5 | 0. | 0. | 1.
+Right side, upper quadrant (diagonal row): 1. | 4. | 3. | 1. | 3. | 8. | 5. | 2. | 4.
+Right side, middle (horizontal row): 0. | 3. | 4. | 2. | 2. | 7. | 4. | 3. | 3.
+Right side, lower (diagonal row): 0. | 3. | 4. | 2. | 2. | 7. | 4. | 3. | 3.
+Right side, bottom quadrant (diagonal row): 1. | 4. | 3. | 1. | 3. | 8. | 5. | 2. | 4.]
+
+[DIAGRAM: Lower ends of the rings along the central axis. Rows top to bottom (innermost ring first), given as left ring-end | centre | right ring-end:
+Row 1: 1 | | 9
+Row 2: 3. | 12. | 8.
+Row 3: 3 | | 8.
+Row 4: 8. | † | 8.
+Row 5: 2. | 4 | 4.
+Row 6: 6 | | 6.
+Row 7: 8. | 11. | 7.
+Row 8: 3. | | 8.
+Row 9 (below the outermost ring): 1. | 8. | 9]
+
+[MARGIN: Part of the next leaf shows at the right edge. It contains a ruled table headed "...ditio" [?], with six rows each ending "...R.P..." [partly cut off]]

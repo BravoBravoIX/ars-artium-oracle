@@ -1,0 +1,18 @@
+27
+
+in quo de Cognomine Pontificis eligendi post mortem Pij quarti Florentini petitio est, Quesiti Dictiones impari Numero constant, idcirco ut ibi Numerum proportionalem correspondentem ultime Summe elicias, scilicet, Summe 359. ut hic inferius patet Exemplo, sumantur duo Medij linee illius ultime; qui Numeri, ut cernes, sunt 1. et 0. quorum differentia est 1. quam diffe-rentiam conscribes inter ipsos forma sequenti, habebisque hoc pacto proportionalem ultimum linee Quarte coherentem ultime Summe, scilicet, 359. sed accipe Exemplum.
+
+[DIAGRAM: numerical triangle, rows read left to right, top to bottom; dotted lines join each pair of adjacent numbers in row 3 to the number between and below them in row 4 (zigzag)
+Row 1: 16. | 225. | 376. | 99. | 300. | 295. | 78. | 460. | 359.
+Row 2: 4. | 02. | 31. | 0. | 30. | 64. | 0. | 16. | 13.
+Row 3: 4. | 2. | 4. | 0. | 3. | 10. | 0. | 7. | 4.
+Row 4 (set between the row 3 numbers): 2. | 1. | 4. | 2. | 6. | 10. | 6. | 3.
+Row 5 (each number struck through): 20 | 12 | 04 | 10 | 23 | 010 | 50 | 40
+Row 6: 2. | 0. | 3. | 1. | 0. | 9. | 5. | 4.
+Row 7: 1. (centred below the 1. and 0. of row 6, the 4th and 5th entries, and joined to them by dotted lines)]
+
+[MARGIN: small mark ≡ in left margin beside "At si"]
+
+At si Quesiti dictiones erunt pares Numero, et quantitate, tunc ad uenandum proportionalem pro ultima summa eiusdem Quesiti comparabis primum Numerum ultime linee cum me-dio Numero eiusdem linee; ipsorumque differentiam, (ut supra dixi) uel mente notabis, uel saltem ad euitandos errores sub ipsa quarta linea inter primum, et medium collocabis. dein-de non absimili studio obseruabis eumdem Medium cum ul-timo eiusdem linee quarte, differentiamque ex opposito al-terius differentie habite inter Medium, s. et ultimum con-scribes. Deinde he differentie elicite pariter inter se comparentur, eruens ex eis Quartum proportionalem corre-spondentem ultime summe Quesiti. V. g. In altero Exem-plo superius exarato ex equali Dictionum Numero composito, adest pro primo Numero ultime linee 0. et Numerum medium eiusdem linee quarte esse conspicies 1. quorum Differentia est 0. (nam Minoris cum Maiore est comparatio) quam sub hac linea inter eos depono. Deinde comparare eumdem medium Numerum scil. 1. cum ultimo Numero
+
+[MARGIN: line-ends of the facing (left-hand) leaf are visible at the left edge of the image and are not part of this page: Supini[?] | nem | linea | linea | linea | linea | i le | com | um | 0. | 41. | 31. | en | nte | in | que | po[...] | dij | om | lij | 9J[?] | no[?]]

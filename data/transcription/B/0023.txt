@@ -1,0 +1,41 @@
+26
+
+constituendam. Sed accipe Exemplum desumptum ex superius
+prescripta Petitione, ut clarius primam hanc operationem
+percipias.
+
+An Antonius Pacutus Venetus Mercaturam
+exercebit.
+
+[DIAGRAM: numerical triangle/rhomboid with dotted connecting lines, read left to right, top to bottom:
+Row 1: 41. | 530. | 654. | 640. | 530. | 509.
+Row 2: 3. | 23. | 21. | 24. | 23. | 58. — Prima linea
+Row 3: 3. | 5. | 2. | 6. | 5. | 13. — Secunda linea
+Row 4 (staggered, each number lying below the gap between two numbers of row 3, joined by dotted lines): 2. | 3. | 3. | 1. | 7. — tertia linea
+Row 5 (struck through, above the fourth line): 23 | 21 | 02 | 53 | 15
+Row 6: 0. | 1. | 1. | 2. | 3. — quarta linea
+Row 7 (staggered, joined by dotted lines): 0 | 1
+Row 8 (single apex at lower left of centre, dotted lines): 0 — Extremum linee quarte, ut in se=
+quentibus dicetur.]
+
+Sed quia hi Numeri quarte linee retinent corre
+lationem, et correspondentiam cum summis Dictionum,
+eoquod primus Numerus huius quarte linee, qui est 0,
+cum prima coaptatur Summa, et correspondet, quee est 41,
+Ita et Secundus, qui est 1. cum Secunda Summa, quee est 530:
+et tertius cum tertia, et Sic de reliquis. Idcirco cum Numeri
+tertie, et quarte linee medium teneant locum inter ante=
+cedentem, et subsequentem Numerum linee Secunde, ut in
+Superiori Exemplo videre est, Ultima ergo Quesiti summa, quee
+est 509 tali proportionali Numero ei coherenti carebit, quod
+ut assequaris, Sic operare.
+
+Si Quesiti tui Dictiones tunc accepti Numeri duo medij
+ultimee linee huius operationis, ipsos Medios more solito com=
+parabis, eorumque differentia erit Quartus proportionalis
+linee quarte correspondens ultimee summe Dictionum. V.g.
+In Exemplo superius exhibito in primo huius Operis Capite
+in quo
+
+[MARGIN: left edge, lower: "pr" / "li" (partly cut off) [?]]
+[MARGIN: right edge: fragments of text from the facing page, cut off and mostly illegible, including "Summa", "Exemplum", "ut ser[...]" [...]]

@@ -1,0 +1,35 @@
+216.
+
+[Page otherwise blank: an empty ruled frame with a heading box, a header row of three column-pairs, and a wide unruled area on the right. There is no ink entry on this side apart from the folio number. Everything below is reversed show-through from the other side of the leaf. It is read in mirror image and is not written on this page.]
+
+[SHOW-THROUGH, heading: Progressiones Geometricae proportionatae [?] / Equalitatis dictae [?]]
+
+[SHOW-THROUGH, column headings, read in mirror: in 9. D. | in 6. T. [?] | in 99. Q. [?]]
+
+[SHOW-THROUGH, row labels, top to bottom, each followed by a dotted leader; the table cells are empty:
+Equalitas Monadis ……… | | | | | |
+Equalitas Binarij ……… | | | | | |
+Equalitas Ternarij ……… | | | | | |
+Equalitas Quaternarij ……… | | | | | |
+Equalitas Quinarij ……… | | | | | |
+Equalitas Senarij ……… | | | | | |
+Equalitas Septenarij ……… | | | | | |
+Equalitas Octonarij ……… | | | | | |
+Equalitas Novenarij ……… | | | | | |
+Equalitas Denarij ……… | | | | | |
+Equalitas Undenarij [?] ……… | | | | | |
+Equalitas Duodenarij ……… | | | | | |
+Equalitas Terdenarij [?] ……… | | | | | |
+Equalitas Quatuordenarij [?] ……… | | | | | |
+Equalitas Quindenarij [?] ……… | | | | | |
+Equalitas Sexdenarij [?] ……… | | | | | |
+Equalitas Septendenarij [?] ……… | | | | | |
+Equalitas Octodenarij [?] ……… | | | | | |
+Equalitas Novendenarij [?] ……… | | | | | |
+Equalitas Vigenarij [?] ……… | | | | | |
+Equalitas Trigenarij [?] ……… | | | | | |
+Equalitas Quadragenarij [?] ……… | | | | | |
+Equalitas Quinquagenarij [?] ……… | | | | | |
+Equalitas Infiniti [?] ……… | | | | | |]
+
+[MARGIN, facing recto visible at right edge, cut off: Capit[...] / Praefatio [...] / De Quar[...] / De prima [...] / De secund[...] / extra[...] / De Tertia [...] / mathe[...] / digni[...] / tract[...] / De Quar[...] / atque [...] / ac uer[...] / De Quin[...] / extrac[...] / De Sexta [...] / struct[...] / Num[...] / De Septi[...] / itione [?] [...] / et qua[...] / De Octau[...] / uia p[...] / Metho[...]]

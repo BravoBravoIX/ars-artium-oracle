@@ -1,0 +1,24 @@
+[fol./p. 53 [?] (bottom right corner, faint)]
+
+Romboides Sinistra                Romboides dextra
+
+[DIAGRAM: Two rhomboid grids at the top of the page. Each grid's lower stem runs into a curved band ("branca"). The two bands meet at a central vertical channel, which opens into six concentric rings below.
+
+Left rhomboid ("Romboides Sinistra"). Rows are read top to bottom and cells left to right; blank cells are left empty:
+Row 1 (1 cell, central column): 3
+Row 2 (3 cells): 5 |  | 2
+Row 3 (5 cells): 6 | · | 5 |  | 13
+Row 4 (7 cells): | 1 |  | 3 |  | 3 |
+Row 5 (7 cells): |  | 1. |  | 7. |  |
+Row 6 (5 cells): | | | |
+Row 7 (3 cells): | |
+Below row 7, the central column continues downward as the stem into the curved band labelled "Branca Sinistra."
+
+Right rhomboid ("Romboides dextra"): the grid has the same shape (rows of 1, 3, 5, 7, 7, 5 and 3 cells, with a central stem). All cells are empty. The stem continues into the curved band labelled "Branca dextra."
+
+Concentric rings ("Semicircul. dexter" written vertically along the right ring). There are six rings, numbered at their open ends beside the central channel. Read from the outermost ring (top) to the innermost ring (bottom):
+Left ends: ·12· | ·15· (boxed) | ·15· | ·10· (boxed) | ·11· | ·13· (boxed)
+Right ends: ·16· | ·16· (boxed) | ·15· | ·14· (boxed) | ·15· | 16· (boxed)
+The rings remain open at the bottom, beside the central channel.]
+
+[MARGIN, vertical, right side: Semicircul. dexter]

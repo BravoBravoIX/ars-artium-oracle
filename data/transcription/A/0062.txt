@@ -1,0 +1,33 @@
+65
+
+Numero litera D inscripto initium desumendum credas, ut superius facien= dum prescripsi [?], et apposito letrò [?] notabis exemplo.
+
+[DIAGRAM: Two stepped grids ("rhomboides") at the top, each joined to the central column by a curved "branca". Below them is a large figure of concentric rings split into two semicircles. All grid cells are empty: no numbers or letters are written in them.
+
+Upper left: heading "Rhomboides Sinistra". The stepped grid of empty cells widens from a narrow top column to its widest across the middle rows, then narrows again.
+- Above it: "Angulus Superior".
+- Upper left edge: "cellulę".
+- Left end, written vertically: "Angulus exterior".
+- Lower left edge: "Exteriores".
+- Right side, written vertically: "Angulus inferior".
+- Below the grid, at the root of the branch: "Angulus inferior".
+- Curved band (branch), read from left to right: "D. C. B. A."
+- Beneath the band: "Branca Sinistra".
+
+Upper right: heading "Rhomboides Dextra". The empty stepped grid mirrors the left one.
+- Above it: "Angulus Superior".
+- Upper right edge, written inverted: "Exteriores".
+- Right end, written vertically: "Angulus exterior".
+- Lower right edge: "Cellulę".
+- Left side, written vertically: "Angulus inferior".
+- Below the grid, at the root of the branch: "Angulus inferior".
+- Curved band (branch), read from left to right: "A. B. C. D."
+- Beneath the band: "Branca Dextra".
+
+Central column, read from top to bottom: "P." between the two grids, then "Q:" between the two branches, then "R. S. T. V. X." against the openings of the rings at the top of the circle, then "Y Z. Q. P." against the openings of the rings at the bottom of the circle.
+
+Lower figure: concentric rings, about five bands bounded by six lines. The rings are open at the centre top and bottom, where the central letters stand. Dashed radial lines divide each semicircle into quarters.
+- Left semicircle: labelled "Semicirculus Sinister", written vertically in the left margin area. Outer letters read from top going counter-clockwise: "D." (upper), "C." (left upper), "B." (left lower), "A." (bottom, written inverted).
+- Right semicircle: labelled "Semicirculus Dexter", written vertically on the right. Outer letters read from top going clockwise: "A." (upper), "B." (right upper), "C." (right lower), "D." (bottom, written inverted).]
+
+[MARGIN: at the left edge, line-ends of the facing page (verso) are visible, cut off and illegible as connected text: "...Numero... ...Sinistro... ...Semic... ...A pona..." [...]]

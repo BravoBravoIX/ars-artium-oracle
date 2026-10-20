@@ -1,0 +1,46 @@
+276 Romboides Sinistra. … Romboides Dextra
+
+[DIAGRAM: Left rhomboid grid ("Romboides Sinistra"), a stepped diamond of 8 rows. Numbers sit in alternate cells; blank cells are shown empty. Rows read top to bottom, cells left to right.]
+Row 1 (1 cell): 4
+Row 2 (3 cells): 2 | | 4
+Row 3 (5 cells): 0 | | 3 | | 10
+Row 4 (7 cells): 0 | | 7 | | 4 | | 2
+Row 5 (7 cells): 1 | | 4 | | 2 | | 6
+Row 6 (5 cells): 10 | | 6 | | 3
+Row 7 (3 cells): 4 | | 3
+Row 8 (1 cell): 1
+Labels: above the top cell "1o An: Sup"; left of rows 4–5 "4o An: Inter"; right of rows 4–5 "ext. 3o"; beside the bottom cell "Inf."; below left of the bottom cell "2o".
+
+[DIAGRAM: Right rhomboid grid ("Romboides Dextra"), same layout, rows top to bottom, cells left to right.]
+Row 1 (1 cell): 2
+Row 2 (3 cells): 0 | | 3
+Row 3 (5 cells): 1 | | 0 | | 9
+Row 4 (7 cells): 5 | | 4 | | 1 | | 1
+Row 5 (7 cells): 2 | | 1 | | 1 | | 1
+Row 6 (5 cells): 1 | | 2 | | 6
+Row 7 (3 cells): 2 | | 0
+Row 8 (1 cell): 2
+
+[DIAGRAM: Centre between the grids: cross above, then "℞·16." The grids run into curved branches meeting at the centre.]
+Left branch, read from the grid down to the centre: 16. | 14. | 6. | 12.
+Right branch, read from the grid down to the centre: 7. | 13. | 10. | 16.
+Junction of the branches: cross above "5."
+
+[DIAGRAM: Nine concentric ring-bands below the stem, split at the central vertical line.]
+Central column, top to bottom: 4. | cross, 13. | 6. | 9. | cross, 20. … (empty interior) … 16. | 11. | cross, 5. | cross, 16.
+Upper ring-ends at the stem, left side, top to bottom (alternate entries boxed): 10. | 15. (boxed) | 12. | 6. (boxed) | 15. | 16. (boxed) | 16. | 14. (boxed) | 12.
+Upper ring-ends at the stem, right side, top to bottom: 14. | 14. (boxed) | 16. | 10. (boxed) | 15. | 15. (boxed) | 7. | 13. (boxed) | 14.
+Lower ring-ends, left side, top to bottom: 2. (boxed) | 1 | 3. (boxed) | 1 | 1. (boxed) | 2. | 2. (boxed) | 1.
+Lower ring-ends, right side, top to bottom (written inverted): 5. (boxed) | 1 | 4. (boxed) | 3. | 4 (boxed) | 4. | 0 (boxed) | 5.
+
+Numbers within the bands, each group read from the outermost band (1) to the innermost band (9):
+Upper left quadrant: 4. | 6. | 4. | 0. | 8. | 6. | 9. | 1. | 11.
+Middle left: 10. | 0. | 2. | 2. | 14. | 4. | 7. | 7. | 9.
+Lower left: 2. | 8. | 5. | 10. | 6. | 8. | 0. | 0. | 1.
+Bottom left: 0 | 10. | 0. | 7. | 7. | 2. | 5. | 2. | 7.
+Upper right quadrant: 9. | 1. | 11. | 6. | 9. | 6. | 13. | 0 | 4.
+Middle right (written sideways): 3. | 4. [?] | 5. | 0. | 3. | 0. | 7. [?] | 6. | 1.
+Lower right (written inverted): 6. | 4. | 8. | 3. | 6. | 3. | 10. | 3. | 1.
+Bottom right (written inverted): 0. | 10. | 2. | 2. | 0 | 2. | 4. [?] | 9. | 4. [?]
+
+[MARGIN: right edge shows part of the facing leaf, with the edge of a grid and rings; illegible [...]]

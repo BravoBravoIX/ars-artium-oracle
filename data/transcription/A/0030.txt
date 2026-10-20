@@ -1,0 +1,42 @@
+33
+
+[MARGIN: Errata [?] | la Copia [?]]
+
+Summa multiplicata per Numerum quartę lineę ei corre-
+spondentem, qui 4. est, productum esse cernes 18400; Linea uerò
+ultima eiusdem correspondentis Pyramidis habet pro Numeris
+10000200, à qua linea secundum regulas subtrahe summam
+predictam multiplicatam scil. 18400, et uidebis Residuum
+huius subtractionis esse 10000160; quem diuides per diui-
+sorem proprium scil. 16, qui in iam dicto subductionis Re-
+siduo donabit pro uero Quotiente quantitatem 62600010,
+absque tamen ullo diuisionis residuo; Idcircò tali casu eum-
+dem diuisorem decernes pro Radice apponenda sub proprias
+pyramidales lineas.
+
+Sextò si ultima linea pyramidalis alicuius dictionis
+à qua secundum notatas regulas subducere necesse est sum-
+mam multiplicatam ei coherentem, fuerit quantitate
+Minor summâ iam multiplicata, undè subtractio fieri
+nequeat; tunc conuersa subtractione perficias; scil. subtrahen-
+do quantitatem lineę pyramidalis à quantitate [?] summę mul-
+tiplicatę; et quidquid ex subtractione superuenerit, pro
+uera Radice sub pyramidali linea conscribes. Verum, quia
+Radicem hanc conuerso ordine extraxisti, seu methodo,
+idcircò + adnotabis. V.G. In primo Exemplo summa
+efformans hoc Verbum An est 41, qui per 1. Numerum
+quartę lineę ei correspondentem multiplicatum, generat
+eamdem summam; eiusque ultima linea pyramidalis
+ei coherens habet pro quantitate uera 1, à quo subduce-
+re 41. frustrà insudares, idcircò conuerso ordine ex eadem summa
+multiplicata scil. 41. subtrahe 1, et remanebit 40, quem
+pro Radice sub ultima pyramidali linea + signatum repo-
+nes: ommissis tali Casu reliquis Operationibus diuisionis alge-
+bricę.
+
+Septimò Si summa alicuius dictionis iam multiplicata
+per Numerum quartę lineę coequabit quantitatem ultimę
+lineę pyramidalis sibi respondenti; itaut facta subtractione
+nihil residui uideatur, tunc ad uenandam Radicem obserua,
+quis Numerus foret huius subductionis diuisor; nam ipsum
+pro Radice in fine Pyramidis collocabis. V.G. In secundo Exemplo

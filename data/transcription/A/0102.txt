@@ -1,0 +1,34 @@
+109
+
+Progressiones Geometricę proportionales
+Superpartientes dictę
+
+ | in Q. Dup. | | in C. Trip. | | in QQ. Quad[?] |
+--- | --- | --- | --- | --- | --- | ---
+Superbipartiens[...] tertias ......... | 5. | 12. | 17. | 22. | 39. | 56.
+Superbipartiens quinctas ......... | 7. | 16. | 23. | 30. | 53. | 76.
+Superbipartiens Septimas ......... | 9. | 20. | 29. | 38. | 67. | 96.
+Superbipartiens Nonas ......... | 11. | 24. | 35. | 46. | 81. | 116.
+Superbipartiens Vndenas ......... | 13. | 28. | 41. | 54. | 95. | 136.
+Superbipartiens Decimas tertias ..... | 15. | 32. | 47. | 62. | 109. | 156.
+Superbipartiens Decimas quinctas ..... | 17. | 36. | 53. | 70. | 123. | 176.
+Superbipartiens Decimas septimas ..... | 19. | 40. | 59. | 78. | 137. | 196.
+Superbipartiens Decimas Nonas ..... | 21. | 44. | 65. | 86. | 151. | 216.
+Superbipartiens Vigesimas primas ..... | 23. | 48. | 71. | 94. | 165. | 236.
+[MARGIN: double stroke] Supertripartiens quartas ......... | 7. | 15. | 22. | 29. | 51. | 73.
+Supertripartiens quinctas ......... | 8. | 18. | 26. | 34. | 60. | 86.
+Supertripartiens Septimas ......... | 10. | 21. | 31. | 41. | 72. | 103.
+Supertripartiens Octauas ......... | 11. | 24. | 35. | 46. | 81. | 116.
+Supertripartiens Decimas ......... | 13. | 27. | 40. | 53. | 93. | 133.
+Supertripartiens Vndecimas ......... | 14. | 30. | 44. | 58. | 102. | 146.
+Supertripartiens Decimas tertias ..... | 16. | 33. | 49. | 65. | 114. | 163.
+Supertripartiens Decimas quartas ..... | 17. | 36. | 53. | 70. | 123. | 176.
+Supertripartiens Decimas Sextas ..... | 19. | 39. | 58. | 77. | 135. | 193.
+Supertripartiens Decimas Septimas ..... | 20. | 42. | 62. | 82. | 144. | 206.
+Supertripartiens Decimas Nonas ..... | 22. | 45. | 67. | 89. | 156. | 223.
+Supertripartiens Vigesimas ......... | 23. | 48. | 71. | 94. | 165. | 236.
+[MARGIN: double stroke] Superquadrupartiens Quinctas ..... | 9. | 19. | 28. | 37. | 65. | 93.
+Superquadrupartiens Sextas ......... | 10. | 21. | 31. | 41. | 72. | 103.
+Superquadrupartiens Septimas ......... | 11. | 23. | 35. | 46. | 81. | 116.
+
+F.

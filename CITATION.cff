@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "The Ars artium oracle: does the machine compute its answers?"
+authors:
+  - family-names: Burford
+    given-names: Brett
+    orcid: "https://orcid.org/0009-0003-6599-8297"
+version: "1.0"
+date-released: 2026-10-20
+repository-code: "https://github.com/BravoBravoIX/ars-artium-oracle"

@@ -1,0 +1,29 @@
+39.
+
+Si uerò ex undecim, duodecim, terdecim, quaturdecim, uel quindecim Dictionibus componetur; Rhomboidem conficies Quindena Cellulâ.
+
+At si ex Decemetsex, Decemetseptem, Decemetocto, Decemetnouem, Viginti, aut Viginti unum Dictionibus constare uidebis, compones Cellulas usque ad Secundam post Septimam Denam.
+
+Si tandem à Vigesima Secunda usque ad Vigesimam octauam Quantitas Dictionum tui Postulati ibi includetur, unaquæque Area Rhomboidis post Nonam Denam etiam octo detinebit Cellulas; ut in Sequentibus Demonstrationibus clarè patet.
+
+Primus Schematismus Rhomboidum inseruientium, ubi Quæsitus quinque, aut sex dictiones continebit.
+
+[DIAGRAM: stepped rhomboid grid of 18 cells, rows read top to bottom and cells left to right, centred:
+row 1 (1 cell): 1.
+row 2 (3 cells): 2. | [blank] | 3.
+row 3 (5 cells): 4. | [blank] | 5. | [blank] | 6.
+row 4 (5 cells): [blank] | [blank] | [blank] | [blank] | [blank]
+row 5 (3 cells): [blank] | [blank] | [blank]
+row 6 (1 cell): [blank]]
+
+Secunda Rhomboidum Demonstratio, quæ petitionibus septem, octo, nouem, aut decem Dictionibus efformatis inseruit.
+
+[DIAGRAM: stepped rhomboid grid of 32 cells, rows read top to bottom and cells left to right, centred:
+row 1 (1 cell): 1.
+row 2 (3 cells): 2. | [blank] | 3.
+row 3 (5 cells): 4. | [blank] | 5. | [blank] | 6.
+row 4 (7 cells): 7. | [blank] | 8. | [blank] | 9. | [blank] | 10.
+row 5 (7 cells): [blank] | [blank] | [blank] | [blank] | [blank] | [blank] | [blank]
+row 6 (5 cells): [blank] | [blank] | [blank] | [blank] | [blank]
+row 7 (3 cells): [blank] | [blank] | [blank]
+row 8 (1 cell): [blank]]

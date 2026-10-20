@@ -1,0 +1,50 @@
+62
+
+Demonstratio
+
+Rhomboides Sinistra                Rhomboides dextra
+
+[DIAGRAM: Left rhomboid ("Rhomboides Sinistra"). This is a stepped, diamond-shaped grid of square cells. The letters are listed row by row, top to bottom. Each row reads left to right, and only the lettered cells are given.
+Row 1 (single top cell): A
+Row 2: B (right part of row)
+Row 3: ah | C
+Row 4: g (left end cell) | b.i | f | D (right end cell)
+Row 5: I (left end cell) | c. | e | E (right end cell)
+Row 6: d. | F
+Row 7: G
+Row 8 (single bottom cell): H
+Labels: "Angulus Superior" (above A); "Cellulæ" (written diagonally along the upper left edge); "Angulus exterior" (vertical, left of g/I); "Angulus interior" (vertical, right of D/E); "exterio= res" (diagonally along the lower left edge); "Angu lus" (left of H) … "infe= rior" (right of H).]
+
+[DIAGRAM: Right rhomboid ("Rhomboides dextra"). This grid is the mirror image of the left one. The letters are listed row by row, top to bottom, each row reading left to right.
+Row 1 (single top cell): A
+Row 2: B (left part of row)
+Row 3: C | a.h
+Row 4: D (left end cell) | b.i | f | g (right end cell)
+Row 5: E (left end cell) | c | e | I (right end cell)
+Row 6: F | d
+Row 7: G
+Row 8 (single bottom cell): H
+Labels: "Angulus Superior" (above A); "exterio= res" (diagonally along the upper right edge); "Angulus interior" (vertical, left of D/E); "Angulus exterior" (vertical, right of g/I); "Angu lus" (left of H) … "infe= rior = Cellulæ" (right of H, along the lower right edge).]
+
+[DIAGRAM: Branches and stem. From the bottom angle (H) of each rhomboid, a curved band runs down to a central vertical stem.
+Left band, reading from the rhomboid toward the stem: D. C. B. A. It is labelled beneath "Branca Sinistra".
+Right band, reading from the stem toward the rhomboid: A. B. C. D. It is labelled beneath "Branca dextra".
+The ℞ sign is written twice in the centre. The first stands between the two rhomboids. The second stands at the junction of the two branches with the stem.]
+
+[DIAGRAM: Two semicircles of nine concentric rings each, set back to back on either side of the stem.
+
+Left semicircle ("Semicirculus Sinister", written vertically along the left side):
+- The upper ends of the rings are lettered at the stem, from outer/top to inner: A. | B. | C. | D. | E. | F. | G. | H. | I.
+- The lower ends of the rings are lettered at the stem, from inner/top to outer/bottom: i | h | g | f | e | d | c | b | a.
+- Four dashed radial lines divide the rings into sectors.
+- Outer labels, reading counter-clockwise from the top: æ (upper left) | mi [?] (left, upper) | af [?] (left, lower) | Co (lower left).
+
+Right semicircle ("Semicirculus Dexter", written vertically along the right side):
+- The upper ends of the rings are lettered at the stem, from outer/top to inner: A. | B. | C. | D. | E. | F. | G. | H. | I.
+- The lower ends of the rings are lettered at the stem, from inner/top to outer/bottom: i | h | g | f | e | d | c | b | a.
+- Four dashed radial lines divide the rings into sectors.
+- Outer labels, reading clockwise from the top: Co (upper right) | lu (right, upper) | mi [?] (right, lower) | æ (lower right).]
+
+D.
+
+[MARGIN: fragments of text from the facing (left-hand) page are visible at the gutter and are only partly legible: …que [?] | …t, [?] | Caus[...] | …bus [?] | …mque | …tiua [?] | …ad con[...] | …t nomi[...] | …eculat[...] | …tonat[...] | …nitate | …locum | …n inde [?] | …a, [?] | …lorum [?] | …semidi[...] | …tam [?] | …quatuor [?] | …ue [?] | …nstrati[...]]

@@ -1,0 +1,23 @@
+84
+
+Residuis ex quatuor Subductionis tuæ, quantitates duo R signatæ simul adiunges; quod etiam de ipsarum Quadratis facito; obseruata hic pariter omni Additionis Algebricæ Exceptione. Deinde inter se quantitates hæ duo Cossica Multiplicatione multiplicabis, quæ sic tertiam generabunt quantitatem suo signo efficiendam C. Scilicet; ut in sequenti Exemplo.
+
+[TABLE, four ruled compartments, top to bottom:]
+P.7.R.P.49.Q.M.5.R.M.25.Q.
+            P.0.R.P.0.Q.
+—
+P.7.R.P.49.Q. | { Adde per Algebram.
+M.5.R.M.25.Q. |
+—
+P.2.R.P.24.Q. | P.24.Q. | { multiplica.
+              | P.2.R.  |
+[a dotted line runs from P.24.Q. / P.2.R. down to P.48.C. in the row below]
+—
+P.2.R.P.24.Q.P.48.C.
+
+Quartum tandem, seu ultimum in Algebricis Operationibus locum Diuisio [underlined] retinet, quæ uarios habet Casus, ut infrà apparebit; atque ipsa in efformandis binis Quotientibus, ac tres Subductionis residuis inter se qualitate dissimilibus tota se occupat. Nam magni esse momenti tam Quotientes, quam Residuos hoc in Opere experientiâ agnosces: quam diuisionem prius ex quibus quantitatibus conficiatur, declarabo.
+[MARGIN: a horizontal stroke in the left margin beside the opening of this paragraph]
+
+Accipe ergo Multiplicationis Summam, seu productionem quauis formâ ob casuum diuersitatem peractam ex tribus (ut ostendimus) quantitatibus constantem; quam ueram Summam loco quantitatis diuidendæ retinebis [underlined from "ueram" to "retinebis"]. Deinde Numerum Aureum superius secundum proprias regulas extractum quadrabis; tam eundem Aureum Numerum, quam ipsiusmet Quadratum litera P. [P. underlined] conscribendo; quod generaliter in quouis Opere seruabis, et hunc loco quantitatis diuidentis [underlined] repone. Deinde per Aureum Numerum primam Quadratorum diuidendorum quantitatem diuidas; et Secundam, Cuborum, scilicet,
+
+per [catchword]

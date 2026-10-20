@@ -1,0 +1,37 @@
+40.
+
+Tertium Rhomboidum Schema, quando Quesitum undecim, duodecim, terdecim, quatuordecim, aut quindecim Dictionib' con-
+stabit.
+
+[DIAGRAM: Stepped rhomboid grid. The numbered half widens downward from a single top cell; below the numbered row it narrows again row by row to a single bottom cell. The lower rows are empty. Numbers are read left to right in each row.
+Row 1: 1. (centre)
+Row 2: 2. | 3.
+Row 3: 4. | 5. | 6.
+Row 4: 7. | 8. | 9. | 10.
+Row 5 (widest): 11. | 12. | 13. | 14. | 15.
+Rows below: empty cells, narrowing to a single cell at the bottom centre.]
+
+Quarta sic delineanda quotiescunque 16.ª, 17.ª, 18.ª, 19.ª, 20.ª, vel 22.ª [?] Dictione Quesit' [?] tu' inscribetur.
+
+[DIAGRAM: Stepped rhomboid grid of the same form as above. Numbers are read left to right in each row.
+Row 1: 1. (centre)
+Row 2: 2. | 3.
+Row 3: 4. | 5. | 6.
+Row 4: 7. | 8. | 9. | 10.
+Row 5: 11. | 12. | 13 | 14. | 15.
+Row 6 (widest): 16. | 17. | 18. | 19. | 20. | 21.
+Rows below: empty cells, narrowing to a single cell at the bottom centre.]
+
+Rhomboidum ultima delineatio, cum 22.ª, 23.ª, 24.ª, 25.ª, 26.ª, 27.ª, vel 28.ª Dictione Petitio tua componetur.
+
+[DIAGRAM: Stepped rhomboid grid of the same form as above. Numbers are read left to right in each row.
+Row 1: 1. (centre)
+Row 2: 2. | 3.
+Row 3: 4. | 5. | 6.
+Row 4: 7. | 8. | 9. | 10.
+Row 5: 11. | 12. | 13. | 14. | 15.
+Row 6: 16. | 17. | 18. | 19. | 20. | 21.
+Row 7 (widest): 22. | 23. | 24. | 25. | 26. | 27. | 28.
+Rows below: empty cells, narrowing to a single cell at the bottom centre.]
+
+Insuper

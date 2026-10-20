@@ -1,0 +1,40 @@
+261 [?]
+
+[DIAGRAM: Grid of 12 rows × 11 columns, ruled, read left to right, top to bottom. The first column holds marginal values only in rows 1, 3, 5, 7, 9, 11; the last column holds values in some rows only. Small crosses (+) are written above or beside the entries marked "+" below.]
+Row 1: +16 | 14 | 1 | 5 | 3 | 0 | 3 | 3 | 2 | 1 | [blank]
+Row 2: [blank] | 9 | 7 | 8 | 2 | 4 | 1 | 5 | 0 | 9 | 9
+Row 3: 5 | 3 | 4 | 2 | 4 | 1 | 2 | 0 | 7 | 11 | [blank]
+Row 4: [blank] | 6 | 10 | 0 | 2 | 4 | 3 | 7 | 1 | 12 | +20
+Row 5: 4 | 0 | 5 | 2 | 4 | 6 | 4 | 9 | 14 | 14 | [blank]
+Row 6: [blank] | 1 | 1 | 0 | 10 | 14 | 6 | 16 | 13 | 4 | 16
+Row 7: 13 | 3 | 10 | 5 | 2 | 8 | 16 | 7 | 0 | 1 | [blank]
+Row 8: [blank] | 0 | 8 | 2 | 0 | 15 | 15 | 13 | 6 | 1 | 11
+Row 9: 6 | 2 | 0 | 4 | 6 | 15 | 6 | 7 | 3 | 4 | [blank]
+Row 10: [blank] | 10 | 6 | 12 | 10 | 9 | 0 | 10 | 9 | 5 | +5
+Row 11: 9 | 4 | 15 | 16 | 6 | 3 | 3 | 4 | 1 | 2 | [blank]
+Row 12: [blank] | 10 | 14 | 11 | 0 | 6 | 2 | 4 | 1 | 7 | +16
+[A small asterisk-like mark stands to the right of row 2, outside the grid.]
+
+[MARGIN: Subductio algebrica]
+M. 5. R̸.M. .25 Q. P. 16. R̸. P. 256. Q.
+P. 16. R̸.P. 256. Q. M. 11. R̸.M. 121. Q.
+P. 21. R̸.P. 281. Q. P. 27. R̸. P. 377. Q.
+
+Additio
+P. 4. R̸.P. ....... 16. Q.
+P. 13. R̸.P. ....... 169. Q.
+P. 30. R̸.P. ....... 900. Q.
+P. 33. R̸.P. ....... 1089. Q. [the first digits of 1089 are blotted: "1●89"]
+P. 68. R̸.P. ....... 4624. Q.
+P. 148. R̸.P. ....... 6798. Q.
+
+Multiplicatio
+P. 21. R̸.P. 281. Q. P. 27. R̸.P. 377. Q.
+per ....... P. 148. R̸.P. 6798. Q.
+
+P. 3108. Q. P. 41588. C. P. 3996. Q. P. 55796. C.
+P. 142758. C. P. 1910238. QQ. P. 183546. C. P. 2562846. QQ.
+P. 7104. Q. P. 423688. C. P. 4473084. QQ.
+
+[MARGIN, left edge, from the facing page and partly cut off: a column of single letters "l x e r c e b i t" (reading uncertain [?]); "Summe"; at the lower left, partly visible figures "…0.210.9…" and "…00086" [?]]
+[Faint show-through of writing from the other side of the leaf at the top, around the level of the grid's top edge: [...]]

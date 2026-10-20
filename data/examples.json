@@ -1,0 +1,40 @@
+{
+ "_note": "Worked examples of Penn LJS 251 as written (operations 1-2). Sources: image numbers of the Internet Archive item ljs251 (0-based, as in ljs251_NNNN.jp2). Pass A (Claude Opus) transcription, every number eye-checked against the image by the analyst (eye readings win; see data/transcription/README.md). l4 lists the numbers of line 4 including the extra one for the last word. roots: value and whether marked with the cross (reversed). null = not legible or not on the pages read.",
+ "examples": [
+  {"id": "A_text", "where": "image 23 and 25 (chapter II text)", "words": ["An", "Antonius", "Pacutus", "Venetus", "Mercaturam", "exercebit"],
+   "sums": [41, 530, 654, 640, 530, 509], "l1": ["3", "23", "11", "24", "23", "58"], "l2": [3, 5, 2, 6, 5, 13],
+   "l3": [1, 3, 3, 1, 7], "pairs": ["23", "21", "02", "53", "15"], "l4": [0, 1, 1, 2, 3, 0], "roots": {}},
+  {"id": "A_sheet", "where": "image 269 (sheet A)", "words": ["An", "Antonius", "Pacutus", "Venetus", "Mercaturam", "exercebit"],
+   "sums": [41, 530, 654, 640, 530, 509], "l1": ["3", "23", "11", "24", "23", "58"], "l2": [3, 5, 2, 6, 5, 13],
+   "l3": [1, 3, 3, 1, 7], "pairs": ["23", "21", "02", "53", "15"], "l4": [0, 1, 1, 2, 3, 2],
+   "pyramid_last": {"An": "01", "Antonius": "00000000003000", "Pacutus": "30000000000006", "Venetus": "00021020000006", "Mercaturam": "000200000000000200"},
+   "roots": {"An": [40, true], "Antonius": [9, false], "Pacutus": [9, false], "Venetus": [6, false], "Mercaturam": [17, false]}},
+  {"id": "B_text", "where": "image 24 (chapter II text)", "words": ["Dic", "Cognomen", "Pontificis", "eligendi", "post", "mortem", "Pij", "Quarti", "Florentini"],
+   "sums": [16, 225, 376, 99, 300, 295, 78, 460, 359], "l1": ["4", "02", "31", "0", "30", "64", "0", "16", "13"], "l2": [4, 2, 4, 0, 3, 10, 0, 7, 4],
+   "l3": [2, 1, 4, 2, 6, 10, 6, 3], "pairs": ["20", "12", "04", "10", "23", "010", "50", "40"], "l4": [2, 0, 3, 1, 0, 9, 5, 4, 1], "roots": {}},
+  {"id": "B_sheet", "where": "image 266 (sheet B)", "words": ["Dic", "Cognomen", "Pontificis", "eligendi", "post", "mortem", "Pij", "Quarti", "Florentini"],
+   "sums": [16, 225, 376, 99, 300, 295, 78, 460, 359], "l4": [2, 0, 3, 1, 0, 9, 5, 4, 1],
+   "pyramid_last": {"Dic": "16", "Cognomen": "00010000000", "Pontificis": "00000000030303", "eligendi": "00031000", "post": "0000300", "mortem": "0000200000", "Pij": "306", "Quarti": "1000002000", "Florentini": "00000200000000030"},
+   "roots": {"Dic": [16, true], "Cognomen": [5, true], "Pontificis": [4, false], "eligendi": [13, true], "post": [30, false], "mortem": [33, false], "Pij": [68, true], "Quarti": [16, false], "Florentini": [11, false]}},
+  {"id": "C_sheet", "where": "image 272 (sheet C)", "words": ["An", "millesimo", "Quingentesimo", "Quadragesimo", "in", "Leedensi", "Oppido", "abundabunt", "Fruges"],
+   "sums": [41, 263, 655, 547, 49, 178, 233, 590, 388], "l1": ["3", "33", "10", "12", "4", "50", "00", "39", "40"], "l2": [3, 6, 1, 3, 4, 5, 0, 12, 4],
+   "l3": [2, 5, 1, 0, 0, 5, 11, 8], "pairs": ["13", "14", "01", "33", "44", "05", "10", "44"], "l4": [1, 2, 0, 0, 0, 4, 10, 0, 0],
+   "pyramid_last": {"An": "01", "millesimo": "00300000030300", "Quingentesimo": "100003001000000000030300", "Quadragesimo": "10000002001030300", "in": "3", "Leedensi": "000000003"},
+   "roots": {"An": [40, true], "millesimo": [11, false], "Quingentesimo": [5, false], "Quadragesimo": [9, false], "in": [46, true], "Leedensi": [709, true]}},
+  {"id": "D_sheet", "where": "image 276 (sheet D)", "words": ["Quo", "anno", "Imperij", "Sui", "Massimilianus", "Secundus", "Romanorum", "Imperator", "morietur"],
+   "sums": [320, 131, 202, 299, 619, 632, 561, 415, 554], "l1": ["12", "12", "21", "60", "57", "31", "05", "33", "01"], "l2": [3, 3, 3, 6, 12, 4, 5, 6, 1],
+   "l3": [0, 0, 2, 5, 8, 0, 0, 5], "pairs": ["32", "32", "13", "16", "44", "44", "55", "14"], "l4": [1, 1, 1, 4, 0, 0, 0, 2, 4],
+   "pyramid_last": {"Quo": "10000", "anno": "010102", "Imperij": "30000020", "Sui": "3000"},
+   "roots": {"Quo": [8, false], "anno": [11, false], "Imperij": [3, false], "Sui": [4, false], "Massimilianus": [5, false], "Secundus": [10, false]}}
+ ],
+ "responses": [
+  {"id": "B", "query": "Dic Cognomen Pontificis eligendi post mortem Pij Quarti Florentini", "where": "image 271 (fol. 278)",
+   "numbers": [7,8,9,18,11,5,17,9,20,12, 3,5,17,13,5,18, 15,5,19,17,9, 7,17,1,19,9,18,18,9,12,1, 15,17,14,11,5,18, 5,21, 1,11,5,21,1,13,4,17,9,13,9,18, 3,20,17,17,5,17,5, 13,5,12,14,17,9,2,20,18],
+   "text": "Ghislerium cernes Petri gratissima proles / Ex Alexandrinis currere nemoribus"},
+  {"id": "D", "query": "Quo anno Imperij Sui Massimilianus Secundus Romanorum Imperator morietur", "where": "image 279 (fol. 285)",
+   "numbers": [4,5,13,1,19,17,9,13,14,15,14,11,11,5,13,18,12,14,17,19,5,12,3,14,13,3,5,4,5,19,8,5,17,14,9],
+   "text": "Dena trino pollens mortem concedet heroi"},
+  {"id": "Sepperus", "query": "(chapter I, image 15: the author's brother in Portugal, 1548; query not given in full)", "where": "image 15 (text only)",
+   "numbers": null, "text": "Amoves credas nondum Regis ira fuisse"}
+ ]
+}

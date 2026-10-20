@@ -1,0 +1,68 @@
+283 [?]
+
+Romboides sinistra | Romboides dextra
+
+[DIAGRAM: Two stepped rhomboid grids joined to a double-ringed circular figure. Between the two rhomboids, at the centre, is the mark "℞ 8." Cells are listed row by row from the top, left to right. "–" marks an empty cell of the 5-column layout.]
+
+LEFT RHOMBOID (Romboides sinistra), 8 rows:
+Row 1 (centre column only): 3
+Row 2: 3 | – | 3
+Row 3: 6 | – | 12 | – | 4
+Row 4: 5 | 6 | – | 1 | 0
+Row 5: 0 | 2 | – | 5 | 8
+Row 6: 0 | – | 0 | – | 5
+Row 7: 0 | – | 4
+Row 8 (centre column only): 3
+
+Left curved arm, written along the arc from the rhomboid down to the junction: 8. 8. 2. 5.
+
+RIGHT RHOMBOID (Romboides dextra), 8 rows:
+Row 1 (centre column only): 1
+Row 2: 1 | – | 1
+Row 3: 4 | – | 0 | – | 0
+Row 4: 0 | 2 | – | 4 | 1
+Row 5: 1 | 0 | – | 2 | 0
+Row 6: 2 | – | 1 | – | 1
+Row 7: 0 | – | 0
+Row 8 (centre column only): 0
+
+Right curved arm, written along the arc from the junction up to the rhomboid: 7. 6. 6. 7. 7 [?]
+
+Junction of the two arms, in the stem: ·11·
+
+CIRCULAR FIGURE: nine concentric split rings, open along the central vertical axis. The numbers on the left half are in the left column and those on the right half are in the right column. The figure has numbers at the gap, along the left ring-halves, along the right ring-halves, and at the bottom gap.
+
+Numbers at the upper gap, rows from the top, written as left | centre | right:
+5. | 3. | 7.
+5 | | 7.
+2. | 4. | 8.
+3 | | 7.
+8. | 5. | 8.
+8 | | 7.
+8. | 10. | 8.
+5 | ✝ | 8
+0 | 15. | 7.
+
+Numbers on the left half-rings, reading each ring from the upper gap downward and counter-clockwise (outer ring to inner ring):
+- Upper-left diagonal: 0. 3. 0. 4. 10. 2. 2. 3. 4. [?]
+- Left side: 0. 3. 2. 4. 10. 2. 2. 3. 4. [?]
+- Lower-left: 6. 9. 3. 10. 7. 8. 3. 2. 1. [?]
+- Bottom-left, towards the lower gap: 3. 6. 3. 7. 5. 0. 0. 1. [?]
+
+Numbers on the right half-rings, reading from the upper gap downward and clockwise (outer ring to inner ring):
+- Upper-right diagonal: 1. 4. 3. 1. 3. 8. 5. 2. 4. [?]
+- Right side: 0. 3. 4. 2. 2. 7. 3. 3. 3. [?]
+- Lower-right: 0. 3. 4. 2. 2. 7. 4. 3. 3. [?]
+- Bottom-right, towards the lower gap: 1. 4. 3. 1. 3. 8. 5. 2. 4. [?]
+
+Numbers at the lower gap, rows from the top, written as left | centre | right:
+1 | | 9
+3. | 12. | 8.
+8 | | 8
+2. | ✝ 4. | 4.
+6 | | 6
+8. | 11. | 7.
+3 | | 8
+7. | 8. | 6. [?]
+
+[MARGIN: right edge, bleed-through or the facing leaf: "Initio" and a column of "R.P." entries, partly cut off]

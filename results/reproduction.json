@@ -1,0 +1,2586 @@
+{
+ "rows": [
+  {
+   "example": "A_text",
+   "stage": "sum",
+   "i": 0,
+   "book": 41,
+   "ours": 41,
+   "match": true
+  },
+  {
+   "example": "A_text",
+   "stage": "sum",
+   "i": 1,
+   "book": 530,
+   "ours": 530,
+   "match": true
+  },
+  {
+   "example": "A_text",
+   "stage": "sum",
+   "i": 2,
+   "book": 654,
+   "ours": 654,
+   "match": true
+  },
+  {
+   "example": "A_text",
+   "stage": "sum",
+   "i": 3,
+   "book": 640,
+   "ours": 640,
+   "match": true
+  },
+  {
+   "example": "A_text",
+   "stage": "sum",
+   "i": 4,
+   "book": 530,
+   "ours": 530,
+   "match": true
+  },
+  {
+   "example": "A_text",
+   "stage": "sum",
+   "i": 5,
+   "book": 509,
+   "ours": 509,
+   "match": true
+  },
+  {
+   "example": "A_text",
+   "stage": "line1",
+   "i": 0,
+   "book": "3",
+   "ours": "3",
+   "match": true
+  },
+  {
+   "example": "A_text",
+   "stage": "line1",
+   "i": 1,
+   "book": "23",
+   "ours": "23",
+   "match": true
+  },
+  {
+   "example": "A_text",
+   "stage": "line1",
+   "i": 2,
+   "book": "11",
+   "ours": "11",
+   "match": true
+  },
+  {
+   "example": "A_text",
+   "stage": "line1",
+   "i": 3,
+   "book": "24",
+   "ours": "24",
+   "match": true
+  },
+  {
+   "example": "A_text",
+   "stage": "line1",
+   "i": 4,
+   "book": "23",
+   "ours": "23",
+   "match": true
+  },
+  {
+   "example": "A_text",
+   "stage": "line1",
+   "i": 5,
+   "book": "58",
+   "ours": "58",
+   "match": true
+  },
+  {
+   "example": "A_text",
+   "stage": "line2",
+   "i": 0,
+   "book": 3,
+   "ours": 3,
+   "match": true
+  },
+  {
+   "example": "A_text",
+   "stage": "line2",
+   "i": 1,
+   "book": 5,
+   "ours": 5,
+   "match": true
+  },
+  {
+   "example": "A_text",
+   "stage": "line2",
+   "i": 2,
+   "book": 2,
+   "ours": 2,
+   "match": true
+  },
+  {
+   "example": "A_text",
+   "stage": "line2",
+   "i": 3,
+   "book": 6,
+   "ours": 6,
+   "match": true
+  },
+  {
+   "example": "A_text",
+   "stage": "line2",
+   "i": 4,
+   "book": 5,
+   "ours": 5,
+   "match": true
+  },
+  {
+   "example": "A_text",
+   "stage": "line2",
+   "i": 5,
+   "book": 13,
+   "ours": 13,
+   "match": true
+  },
+  {
+   "example": "A_text",
+   "stage": "line3",
+   "i": 0,
+   "book": 1,
+   "ours": 1,
+   "match": true
+  },
+  {
+   "example": "A_text",
+   "stage": "line3",
+   "i": 1,
+   "book": 3,
+   "ours": 3,
+   "match": true
+  },
+  {
+   "example": "A_text",
+   "stage": "line3",
+   "i": 2,
+   "book": 3,
+   "ours": 3,
+   "match": true
+  },
+  {
+   "example": "A_text",
+   "stage": "line3",
+   "i": 3,
+   "book": 1,
+   "ours": 1,
+   "match": true
+  },
+  {
+   "example": "A_text",
+   "stage": "line3",
+   "i": 4,
+   "book": 7,
+   "ours": 7,
+   "match": true
+  },
+  {
+   "example": "A_text",
+   "stage": "pair",
+   "i": 0,
+   "book": "23",
+   "ours": "23",
+   "match": true
+  },
+  {
+   "example": "A_text",
+   "stage": "pair",
+   "i": 1,
+   "book": "21",
+   "ours": "21",
+   "match": true
+  },
+  {
+   "example": "A_text",
+   "stage": "pair",
+   "i": 2,
+   "book": "02",
+   "ours": "02",
+   "match": true
+  },
+  {
+   "example": "A_text",
+   "stage": "pair",
+   "i": 3,
+   "book": "53",
+   "ours": "53",
+   "match": true
+  },
+  {
+   "example": "A_text",
+   "stage": "pair",
+   "i": 4,
+   "book": "15",
+   "ours": "15",
+   "match": true
+  },
+  {
+   "example": "A_text",
+   "stage": "line4",
+   "i": 0,
+   "book": 0,
+   "ours": 0,
+   "match": true
+  },
+  {
+   "example": "A_text",
+   "stage": "line4",
+   "i": 1,
+   "book": 1,
+   "ours": 1,
+   "match": true
+  },
+  {
+   "example": "A_text",
+   "stage": "line4",
+   "i": 2,
+   "book": 1,
+   "ours": 1,
+   "match": true
+  },
+  {
+   "example": "A_text",
+   "stage": "line4",
+   "i": 3,
+   "book": 2,
+   "ours": 2,
+   "match": true
+  },
+  {
+   "example": "A_text",
+   "stage": "line4",
+   "i": 4,
+   "book": 3,
+   "ours": 3,
+   "match": true
+  },
+  {
+   "example": "A_text",
+   "stage": "line4_last",
+   "i": 5,
+   "book": 0,
+   "ours": 0,
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "sum",
+   "i": 0,
+   "book": 41,
+   "ours": 41,
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "sum",
+   "i": 1,
+   "book": 530,
+   "ours": 530,
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "sum",
+   "i": 2,
+   "book": 654,
+   "ours": 654,
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "sum",
+   "i": 3,
+   "book": 640,
+   "ours": 640,
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "sum",
+   "i": 4,
+   "book": 530,
+   "ours": 530,
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "sum",
+   "i": 5,
+   "book": 509,
+   "ours": 509,
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "line1",
+   "i": 0,
+   "book": "3",
+   "ours": "3",
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "line1",
+   "i": 1,
+   "book": "23",
+   "ours": "23",
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "line1",
+   "i": 2,
+   "book": "11",
+   "ours": "11",
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "line1",
+   "i": 3,
+   "book": "24",
+   "ours": "24",
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "line1",
+   "i": 4,
+   "book": "23",
+   "ours": "23",
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "line1",
+   "i": 5,
+   "book": "58",
+   "ours": "58",
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "line2",
+   "i": 0,
+   "book": 3,
+   "ours": 3,
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "line2",
+   "i": 1,
+   "book": 5,
+   "ours": 5,
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "line2",
+   "i": 2,
+   "book": 2,
+   "ours": 2,
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "line2",
+   "i": 3,
+   "book": 6,
+   "ours": 6,
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "line2",
+   "i": 4,
+   "book": 5,
+   "ours": 5,
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "line2",
+   "i": 5,
+   "book": 13,
+   "ours": 13,
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "line3",
+   "i": 0,
+   "book": 1,
+   "ours": 1,
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "line3",
+   "i": 1,
+   "book": 3,
+   "ours": 3,
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "line3",
+   "i": 2,
+   "book": 3,
+   "ours": 3,
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "line3",
+   "i": 3,
+   "book": 1,
+   "ours": 1,
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "line3",
+   "i": 4,
+   "book": 7,
+   "ours": 7,
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "pair",
+   "i": 0,
+   "book": "23",
+   "ours": "23",
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "pair",
+   "i": 1,
+   "book": "21",
+   "ours": "21",
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "pair",
+   "i": 2,
+   "book": "02",
+   "ours": "02",
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "pair",
+   "i": 3,
+   "book": "53",
+   "ours": "53",
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "pair",
+   "i": 4,
+   "book": "15",
+   "ours": "15",
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "line4",
+   "i": 0,
+   "book": 0,
+   "ours": 0,
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "line4",
+   "i": 1,
+   "book": 1,
+   "ours": 1,
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "line4",
+   "i": 2,
+   "book": 1,
+   "ours": 1,
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "line4",
+   "i": 3,
+   "book": 2,
+   "ours": 2,
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "line4",
+   "i": 4,
+   "book": 3,
+   "ours": 3,
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "line4_last",
+   "i": 5,
+   "book": 2,
+   "ours": 0,
+   "match": false
+  },
+  {
+   "example": "A_sheet",
+   "stage": "pyramid",
+   "i": "An",
+   "book": "01",
+   "ours": "01",
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "pyramid",
+   "i": "Antonius",
+   "book": "00000000003000",
+   "ours": "00000000003000",
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "pyramid",
+   "i": "Pacutus",
+   "book": "30000000000006",
+   "ours": "30000000000006",
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "pyramid",
+   "i": "Venetus",
+   "book": "00021020000006",
+   "ours": "00021020000006",
+   "match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "pyramid",
+   "i": "Mercaturam",
+   "book": "000200000000000200",
+   "ours": "0002000000000200",
+   "match": false
+  },
+  {
+   "example": "A_sheet",
+   "stage": "root",
+   "i": "An",
+   "book": [
+    40,
+    true
+   ],
+   "ours": [
+    40,
+    true
+   ],
+   "case": "n6",
+   "match": true,
+   "mark_match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "root",
+   "i": "Antonius",
+   "book": [
+    9,
+    false
+   ],
+   "ours": [
+    9,
+    false
+   ],
+   "case": "plain",
+   "match": true,
+   "mark_match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "root",
+   "i": "Pacutus",
+   "book": [
+    9,
+    false
+   ],
+   "ours": [
+    9,
+    false
+   ],
+   "case": "plain",
+   "match": true,
+   "mark_match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "root",
+   "i": "Venetus",
+   "book": [
+    6,
+    false
+   ],
+   "ours": [
+    6,
+    false
+   ],
+   "case": "plain",
+   "match": true,
+   "mark_match": true
+  },
+  {
+   "example": "A_sheet",
+   "stage": "root",
+   "i": "Mercaturam",
+   "book": [
+    17,
+    false
+   ],
+   "ours": [
+    16,
+    false
+   ],
+   "case": "plain",
+   "match": false,
+   "mark_match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "sum",
+   "i": 0,
+   "book": 16,
+   "ours": 16,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "sum",
+   "i": 1,
+   "book": 225,
+   "ours": 225,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "sum",
+   "i": 2,
+   "book": 376,
+   "ours": 376,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "sum",
+   "i": 3,
+   "book": 99,
+   "ours": 99,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "sum",
+   "i": 4,
+   "book": 300,
+   "ours": 300,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "sum",
+   "i": 5,
+   "book": 295,
+   "ours": 295,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "sum",
+   "i": 6,
+   "book": 78,
+   "ours": 78,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "sum",
+   "i": 7,
+   "book": 460,
+   "ours": 460,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "sum",
+   "i": 8,
+   "book": 359,
+   "ours": 359,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line1",
+   "i": 0,
+   "book": "4",
+   "ours": "4",
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line1",
+   "i": 1,
+   "book": "02",
+   "ours": "02",
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line1",
+   "i": 2,
+   "book": "31",
+   "ours": "31",
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line1",
+   "i": 3,
+   "book": "0",
+   "ours": "0",
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line1",
+   "i": 4,
+   "book": "30",
+   "ours": "30",
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line1",
+   "i": 5,
+   "book": "64",
+   "ours": "64",
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line1",
+   "i": 6,
+   "book": "0",
+   "ours": "0",
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line1",
+   "i": 7,
+   "book": "16",
+   "ours": "16",
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line1",
+   "i": 8,
+   "book": "13",
+   "ours": "13",
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line2",
+   "i": 0,
+   "book": 4,
+   "ours": 4,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line2",
+   "i": 1,
+   "book": 2,
+   "ours": 2,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line2",
+   "i": 2,
+   "book": 4,
+   "ours": 4,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line2",
+   "i": 3,
+   "book": 0,
+   "ours": 0,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line2",
+   "i": 4,
+   "book": 3,
+   "ours": 3,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line2",
+   "i": 5,
+   "book": 10,
+   "ours": 10,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line2",
+   "i": 6,
+   "book": 0,
+   "ours": 0,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line2",
+   "i": 7,
+   "book": 7,
+   "ours": 7,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line2",
+   "i": 8,
+   "book": 4,
+   "ours": 4,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line3",
+   "i": 0,
+   "book": 2,
+   "ours": 2,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line3",
+   "i": 1,
+   "book": 1,
+   "ours": 1,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line3",
+   "i": 2,
+   "book": 4,
+   "ours": 4,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line3",
+   "i": 3,
+   "book": 2,
+   "ours": 2,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line3",
+   "i": 4,
+   "book": 6,
+   "ours": 6,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line3",
+   "i": 5,
+   "book": 10,
+   "ours": 10,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line3",
+   "i": 6,
+   "book": 6,
+   "ours": 6,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line3",
+   "i": 7,
+   "book": 3,
+   "ours": 3,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "pair",
+   "i": 0,
+   "book": "20",
+   "ours": "20",
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "pair",
+   "i": 1,
+   "book": "12",
+   "ours": "12",
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "pair",
+   "i": 2,
+   "book": "04",
+   "ours": "04",
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "pair",
+   "i": 3,
+   "book": "10",
+   "ours": "10",
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "pair",
+   "i": 4,
+   "book": "23",
+   "ours": "23",
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "pair",
+   "i": 5,
+   "book": "010",
+   "ours": "010",
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "pair",
+   "i": 6,
+   "book": "50",
+   "ours": "50",
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "pair",
+   "i": 7,
+   "book": "40",
+   "ours": "40",
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line4",
+   "i": 0,
+   "book": 2,
+   "ours": 2,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line4",
+   "i": 1,
+   "book": 0,
+   "ours": 0,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line4",
+   "i": 2,
+   "book": 3,
+   "ours": 3,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line4",
+   "i": 3,
+   "book": 1,
+   "ours": 1,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line4",
+   "i": 4,
+   "book": 0,
+   "ours": 0,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line4",
+   "i": 5,
+   "book": 9,
+   "ours": 9,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line4",
+   "i": 6,
+   "book": 5,
+   "ours": 5,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line4",
+   "i": 7,
+   "book": 4,
+   "ours": 4,
+   "match": true
+  },
+  {
+   "example": "B_text",
+   "stage": "line4_last",
+   "i": 8,
+   "book": 1,
+   "ours": 1,
+   "match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "sum",
+   "i": 0,
+   "book": 16,
+   "ours": 16,
+   "match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "sum",
+   "i": 1,
+   "book": 225,
+   "ours": 225,
+   "match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "sum",
+   "i": 2,
+   "book": 376,
+   "ours": 376,
+   "match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "sum",
+   "i": 3,
+   "book": 99,
+   "ours": 99,
+   "match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "sum",
+   "i": 4,
+   "book": 300,
+   "ours": 300,
+   "match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "sum",
+   "i": 5,
+   "book": 295,
+   "ours": 295,
+   "match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "sum",
+   "i": 6,
+   "book": 78,
+   "ours": 78,
+   "match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "sum",
+   "i": 7,
+   "book": 460,
+   "ours": 460,
+   "match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "sum",
+   "i": 8,
+   "book": 359,
+   "ours": 359,
+   "match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "line4",
+   "i": 0,
+   "book": 2,
+   "ours": 2,
+   "match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "line4",
+   "i": 1,
+   "book": 0,
+   "ours": 0,
+   "match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "line4",
+   "i": 2,
+   "book": 3,
+   "ours": 3,
+   "match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "line4",
+   "i": 3,
+   "book": 1,
+   "ours": 1,
+   "match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "line4",
+   "i": 4,
+   "book": 0,
+   "ours": 0,
+   "match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "line4",
+   "i": 5,
+   "book": 9,
+   "ours": 9,
+   "match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "line4",
+   "i": 6,
+   "book": 5,
+   "ours": 5,
+   "match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "line4",
+   "i": 7,
+   "book": 4,
+   "ours": 4,
+   "match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "line4_last",
+   "i": 8,
+   "book": 1,
+   "ours": 1,
+   "match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "pyramid",
+   "i": "Dic",
+   "book": "16",
+   "ours": "16",
+   "match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "pyramid",
+   "i": "Cognomen",
+   "book": "00010000000",
+   "ours": "00010000000",
+   "match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "pyramid",
+   "i": "Pontificis",
+   "book": "00000000030303",
+   "ours": "00000000030303",
+   "match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "pyramid",
+   "i": "eligendi",
+   "book": "00031000",
+   "ours": "00031000",
+   "match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "pyramid",
+   "i": "post",
+   "book": "0000300",
+   "ours": "0000300",
+   "match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "pyramid",
+   "i": "mortem",
+   "book": "0000200000",
+   "ours": "0000200000",
+   "match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "pyramid",
+   "i": "Pij",
+   "book": "306",
+   "ours": "306",
+   "match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "pyramid",
+   "i": "Quarti",
+   "book": "1000002000",
+   "ours": "1000002000",
+   "match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "pyramid",
+   "i": "Florentini",
+   "book": "00000200000000030",
+   "ours": "000002000000030",
+   "match": false
+  },
+  {
+   "example": "B_sheet",
+   "stage": "root",
+   "i": "Dic",
+   "book": [
+    16,
+    true
+   ],
+   "ours": [
+    16,
+    true
+   ],
+   "case": "n6",
+   "match": true,
+   "mark_match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "root",
+   "i": "Cognomen",
+   "book": [
+    5,
+    true
+   ],
+   "ours": [
+    15,
+    true
+   ],
+   "case": "plain",
+   "match": false,
+   "mark_match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "root",
+   "i": "Pontificis",
+   "book": [
+    4,
+    false
+   ],
+   "ours": [
+    4,
+    false
+   ],
+   "case": "plain",
+   "match": true,
+   "mark_match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "root",
+   "i": "eligendi",
+   "book": [
+    13,
+    true
+   ],
+   "ours": [
+    13,
+    true
+   ],
+   "case": "n4",
+   "match": true,
+   "mark_match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "root",
+   "i": "post",
+   "book": [
+    30,
+    false
+   ],
+   "ours": [
+    30,
+    false
+   ],
+   "case": "n7",
+   "match": true,
+   "mark_match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "root",
+   "i": "mortem",
+   "book": [
+    33,
+    false
+   ],
+   "ours": [
+    33,
+    false
+   ],
+   "case": "plain",
+   "match": true,
+   "mark_match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "root",
+   "i": "Pij",
+   "book": [
+    68,
+    true
+   ],
+   "ours": [
+    6,
+    true
+   ],
+   "case": "n8",
+   "match": false,
+   "mark_match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "root",
+   "i": "Quarti",
+   "book": [
+    16,
+    false
+   ],
+   "ours": [
+    16,
+    false
+   ],
+   "case": "n5",
+   "match": true,
+   "mark_match": true
+  },
+  {
+   "example": "B_sheet",
+   "stage": "root",
+   "i": "Florentini",
+   "book": [
+    11,
+    false
+   ],
+   "ours": [
+    7,
+    false
+   ],
+   "case": "plain",
+   "match": false,
+   "mark_match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "sum",
+   "i": 0,
+   "book": 41,
+   "ours": 41,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "sum",
+   "i": 1,
+   "book": 263,
+   "ours": 263,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "sum",
+   "i": 2,
+   "book": 655,
+   "ours": 655,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "sum",
+   "i": 3,
+   "book": 547,
+   "ours": 547,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "sum",
+   "i": 4,
+   "book": 49,
+   "ours": 49,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "sum",
+   "i": 5,
+   "book": 178,
+   "ours": 178,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "sum",
+   "i": 6,
+   "book": 233,
+   "ours": 233,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "sum",
+   "i": 7,
+   "book": 590,
+   "ours": 590,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "sum",
+   "i": 8,
+   "book": 388,
+   "ours": 388,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line1",
+   "i": 0,
+   "book": "3",
+   "ours": "3",
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line1",
+   "i": 1,
+   "book": "33",
+   "ours": "33",
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line1",
+   "i": 2,
+   "book": "10",
+   "ours": "10",
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line1",
+   "i": 3,
+   "book": "12",
+   "ours": "12",
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line1",
+   "i": 4,
+   "book": "4",
+   "ours": "4",
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line1",
+   "i": 5,
+   "book": "50",
+   "ours": "50",
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line1",
+   "i": 6,
+   "book": "00",
+   "ours": "00",
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line1",
+   "i": 7,
+   "book": "39",
+   "ours": "39",
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line1",
+   "i": 8,
+   "book": "40",
+   "ours": "40",
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line2",
+   "i": 0,
+   "book": 3,
+   "ours": 3,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line2",
+   "i": 1,
+   "book": 6,
+   "ours": 6,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line2",
+   "i": 2,
+   "book": 1,
+   "ours": 1,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line2",
+   "i": 3,
+   "book": 3,
+   "ours": 3,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line2",
+   "i": 4,
+   "book": 4,
+   "ours": 4,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line2",
+   "i": 5,
+   "book": 5,
+   "ours": 5,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line2",
+   "i": 6,
+   "book": 0,
+   "ours": 0,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line2",
+   "i": 7,
+   "book": 12,
+   "ours": 12,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line2",
+   "i": 8,
+   "book": 4,
+   "ours": 4,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line3",
+   "i": 0,
+   "book": 2,
+   "ours": 2,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line3",
+   "i": 1,
+   "book": 5,
+   "ours": 5,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line3",
+   "i": 2,
+   "book": 1,
+   "ours": 1,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line3",
+   "i": 3,
+   "book": 0,
+   "ours": 0,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line3",
+   "i": 4,
+   "book": 0,
+   "ours": 0,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line3",
+   "i": 5,
+   "book": 5,
+   "ours": 5,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line3",
+   "i": 6,
+   "book": 11,
+   "ours": 11,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line3",
+   "i": 7,
+   "book": 8,
+   "ours": 8,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "pair",
+   "i": 0,
+   "book": "13",
+   "ours": "13",
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "pair",
+   "i": 1,
+   "book": "14",
+   "ours": "14",
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "pair",
+   "i": 2,
+   "book": "01",
+   "ours": "01",
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "pair",
+   "i": 3,
+   "book": "33",
+   "ours": "33",
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "pair",
+   "i": 4,
+   "book": "44",
+   "ours": "44",
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "pair",
+   "i": 5,
+   "book": "05",
+   "ours": "05",
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "pair",
+   "i": 6,
+   "book": "10",
+   "ours": "100",
+   "match": false
+  },
+  {
+   "example": "C_sheet",
+   "stage": "pair",
+   "i": 7,
+   "book": "44",
+   "ours": "44",
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line4",
+   "i": 0,
+   "book": 1,
+   "ours": 1,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line4",
+   "i": 1,
+   "book": 2,
+   "ours": 2,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line4",
+   "i": 2,
+   "book": 0,
+   "ours": 0,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line4",
+   "i": 3,
+   "book": 0,
+   "ours": 0,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line4",
+   "i": 4,
+   "book": 0,
+   "ours": 0,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line4",
+   "i": 5,
+   "book": 4,
+   "ours": 4,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line4",
+   "i": 6,
+   "book": 10,
+   "ours": 10,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line4",
+   "i": 7,
+   "book": 0,
+   "ours": 0,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "line4_last",
+   "i": 8,
+   "book": 0,
+   "ours": 0,
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "pyramid",
+   "i": "An",
+   "book": "01",
+   "ours": "01",
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "pyramid",
+   "i": "millesimo",
+   "book": "00300000030300",
+   "ours": "0030000030300",
+   "match": false
+  },
+  {
+   "example": "C_sheet",
+   "stage": "pyramid",
+   "i": "Quingentesimo",
+   "book": "100003001000000000030300",
+   "ours": "100003001000000030300",
+   "match": false
+  },
+  {
+   "example": "C_sheet",
+   "stage": "pyramid",
+   "i": "Quadragesimo",
+   "book": "10000002001030300",
+   "ours": "10000002001030300",
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "pyramid",
+   "i": "in",
+   "book": "3",
+   "ours": "3",
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "pyramid",
+   "i": "Leedensi",
+   "book": "000000003",
+   "ours": "000000003",
+   "match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "root",
+   "i": "An",
+   "book": [
+    40,
+    true
+   ],
+   "ours": [
+    40,
+    true
+   ],
+   "case": "n6",
+   "match": true,
+   "mark_match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "root",
+   "i": "millesimo",
+   "book": [
+    11,
+    false
+   ],
+   "ours": [
+    11,
+    false
+   ],
+   "case": "plain",
+   "match": true,
+   "mark_match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "root",
+   "i": "Quingentesimo",
+   "book": [
+    5,
+    false
+   ],
+   "ours": [
+    5,
+    false
+   ],
+   "case": "plain",
+   "match": true,
+   "mark_match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "root",
+   "i": "Quadragesimo",
+   "book": [
+    9,
+    false
+   ],
+   "ours": [
+    9,
+    false
+   ],
+   "case": "plain",
+   "match": true,
+   "mark_match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "root",
+   "i": "in",
+   "book": [
+    46,
+    true
+   ],
+   "ours": [
+    46,
+    true
+   ],
+   "case": "n6",
+   "match": true,
+   "mark_match": true
+  },
+  {
+   "example": "C_sheet",
+   "stage": "root",
+   "i": "Leedensi",
+   "book": [
+    709,
+    true
+   ],
+   "ours": [
+    709,
+    true
+   ],
+   "case": "n6",
+   "match": true,
+   "mark_match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "sum",
+   "i": 0,
+   "book": 320,
+   "ours": 320,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "sum",
+   "i": 1,
+   "book": 131,
+   "ours": 131,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "sum",
+   "i": 2,
+   "book": 202,
+   "ours": 202,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "sum",
+   "i": 3,
+   "book": 299,
+   "ours": 299,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "sum",
+   "i": 4,
+   "book": 619,
+   "ours": 619,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "sum",
+   "i": 5,
+   "book": 632,
+   "ours": 632,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "sum",
+   "i": 6,
+   "book": 561,
+   "ours": 561,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "sum",
+   "i": 7,
+   "book": 415,
+   "ours": 415,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "sum",
+   "i": 8,
+   "book": 554,
+   "ours": 554,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line1",
+   "i": 0,
+   "book": "12",
+   "ours": "12",
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line1",
+   "i": 1,
+   "book": "12",
+   "ours": "12",
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line1",
+   "i": 2,
+   "book": "21",
+   "ours": "21",
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line1",
+   "i": 3,
+   "book": "60",
+   "ours": "60",
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line1",
+   "i": 4,
+   "book": "57",
+   "ours": "57",
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line1",
+   "i": 5,
+   "book": "31",
+   "ours": "31",
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line1",
+   "i": 6,
+   "book": "05",
+   "ours": "05",
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line1",
+   "i": 7,
+   "book": "33",
+   "ours": "33",
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line1",
+   "i": 8,
+   "book": "01",
+   "ours": "01",
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line2",
+   "i": 0,
+   "book": 3,
+   "ours": 3,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line2",
+   "i": 1,
+   "book": 3,
+   "ours": 3,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line2",
+   "i": 2,
+   "book": 3,
+   "ours": 3,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line2",
+   "i": 3,
+   "book": 6,
+   "ours": 6,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line2",
+   "i": 4,
+   "book": 12,
+   "ours": 12,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line2",
+   "i": 5,
+   "book": 4,
+   "ours": 4,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line2",
+   "i": 6,
+   "book": 5,
+   "ours": 5,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line2",
+   "i": 7,
+   "book": 6,
+   "ours": 6,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line2",
+   "i": 8,
+   "book": 1,
+   "ours": 1,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line3",
+   "i": 0,
+   "book": 0,
+   "ours": 0,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line3",
+   "i": 1,
+   "book": 0,
+   "ours": 0,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line3",
+   "i": 2,
+   "book": 2,
+   "ours": 2,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line3",
+   "i": 3,
+   "book": 5,
+   "ours": 5,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line3",
+   "i": 4,
+   "book": 8,
+   "ours": 8,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line3",
+   "i": 5,
+   "book": 0,
+   "ours": 0,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line3",
+   "i": 6,
+   "book": 0,
+   "ours": 0,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line3",
+   "i": 7,
+   "book": 5,
+   "ours": 5,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "pair",
+   "i": 0,
+   "book": "32",
+   "ours": "32",
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "pair",
+   "i": 1,
+   "book": "32",
+   "ours": "32",
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "pair",
+   "i": 2,
+   "book": "13",
+   "ours": "13",
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "pair",
+   "i": 3,
+   "book": "16",
+   "ours": "16",
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "pair",
+   "i": 4,
+   "book": "44",
+   "ours": "44",
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "pair",
+   "i": 5,
+   "book": "44",
+   "ours": "44",
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "pair",
+   "i": 6,
+   "book": "55",
+   "ours": "55",
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "pair",
+   "i": 7,
+   "book": "14",
+   "ours": "14",
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line4",
+   "i": 0,
+   "book": 1,
+   "ours": 1,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line4",
+   "i": 1,
+   "book": 1,
+   "ours": 1,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line4",
+   "i": 2,
+   "book": 1,
+   "ours": 1,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line4",
+   "i": 3,
+   "book": 4,
+   "ours": 4,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line4",
+   "i": 4,
+   "book": 0,
+   "ours": 0,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line4",
+   "i": 5,
+   "book": 0,
+   "ours": 0,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line4",
+   "i": 6,
+   "book": 0,
+   "ours": 0,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line4",
+   "i": 7,
+   "book": 2,
+   "ours": 2,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "line4_last",
+   "i": 8,
+   "book": 4,
+   "ours": 4,
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "pyramid",
+   "i": "Quo",
+   "book": "10000",
+   "ours": "10000",
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "pyramid",
+   "i": "anno",
+   "book": "010102",
+   "ours": "010102",
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "pyramid",
+   "i": "Imperij",
+   "book": "30000020",
+   "ours": "30000020",
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "pyramid",
+   "i": "Sui",
+   "book": "3000",
+   "ours": "3000",
+   "match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "root",
+   "i": "Quo",
+   "book": [
+    8,
+    false
+   ],
+   "ours": [
+    8,
+    false
+   ],
+   "case": "plain",
+   "match": true,
+   "mark_match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "root",
+   "i": "anno",
+   "book": [
+    11,
+    false
+   ],
+   "ours": [
+    11,
+    false
+   ],
+   "case": "plain",
+   "match": true,
+   "mark_match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "root",
+   "i": "Imperij",
+   "book": [
+    3,
+    false
+   ],
+   "ours": [
+    16,
+    false
+   ],
+   "case": "plain",
+   "match": false,
+   "mark_match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "root",
+   "i": "Sui",
+   "book": [
+    4,
+    false
+   ],
+   "ours": [
+    4,
+    false
+   ],
+   "case": "plain",
+   "match": true,
+   "mark_match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "root",
+   "i": "Massimilianus",
+   "book": [
+    5,
+    false
+   ],
+   "ours": [
+    5,
+    false
+   ],
+   "case": "plain",
+   "match": true,
+   "mark_match": true
+  },
+  {
+   "example": "D_sheet",
+   "stage": "root",
+   "i": "Secundus",
+   "book": [
+    10,
+    false
+   ],
+   "ours": [
+    31,
+    false
+   ],
+   "case": "n5",
+   "match": false,
+   "mark_match": true
+  }
+ ],
+ "by_stage": {
+  "sum": {
+   "n": 48,
+   "match": 48
+  },
+  "line1": {
+   "n": 39,
+   "match": 39
+  },
+  "line2": {
+   "n": 39,
+   "match": 39
+  },
+  "line3": {
+   "n": 34,
+   "match": 34
+  },
+  "pair": {
+   "n": 34,
+   "match": 33
+  },
+  "line4": {
+   "n": 42,
+   "match": 42
+  },
+  "line4_last": {
+   "n": 6,
+   "match": 5
+  },
+  "pyramid": {
+   "n": 24,
+   "match": 20
+  },
+  "root": {
+   "n": 26,
+   "match": 20
+  }
+ }
+}

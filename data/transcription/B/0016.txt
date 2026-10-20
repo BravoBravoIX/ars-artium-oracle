@@ -1,0 +1,36 @@
+17
+
+[MARGIN: top left, a large pen-mark "X"]
+
+De prima Operationis Specie
+Cap. II.
+
+Superior de Quesito Discursus, tanquam totius Artis Theorica à nobis excogitatus est, nunc ad Praxim accedamus, que ab hac prima Operationis Specie suum sumit Exordium. Prima igitur hec Operatio sic absoluitur. = Accipe uniuscuiusque Dictionis literas, atque ipsas in unicam redige Summam: sic procedendo in unaquaque Dictione usque in finem Quesiti, ut hic inferius Exemplo demonstrabitur. Accepta deinde progor-tione [sic: "proportione", broken across lines as "progor- | tione"], seu (ut melius dicam) Numerorum differentia earumdem Summarum, ex ipsis differentijs quatuor componentur Linee sequenti forma, quam leges.
+
+Primum igitur efformata Petitione, coaptetur unicui-que litere Dictionis Numerus, prout appositum hic docet Alphabetum Hebraico-Latinum.
+
+[DIAGRAM: two ruled boxes, each a row of capital letters with a numeral beneath each letter, reading left to right]
+Box 1, upper row (letters): A· | B· | C· | D· | E· | F· | G· | H· | Î· | K· | L· | M· | N
+Box 1, lower row (numbers beneath, same order): 1· | 2· | 3· | 4· | 5· | 6· | 7· | 8· | 9· | 10· | 20· | 30· | 40·
+Box 2, upper row (letters): O· | P· | Q· | R· | S· | T· | V· | X· | Y· | Z·
+Box 2, lower row (numbers beneath, same order): 50· | 60· | 70· | 80· | 90· | 100· | 200· | 300· | 400· | 500·
+
+Quo facto Dictionis litere Numeri in unicam reducantur Summam. Exempli causa = An Antonius &.
+
+A — 1.
+N — 40.
+Summa-41.
+Vbi vides Summam quę primam Dictionem i. An componit, esse 41.
+
+A — 1.
+N — 40.
+T — 100.
+O — 50.
+N — 40.
+I — 9.
+V — 200.
+S — 90.
+Summa-530.
+Sicuti secunda est 530. quę ex literis efformantibus Nomen Antonius oritur; quo in Opere varia adnotanda sunt.
+
+[MARGIN: left edge, partly visible fragments from the facing page, cropped and mostly illegible: "ipsas", "Antonius", "ter si-", "pido", "Verba", "ne", "Suc-", "titio", "pot", "cam", "lla", "omnia", "nsiri", "Exem", "ur", "imperij" [?], "res", "anus", "Rabos" [?], "ota", "[...]"; near the bottom "Prima" [?]]

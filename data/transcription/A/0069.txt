@@ -1,0 +1,23 @@
+72
+
+Ciphrę mathematica delineatio.
+
+[DIAGRAM: ruled grid of 12 rows × 11 columns. The first column holds ℞ marks, the second the row numbers, the next eight columns are empty except in the top row, and the last column holds ℞ marks. ℞ marks are in the first column on odd rows and in the last column on even rows. Read row by row, left to right:]
+℞. | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 
+ | 2. | | | | | | | | | ℞.
+℞. | 3. | | | | | | | | | 
+ | 4. | | | | | | | | | ℞.
+℞. | 5. | | | | | | | | | 
+ | 6. | | | | | | | | | ℞.
+℞. | 7. | | | | | | | | | 
+ | 8. | | | | | | | | | ℞.
+℞. | 9. | | | | | | | | | 
+ | 10. | | | | | | | | | ℞.
+℞. | 11. | | | | | | | | | 
+ | 12. | | | | | | | | | ℞.
+
+Practica uero eiusdem Inscriptio hęc est. Primum accipe Quęsiti tui Radices in Canali medio Sphericę Orbitę constitutas, et in primo Cellularum Ordine perpendiculari, et literis AA signato repone sequenti forma. Prima Radix in prima locetur Cellula A. signata: Secunda, quę sequitur in tertia locetur Cellula litera B notata: Radix tertia in Cellula quinta litera C conscripta appone: et sic in sequentibus operare, itaut inter Radicem, et Radicem uacua una detineatur Cellula usque ad eiusdem Ordinis terminum. Deinde ad conficiendum oppositum perpendicula=rem ordinem literis BB connotatum conuerso methodo hoc in Ordines [?] Radices inscribes: Scilicet: Vltima Radix in Canale me=dio Sphericę Orbitę notata (quę prima Operis repetita est) in ultima illius Ordinis Cellula litera G signata sita sit. Penul=timam uero Canalis medij Radicem, quam Secundam Operis repe=titam esse cernes, in Secunda Cellula post ultimam uersus Supe=riorem partem ascendendo, et litera H notata lineare. Tertiam postea Radicem (quę reuera ultima Operis est) in quinta post eamdem ultimam, cui litera I inserimus, conscribes; et sic in reliquis operare, ut sequenti Schemate factum uides. —
+
+[MARGIN: left edge, lower, fragmentary: "pr[...] / l[...]"]
+
+Schema

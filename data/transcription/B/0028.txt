@@ -1,0 +1,43 @@
+32
+
+ibi sunt linee, quòt Numerus generatiuus requirit, quod ni prima
+assequatur linea, Secunda saltem non negabit intentum. = At si
+aliquando succedat, quod nec unica fieri possit linea; uti V.G.
+si dictio ad numeris esset scribenda, cuius Numeri sunt 1,4,
+ex quibus nulla scripta potest erui, nisi 0, tali casu nullam
+illi Verbo effeceris lineam; imò Summa ipsa in suo Esse
+relinquetur. = Sed, ut Extractio Radicum innotescat, sic
+operare studeas.
+
+[MARGIN: Radicum Extractio.]
+
+Accipe Numerum quarte linee prime Operationis, et Secun-
+dum ipsius valorem, et quantitatem multiplicabis summam ei
+correspondentem, et Productum ex quantitate orta ex Numero
+generatiuo ultime linee (siue unica sit, siue duo, siue tres
+fuerint) huius secunde operationis subtrahes. Deindè quid-
+quid ex subtractione superuenerit residui per Numerum inte-
+grum prime linee illius prime Operationis, et coherentem
+dicte summe diuide: et Residuus erit quesita Radix illius
+summe, et dictionis: quam Radicem collocabis post lineam
+huius secunde Operationis sub propria dictione, ut inferius fa-
+ctum cernes.
+
+Sed in hac Radicum extractione ultra generalem regulam
+nunc superius enunciatam non pauca sunt notanda:
+
+Et primò, quòd si Numerus ultime seu quarte linee
+prime Operationis; qui (ut diximus) Summa ei correspondente
+debet multiplicari; Zifra fuerit; ipsum considerabis, ac si Uni-
+tas esset; Scilicet, in sua Multiplicatione Zifras non generabit,
+Sed eandem summam in suo esse retinebit. V.G. In primo
+supra descripto Exemplo prima summa Verbi An est 41,
+et Numerus ei coherens in quarta linea positus est 0, unde
+multiplicando 00 per 41. secundum vulgarem Aritmeticae
+Methodum haberetur semper 00, sed in hoc nostro opere
+Zifras non generabit, sed eandem summam reddet, scil. 41.
+
+Secundò notandum, quòd Numerus dividens subtractio-
+nem, et qui (ut dixi) est accipiendus à prima linea prime
+Operationis; si Numerus hic simplex fuerit, veluti simplicem
+pro suo divisore retinebis; si autem Compositus extiterit,

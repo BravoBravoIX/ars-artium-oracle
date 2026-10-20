@@ -1,0 +1,22 @@
+38.
+
+De tertia Operatione
+in qua de Rhomboidum Mathematica Structura
+disseritur, et de recta Dispositione Numerorum
+in ipsis abundè tractatur
+Cap. IV.
+
+Rhomboidem in Mathesi Figuram esse, nec equilateram, neque Rectangulam, Tironibus etiam notum est. In hac nostra Arte pariter, quę ueluti optima, et obediens Filia sequitur ubi[?] est uestigia Matris, Rhomboidis [underlined] nomine non equilateram Figuram, neque rectangulam ostendere intendimus; ut non solum hic inferius uidere erit; sed etiam post huius primi Operis terminum appositis elucebit Exemplis; quod de Rhomboide dicere non superfluum uisum fuit, ut etiam Origo Vocum innotescat.
+
+Deinde antequam de practica Numerorum Dispositione in quauis Rhomboide pertractemus, breuiter sermonem facere non piguit de Mathematica Fabrica ipsarum; quę Fabrica talis est.
+
+Principium cuiusuis Rhomboidis unicâ tantum constabit Cellula; Ordines uerò succedentes eiusdem Rhomboidis construes ab antecedenti Ordine per augmentum duarum Cellularum: sic procedendo ad au=
+gendos Ordines usque ad Medietatem ipsiusmet Rhomboidis; quę duos Ordines inter se equales retinebit. Deinde Rhomboidis Figura[m struck through] retrocedendo per decrescentiam, et abscissionem dua=
+rum Cellularum suos sequentes efformabit Ordines, usquequò ad unicam peruenerit Cellulam.
+
+Sed quousque augeri, et quando decrescere Cellulę debeant, Dictiones Quęsiti tui demonstrabunt. Nam si quinque [underlined], aut sex [underlined] Dictiones Quęsitus tuus habebit, necesse est unamquamque Rhomboidem Octodecim [underlined] constare Cellulis.
+
+Si ex septem [underlined], octo [underlined], nouem [underlined], aut decem [underlined] dictionibus efficietur, trigesimam secundam [underlined] non pertransibis Cellulam in quauis Rhom=
+boidum constructione.
+
+[catchword:] Si uerò

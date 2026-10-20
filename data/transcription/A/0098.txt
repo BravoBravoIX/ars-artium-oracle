@@ -1,0 +1,46 @@
+103
+
+<u>Note:</u> underlining in the manuscript is shown as <u>…</u>.
+
+addidisti, illic abscindes.
+
+Sed forsan queret quispiam, qua de causa in Tabulis appo=
+sitis Proportionum adnotatarum Numeros integros posuerim,
+cum tamen ex eis eruere necesse sit toties Numerum alphabe=
+ticum, quoties ibi occurret; ideircò Residuum in Tabulis adno=
+tare sufficeret. Quibus <u>quinto loco</u> respondere fas est.
+
+Si Residuum Numeri <u>alphabetici</u> solummodò adnotassem,
+ignota tunc esset Operanti Quantitas totalis, nec quoties Numerus
+alphabeticus ibi comprehenderetur tua agnouisset Scientia; Nam hoc
+<u>unum de Secretis Artis est</u>, scilicet, quod ultrà Numerum proportio=
+nalem cuilibet progressioni adscriptum, iungenda toties est Vnitas,
+quoties Numerum alphabeticum proieceris ex tota Summa.
+
+Alijs insuper de causis integras posuimus quantitates in Ta=
+bulis, quarum vna ad ostendendam formam progressiuam, ex qua
+tales componuntur Numeri proportionales: Deindè, ut certior, et
+euidentior agnoscatur Differentia inter primum Numerum, et
+secundum ibi adnotatum, ut tertium, et quartum [?] componas, si
+opus fuerit, ut superius facere docuimus.
+
+Tamen non inficior ex notatis Tabulis, <u>ope algebralis
+Algorismi</u>, alias elici posse Tabulas, uti in secunda nostri
+Operis Parte adnotatum cernes, <u>quarum medio breuiter,
+et tutè ob Calculationes ibi completas Responsi forma,
+et Exempla plurima demonstrantur</u>.
+[MARGIN: arrow drawn in the right margin, pointing left at the line "et tutè ob Calculationes ibi completas Responsi forma,"]
+
+Sextò uideatur ex quinque Speciebus Proportionum
+suprà adnotatarum, cuius sit Proportio Numeri illius,
+de quo in Tabulis perquiris quantitatem. Nam, si ex <u>prima</u>
+fueris, <u>tres</u> adiunges unitates, si tamen Recta extiterit pro=
+portio; si tamen uersa fuerit <u>duo</u>. Si uerò sub secunda
+<u>Specie</u> includetur, <u>sex</u> aut <u>quinque</u> adiunges unitates, prout
+recta, aut conuersa erit. Si <u>in tertia Classe</u> reperies, <u>nouem</u>
+pones, aut <u>octo</u>. Si ex <u>quarta</u> fuerit <u>12</u>, aut <u>11</u>. Si ex
+<u>ultima</u> <u>15</u>, uel <u>14</u> adiunges; quod si benè mea dicta percepe=
+ris completum extiterit Opus tuum.
+
+Septimò Differentia in quauis proportione contenta
+seruanda erit, ac iungenda integre Quantitati si <u>Corrector</u>

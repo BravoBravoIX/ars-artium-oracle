@@ -1,0 +1,38 @@
+261 [?]
+
+[DIAGRAM: grid of 11 columns × 12 rows, read left to right, top to bottom; "+" marks a small cross written above the number in that cell; empty cells left blank]
++16 | 14 | 1 | 5 | 3 | 0 | 3 | 3 | 2 | 1 |
+ | 9 | 7 | 8 | 2 | 4 | 1 | 5 | 0 | 9 | 9   [small mark outside the grid to the right of this row]
+5 | 3 | 4 | 2 | 4 | 1 | 2 | 0 | 7 | 11 |
+ | 6 | 10 | 0 | 2 | 4 | 3 | 7 | 1 | 12 | +20
+4 | 0 | 5 | 2 | 4 | 6 | 4 | 9 | 14 | 14 |
+ | 1 | 1 | 0 | 10 | 14 | 6 | 16 | 13 | 4 | 16
+13 | 3 | 10 | 5 | 2 | 8 | 16 | 7 | 0 | 1 |
+ | 0 | 8 | 2 | 0 | 15 | 15 | 13 | 6 | 1 | 11
+6 | 2 | 0 | 4 | 6 | 15 | 6 | 7 | 3 | 4 |
+ | 10 | 6 | 12 | 10 | 9 | 0 | 10 | 9 | 5 | +5
+9 | 4 | 15 | 16 | 6 | 3 | 3 | 4 | 1 | 2 |
+ | 10 | 14 | 11 | 0 | 6 | 2 | 4 | 1 | 7 | +16
+
+[MARGIN: Subductio algetrica [?]]
+M. 5. ℞.M. .25 Q. P. 16. ℞.P. 256. Q.
+P. 16. ℞.P. 256. Q. M. 11. ℞.M. 121. Q.
+P. 21. ℞.P. 281. Q. P. 27. ℞.P. 377. Q.
+
+Additio
+P. 4. ℞.P. ...... 16. Q.
+P. 13. ℞.P. ...... 169. Q.
+P. 30. ℞.P. ...... 900. Q.
+P. 33. ℞.P. ...... 1[0?]89. Q. [ink blot over the second digit]
+P. 68. ℞.P. ...... 4624. Q.
+P. 148. ℞.P. ...... 6798. Q.
+
+Multiplicatio
+P. 21. ℞.P. 281. Q. P. 27. ℞.P. 377. Q.
+per ...... P. 148. ℞.P. 6798. Q.
+
+P. 3108. Q. P. 41588. C. P. 3996. Q. P. 55796. C.
+P. 142758. C. P. 1910238. QQ. P. 183546. C. P. 2562846. QQ.
+P. 7104. Q. P. 423688. C. P. 4473084. QQ.
+
+[MARGIN (facing page, partly visible at left edge): column of letters l. | a. | e. | r. | c. | e. | b. | i. | t. | Summa [?]; lower: ...0200.9[?] / ...0000[?]]

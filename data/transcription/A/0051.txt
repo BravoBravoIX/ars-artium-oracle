@@ -1,0 +1,34 @@
+54
+
+[MARGIN, left, in blue ink, beside the grids: 6]
+
+Rhomboides Sinistra                    Rhomboides Dextera
+
+[DIAGRAM: Rhomboides Sinistra (left). A stepped, diamond-shaped lattice of cells in 7 rows and 7 column positions. Numbers fall in alternating, checkerboard positions. Columns are numbered 1–7 from left to right.
+Row 1: col 4 = 3. Label A at left, between rows 1 and 2.
+Row 2: col 3 = 5; col 5 = 3.
+Row 3: col 2 = 6; col 4 = 9; col 6 = 4. Label B at left.
+Row 4: col 1 = 6; col 3 = 1; col 5 = 1; col 7 = 2.
+Row 5: col 1 = 2; col 3 = 2; col 5 = 5; col 7 = 1.
+Row 6: col 2 = 5; col 4 = 2; col 6 = 4. Label D at left.
+Row 7: col 3 = 3; col 5 = 1. Label C at left.
+Below the grid, a single cell under col 4 = 2.
+Small dots mark the corners near A, B, D and C, and near the right-hand corners. A stem runs down from the grid and curves to the right as a branch. Numbers in the branch, read from top to bottom along the curve: 3. 5. 2. 3. Letters on the outside of the curve, in the same order: D. C. B. A. So the pairs are D–3, C–5, B–2, A–3.]
+
+[DIAGRAM: Between the two figures: ℞ [?] with 8. written below it.]
+
+[DIAGRAM: Rhomboides Dextera (right). A lattice of the same form, 7 rows by 7 column positions, with columns numbered 1–7 from left to right.
+Row 1: col 4 = 0. Label A at right.
+Row 2: col 3 = 3; col 5 = 1 [?]. Label B at right.
+Row 3: col 2 = 1; col 4 = 3; col 6 = 0.
+Row 4: col 1 = 2; col 3 = 0; col 5 = 0; col 7 = 1.
+Row 5: col 1 = 1; col 3 = 0; col 5 = 0; col 7 = 0.
+Row 6: col 2 = 0; col 4 = 2; col 6 = 0. Label D at right.
+Row 7: col 3 = 2; col 5 = 0. Label C at right.
+Below the grid, a single cell under col 4 = 2.
+The stem curves down to the left as a branch. Numbers in the branch, read from top to bottom along the curve: 8. 8. [?] 4. 8. 4. [?] 7 [?]. Letters on the outside of the curve, from top to bottom: D. C. B. A.]
+
+At si Radix illa prima, cuius medio, ut uides, Brancarum Numeri eliciuntur, Cruce ✠ Signata fue=rit, tunc quià Radix illa uocatur Conuersa [underlined], idcircò ea=dem conuerso ordine utenda est; scilicet, est desumen=dum Comparationis Exordium ab ultima exteriori Cellula posita extra Angulos, quę propè inferiorem Angulum conscriptam cernes. Deindè ad sequentem, uel sequentes, si plures fuerint, te conferas, prosequendo usque ad Numeros exterioris Anguli; deinde ad primam positam post superiorem Angulum pertranseas operando,
+donec
+
+[Facing page at right edge, partly visible, not transcribed: …mus etiam / …exteriorem / …ova Bran[…] / …incipiendo / …et optime / …Artificiis / Quod Exe[…] / in fine […] / Rhom[…]; also part of a grid with D, 0, 1, B.]

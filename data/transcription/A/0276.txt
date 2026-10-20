@@ -1,0 +1,138 @@
+242 [?]
+
+D
+
+Quo anno Imperij Sui Massimilianus Secundus Romanorum Imperator morietur.
+
+[Table of letter-values, six columns, read top to bottom]
+
+Column 1:
+Q | 70.
+u | 200.
+o | 50.
+| 320.
+a | 1.
+n | 40.
+n | 40.
+o | 50.
+| 131.
+
+Column 2:
+i | 9
+m | 30.
+p | 60.
+e | 5.
+r | 80.
+i | 9.
+i | 9.
+| 202.
+S | 90.
+u | 200.
+i | 9.
+| 299
+
+Column 3:
+M | 30.
+a | 1.
+s | 90.
+s | 90.
+i | 9.
+m | 30
+i | 9.
+l | 20.
+i | 9.
+a | 1.
+n | 40
+u | 200.
+s | 90.
+| 619.
+
+Column 4:
+S | 90.
+e | 5.
+c | 3.
+u | 200.
+n | 40.
+d | 4.
+u | 200
+s | 90
+| 632.
+
+Column 5:
+R | 80.
+o | 50
+m | 30.
+a | 1.
+n | 40.
+o | 50.
+r | 80.
+u | 200.
+m | 30.
+| 561.
+
+Column 6:
+I | 9
+m | 30
+p | 60.
+e | 5.
+r | 80.
+a | 1.
+t | 100.
+o | 50
+r | 80.
+| 415.
+m | 30.
+o | 50.
+r | 80.
+i | 9.
+e | 5.
+t | 100.
+u | 200
+r | 80.
+| 554.
+
+[Calculation rows]
+320. | 131. | 202. | 299. | 619. | 632. | 561. | 415. | 554.
+12. | 12. | 21. | 60. | 57. | 31. | 05. | 33. | 01.
+3. | 3. | 3. | 6. | 12. | 4. | 5. | 6. | 1.
+0 | 0 | 2. | 5. | 8. | 0. | 0. | 5.
+[struck through:] 32 | 32 | 13 | 16 | 44 | 44 | 55 | 14
+1. | 1. | 1. | 4. | 0 | 0 | 0 | 2. | 4
+[DIAGRAM: a dotted curve joins the 4 (4th column) and the 0 (5th column) in the last row. A dotted line runs from a further 4 written below, at left of centre, rightward up to the 4 at the far right of the last row.]
+
+quo
+70.200.50
+400002
+10000
+R' 8.
+
+anno
+1.40.40.50.
+010102
+R' 11.
+
+Imperij
+9.30.60.5.80.9.9
+600302506
+30000020
+R'. 3.
+
+Sui
+90.200.9
+60000
+3000
+R'. 4.
+
+Massimilianus
+30.1.90.90.9.30.9.20.9.1.40.200.90.
+000606060060060100006 [?]
+000303030030030000000 [?]
+R'. 5.
+
+Secundus
+90.5.3.200.40.4.200.90.
+60200001010006 [?]
+300000000000000 [?]
+R'. 10.
+
+[catchwords at foot, partly cut:] [...] | Imperator

@@ -1,0 +1,29 @@
+107
+
+Progressiones Geometricę proportionales
+Superparticulares dictę.
+
+| in Q.[?] | Dup: | in C.[?] | Trip: | in QQ.[?] | Quad:
+Sesquialtera | 3. | 7. | 10. | 23. | 33. | 75.
+Sesquitertia | 4. | 9. | 13. | 29. | 42. | 93.
+Sesquiquarta | 5. | 11. | 16. | 35. | 51. | 111.
+Sesquiquincta | 6. | 13. | 19. | 41. | 60. | 129.
+Sesquisexta | 7. | 15. | 22. | 47. | 69. | 147.
+Sesquiseptima | 8. | 17. | 25. | 53. | 78. | 165.
+Sesquioctaua | 9. | 19. | 28. | 59. | 87. | 183.
+Sesquinona | 10. | 21. | 31. | 65. | 96. | 201.
+Sesquidecima | 11. | 23. | 34. | 71. | 105. | 229.
+Sesquiundecima | 12. | 25. | 37. | 77. | 114. | 237.
+Sesquiduodecima | 13. | 27. | 40. | 83. | 123. | 255.
+Sesquidecimatertia | 14. | 29. | 43. | 89. | 132. | 273.
+Sesquidecimaquarta | 15. | 31. | 46. | 95. | 141. | 291.
+Sesquidecimaquincta | 16. | 33. | 49. | 101. | 150. | 309.
+Sesquidecimasexta | 17. | 35. | 52. | 107. | 159. | 327.
+Sesquidecimaseptima | 18. | 37. | 55. | 113. | 168. | 345.
+Sesquidecimaoctaua | 19. | 39. | 58. | 119. | 177. | 363.
+Sesquidecimanona | 20. | 41. | 61. | 125. | 186. | 381.
+Sesquiuigesima | 21. | 43. | 64. | 131. | 195. | 399.
+Sesquiuigesimaprima | 22. | 45. | 67. | 137. | 204. | 417.
+Sesquiuigesima secunda | 23. | 47. | 70. | 143. | 213. | 435.
+
+[MARGIN: fragments of the facing page are visible at the left edge, but they are not part of this page: "M. Correct[...]", "[...]proportion[...]", "[...]Regulae[...]", "Correctrice[...]", "conscrip[...]", "[...]ite dictu[...]", "[...]me Capi[...]", "[...]Hebraic[...]", "[...]Lingua[...]"]

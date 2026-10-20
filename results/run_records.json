@@ -1,0 +1,41 @@
+{
+ "python": "3.13.14",
+ "seed": 20261020,
+ "code": {
+  "build_corpus.py": "be29e42ab3f865afa185a5b1f3cbba12013b6e094c30a24635908b9554401604",
+  "explore_d.py": "f77ada4fd4abeeb22c477ab233e579591fbc0d070bb74b1fe181f118c2f3e905",
+  "oracle.py": "aa342e4cc250613a3df21b571db8b1d4e6efa955146c7b5d51978d22be2b2312",
+  "passes.py": "295a39b6fa1225b1454ff4bdf551b84090b3affbc891f7632919fce5a3d642f3",
+  "reproduce.py": "a5ada6c07d43cac075b3f63282302b17959ee4f6292afc85af491737605ed896",
+  "run_records.py": "8c24805185950f36f60f7a5e659e76871dff98c2a94e6b264675efc663eb702a",
+  "stage_tests.py": "88d95a9e4e6af9e721dd72ba17acca91afa120a9c4f8b5a1cfae117798d46f81",
+  "stages.py": "be80a09a3ec03d8db5f4415fa40c45ad947747dadc64158f0b1d852ea381d7ba",
+  "tests.py": "8b6d2e7300fd55aead51ab9e2459cb3be7bfa794ead1017b8493c56d85d062ee"
+ },
+ "data": {
+  "data/examples.json": "429a3b8ffd32abf9e051bc5996f7acff3de8bc583c9ad0632059c873f13da8ff",
+  "data/sheets.json": "376aba0f3f10f6f9d44c4becd04509e5b9974d5819223d415ed8d83781b98f43"
+ },
+ "sources": {
+  "gutenberg/pg14945.txt": "b439d7728c7a4c9a26551a86760c7cf1f6091116fa9926075811542920b18663",
+  "gutenberg/pg218.txt": "84ac8411841a4d8f5f4a49b6a2cd1f466917c6a5af72916d5e0b2b1ecb2f659c",
+  "gutenberg/pg21827.txt": "b8c44a40efd2c52e1a1dc528eca5c05d2d6d1e0a22fa7d53a4447efec7a30d7a",
+  "gutenberg/pg226.txt": "d35576eee076806a236f7f9edf8c1a07462a4102084e025076f6227d8847afdb",
+  "gutenberg/pg227.txt": "2620ba82c00964d1a1f0458c8cf171946f158a06de0d0e764594170602c4c7b8",
+  "gutenberg/pg23294.txt": "7e0aba7d4c82d025786d88c49068245e4de67984a1303de2af3e1d8c157a808d",
+  "gutenberg/pg33849.txt": "30287aab673c861ae500f06fe55d4396f529a0c251b37178e7220b6c51317189",
+  "gutenberg/pg7402.txt": "3e0ee5ce940c036aed8a9af13ae5b121a39fdc7518ab2d49110a6e4d4140e5ca",
+  "gutenberg/pg8400.txt": "00f95713e9caeae27fdb3edc5f2f2e6b5f0ddcfcbc1813879fa4835295dde352"
+ },
+ "work": {
+  "heldout.txt": "060f09872ae80bf5e15a59d6779101e1ce90ae4fe84a2f4f468431dc1bf258d3",
+  "train.txt": "f6097774ba34f344223fbff59d3b27e255da104ea92f751da81a1a9297c0fcab"
+ },
+ "results": {
+  "explore_d.json": "774c4b6bdc56cafe39f822f75abb2613e4685eb4c3facba30f281bf6f42ca4bd",
+  "passes.json": "3dbfd5dd6667be75f99c3d4b3963b3bd6ddc3e3acf50a9956552cfdc79c84a7b",
+  "reproduction.json": "5503939137e59a0ed3d6ec962c9b63c1fbf31344198d21e2ffba1e7b242fb05d",
+  "stage_tests.json": "6461b20d9c5edef107f0729d834682171b2d0311de6f60c61643862735de2c12",
+  "tests.json": "2d4a51b57b80eec02003d10d56502149a1d07233f4548a26cb04f7920b56142a"
+ }
+}

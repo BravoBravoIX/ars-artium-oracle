@@ -1,0 +1,125 @@
+{"n": 16, "image_sha256": "e352cfa1ba9cb8698f9d49d09a9a2f6298cecb1db9061c111b06b303a8eebff2", "model": "claude-opus-5-5", "cost_usd": 0.055008, "stop_reason": "end_turn"}
+{"n": 8, "image_sha256": "862f3e8575e60ce162b6e728c087744b6864412ab2c9447a7b852b7d2e206af4", "model": "claude-opus-5-5", "cost_usd": 0.063288, "stop_reason": "end_turn"}
+{"n": 9, "image_sha256": "aeeee8347d468fc126c6763a7c9930bf3db9fb80d58dc64e695e8aff53af893d", "model": "claude-opus-5-5", "cost_usd": 0.059628, "stop_reason": "end_turn"}
+{"n": 10, "image_sha256": "eef8ed88a49829c99a66fe079d1dbe0ef3a158991cc3e677c6391376edfbf0d3", "model": "claude-opus-5-5", "cost_usd": 0.055968, "stop_reason": "end_turn"}
+{"n": 11, "image_sha256": "0927d4189eb46843d7fb53ea1e4e8afa8e98864228d10124dae29f31b35ea0cf", "model": "claude-opus-5-5", "cost_usd": 0.057468, "stop_reason": "end_turn"}
+{"n": 12, "image_sha256": "d4f1f04b39eaacaa917280acc1c8ac934bc18ff3bde403df01e021bc2aab3ed5", "model": "claude-opus-5-5", "cost_usd": 0.049228, "stop_reason": "end_turn"}
+{"n": 13, "image_sha256": "4f03c2a24ea37c063c820e757c131dae48f786fea7c6564dbdb2b745a92808c8", "model": "claude-opus-5-5", "cost_usd": 0.062348, "stop_reason": "end_turn"}
+{"n": 14, "image_sha256": "6cba03c16d065841216c54a6e051f2b192aab223aadabfbf9ed57bdcd5b880dc", "model": "claude-opus-5-5", "cost_usd": 0.063808, "stop_reason": "end_turn"}
+{"n": 15, "image_sha256": "8b2a7bf3fae0d0326f78e48b24705d0f044b8fab5a60af573bef0235289a5a7e", "model": "claude-opus-5-5", "cost_usd": 0.056368, "stop_reason": "end_turn"}
+{"n": 16, "skipped": true}
+{"n": 17, "image_sha256": "2beb3fda5683c647342a4e458d5d81bcf73e386d573fe6cfe8579f9ef0adeb37", "model": "claude-opus-5-5", "cost_usd": 0.066308, "stop_reason": "end_turn"}
+{"n": 18, "image_sha256": "507b30d47ca7779d556d7e20accfbf028928420a81f05c892939dad9a4664edd", "model": "claude-opus-5-5", "cost_usd": 0.058788, "stop_reason": "end_turn"}
+{"n": 19, "image_sha256": "28e3042a7c0dd561c927190adbce4a243ca11e043cdd51aa91cbfaafe01e9bb2", "model": "claude-opus-5-5", "cost_usd": 0.062628, "stop_reason": "end_turn"}
+{"n": 20, "image_sha256": "e999914b1c7f5cd9d894fc19b445dbe154b26c842970581c9ed7468e7e3dbc88", "model": "claude-opus-5-5", "cost_usd": 0.067388, "stop_reason": "end_turn"}
+{"n": 21, "image_sha256": "faff1f008506983d0c336bf71748d3edd2aded2eec2c97ae5a565195e5e9c222", "model": "claude-opus-5-5", "cost_usd": 0.063568, "stop_reason": "end_turn"}
+{"n": 22, "image_sha256": "a047c13d7b735572cd0437b3f5c5b6767c8b1d5859cc4b69c598e04f1f4f3461", "model": "claude-opus-5-5", "cost_usd": 0.066908, "stop_reason": "end_turn"}
+{"n": 23, "image_sha256": "d8cb5668048e51743aeda00de739bd65d108fbc2c9943909a45a148d1a44c65b", "model": "claude-opus-5-5", "cost_usd": 0.062368, "stop_reason": "end_turn"}
+{"n": 24, "image_sha256": "402cea5e232a892a244116a2d145ae221fb98baecce63f77e9e2026612d53b27", "model": "claude-opus-5-5", "cost_usd": 0.069028, "stop_reason": "end_turn"}
+{"n": 25, "image_sha256": "62433be756948081b3deed05aba9d88c41b51b9b2d5b137edd124df8752c80ee", "model": "claude-opus-5-5", "cost_usd": 0.034188, "stop_reason": "end_turn"}
+{"n": 26, "image_sha256": "e60f3230678d1f11b6ccb24ea0e39abed788657fd64946dcea11b53ecc8e5f56", "model": "claude-opus-5-5", "cost_usd": 0.060448, "stop_reason": "end_turn"}
+{"n": 27, "image_sha256": "9f6ea9e9804af4b690115e9fbcc9b0fae6e84e09a1f9ff82a6c5368d3a1e91b2", "model": "claude-opus-5-5", "cost_usd": 0.076308, "stop_reason": "end_turn"}
+{"n": 28, "image_sha256": "9a797da85cda30eafd1071ecf013d6fcbe548095a02925f1b95a13baa1a70531", "model": "claude-opus-5-5", "cost_usd": 0.066888, "stop_reason": "end_turn"}
+{"n": 29, "image_sha256": "ff77266b206c856a923baf1b1d5a466247353df41253e107400f08657d6f80d7", "model": "claude-opus-5-5", "cost_usd": 0.061748, "stop_reason": "end_turn"}
+{"n": 30, "image_sha256": "b13d28b978eaf3523e98f12ce2156b60c3dca2b18f9d34dc1e32adeb0f827234", "model": "claude-opus-5-5", "cost_usd": 0.063248, "stop_reason": "end_turn"}
+{"n": 31, "image_sha256": "bbfddcb86b991dacc1aed6b6392a3fa7946ad5c83d1ade9d947f78635bac633a", "model": "claude-opus-5-5", "cost_usd": 0.075108, "stop_reason": "end_turn"}
+{"n": 32, "image_sha256": "c0f85e151bb103ab0e0c3b820758835c2ad77b9802593e6ed390c57f5b0bfe13", "model": "claude-opus-5-5", "cost_usd": 0.068328, "stop_reason": "end_turn"}
+{"n": 33, "image_sha256": "0d1655ec4ca1aa9235689c10761eb1b7c05c75f2a54792582bf9fffa029d6430", "model": "claude-opus-5-5", "cost_usd": 0.061968, "stop_reason": "end_turn"}
+{"n": 34, "image_sha256": "fea7ec8e37cf6804d03f3e70e63efb6450587df2d6d9e13f14803375363bb3a2", "model": "claude-opus-5-5", "cost_usd": 0.052008, "stop_reason": "end_turn"}
+{"n": 35, "image_sha256": "1c36ad9ccdf52f7ebc35ae698839ddbab71955a4cc26fe9849c85c7189c7bd2c", "model": "claude-opus-5-5", "cost_usd": 0.060888, "stop_reason": "end_turn"}
+{"n": 36, "image_sha256": "370cbf0aead4e818134efadef077c6c557b8974fdd49db45f8223b08aa118fb5", "model": "claude-opus-5-5", "cost_usd": 0.064448, "stop_reason": "end_turn"}
+{"n": 37, "image_sha256": "92c463e351621ce514b68809b8dc95ac9ab5aa0068b5326fea56776c035e0041", "model": "claude-opus-5-5", "cost_usd": 0.058728, "stop_reason": "end_turn"}
+{"n": 38, "image_sha256": "6048798df0440a4a4a22622ca00aabb8b91ee13371a006759d060c1111896d18", "model": "claude-opus-5-5", "cost_usd": 0.071528, "stop_reason": "end_turn"}
+{"n": 39, "image_sha256": "d77dcea2e6a49761b487dfdfaecc0f931ccb867163b2bfb996c480112f14af12", "model": "claude-opus-5-5", "cost_usd": 0.068988, "stop_reason": "end_turn"}
+{"n": 40, "image_sha256": "a429d4d6f0e07ac11f44eb0585ff9322621165d111ccb8381cfb6617a1d09711", "model": "claude-opus-5-5", "cost_usd": 0.070728, "stop_reason": "end_turn"}
+{"n": 41, "image_sha256": "4e92a062dd2cef59fb0cabf8ea90f065acaf22c515308a534b16e048188ae39e", "model": "claude-opus-5-5", "cost_usd": 0.064868, "stop_reason": "end_turn"}
+{"n": 42, "image_sha256": "9bf10c1bfe0f8ab1cd84e3f6ea6d06cf6c522061ee6272ba39de4dcb7b07b71f", "model": "claude-opus-5-5", "cost_usd": 0.064908, "stop_reason": "end_turn"}
+{"n": 43, "image_sha256": "c8d704e137a37a07c176bfc0b9243f17fdf16ce579f360e31f86f8431e56b480", "model": "claude-opus-5-5", "cost_usd": 0.049068, "stop_reason": "end_turn"}
+{"n": 44, "image_sha256": "3c1ed241c8dd3aea5863c744ee87a2d03cbd40c79f83a68a3d43cbabd5b09c06", "model": "claude-opus-5-5", "cost_usd": 0.064788, "stop_reason": "end_turn"}
+{"n": 45, "image_sha256": "f40ed8b281e9d574a5a4a945acef63ef1bdea6c49131e9f9910515e8f5de03e1", "model": "claude-opus-5-5", "cost_usd": 0.050708, "stop_reason": "end_turn"}
+{"n": 46, "image_sha256": "c7e3dc251674cbdae6420e8f7233482e2fb55cf159ad1c79de628e9fccd1b962", "model": "claude-opus-5-5", "cost_usd": 0.062888, "stop_reason": "end_turn"}
+{"n": 47, "image_sha256": "2d0c836dd58a3aff835a8289484ea8b3faaa42d8e2f17ccbf1db687808454d41", "model": "claude-opus-5-5", "cost_usd": 0.067888, "stop_reason": "end_turn"}
+{"n": 48, "image_sha256": "87722b6eec2bb23f60cffcf8e89c33c60205adbb81a844a1e4143b2744069e77", "model": "claude-opus-5-5", "cost_usd": 0.071168, "stop_reason": "end_turn"}
+{"n": 49, "image_sha256": "690805ac196bf4da607aac822f182f0c40963c528e1ea7ed336febafb833d6ac", "model": "claude-opus-5-5", "cost_usd": 0.064848, "stop_reason": "end_turn"}
+{"n": 50, "image_sha256": "747ef3b4917e0b681ffe1ee390884c76405f5a7d5220930c662d8fc26e6bd700", "model": "claude-opus-5-5", "cost_usd": 0.043408, "stop_reason": "end_turn"}
+{"n": 51, "image_sha256": "848782c3f5c1994145c68f8ffae64f7f0868587231eeb5c3f38041fd4a3465fa", "model": "claude-opus-5-5", "cost_usd": 0.094028, "stop_reason": "end_turn"}
+{"n": 52, "image_sha256": "f605150f405a2fd136a9f831db97609ad17d008a73f98a02d4291554c34b7046", "model": "claude-opus-5-5", "cost_usd": 0.068108, "stop_reason": "end_turn"}
+{"n": 53, "image_sha256": "12e363ef2c295195c67fca8863be929ba1257418cfb2fdffe0e4adc63c192b2e", "model": "claude-opus-5-5", "cost_usd": 0.041088, "stop_reason": "end_turn"}
+{"n": 54, "image_sha256": "0133cc3e932dc28b27eb423d05697656fdbfcc22d5984eebbee0c67f7b471394", "model": "claude-opus-5-5", "cost_usd": 0.063628, "stop_reason": "end_turn"}
+{"n": 55, "image_sha256": "7f18635def3970586fcbc6d4e7ecf6aca28f7320702969d83e0d32a64fcf8dba", "model": "claude-opus-5-5", "cost_usd": 0.061888, "stop_reason": "end_turn"}
+{"n": 56, "image_sha256": "09daf6d1e8b0ec7c30d94dbceb6c041cbf9d61544836ffc550ba47ac99733d65", "model": "claude-opus-5-5", "cost_usd": 0.062268, "stop_reason": "end_turn"}
+{"n": 57, "image_sha256": "6b38f9004cbfce942f80b609c00480173d5d6140cadb8b28ca4208eff529fbeb", "model": "claude-opus-5-5", "cost_usd": 0.053348, "stop_reason": "end_turn"}
+{"n": 58, "image_sha256": "c1a8cf08f0c368317e7f01f8d61997a53cd2363f565287db63f6cf52644d281d", "model": "claude-opus-5-5", "cost_usd": 0.078408, "stop_reason": "end_turn"}
+{"n": 59, "image_sha256": "97d584f683c5e54f11a2dd8795c3a7e94ebb9d4d611757223b5a9a685cad35aa", "model": "claude-opus-5-5", "cost_usd": 0.052628, "stop_reason": "end_turn"}
+{"n": 60, "image_sha256": "33101bda2a5112cf6c85cdd7876aa50f851769d5b9a1674c537e1c6ffc512042", "model": "claude-opus-5-5", "cost_usd": 0.072048, "stop_reason": "end_turn"}
+{"n": 61, "image_sha256": "1f1fabb27bd65f5cd4a70d8c7c58a10615e1e3477bfd952249fa9b4996db6604", "model": "claude-opus-5-5", "cost_usd": 0.067028, "stop_reason": "end_turn"}
+{"n": 62, "image_sha256": "ba889646aa2571fb00c21f48bd7fc0e1755a6d21c11e596e1450333d60293116", "model": "claude-opus-5-5", "cost_usd": 0.055488, "stop_reason": "end_turn"}
+{"n": 63, "image_sha256": "8bb1785a1196a47782f7b53ed2ffc756b67a8e5e49d49fcf25bc72dbdbcac21e", "model": "claude-opus-5-5", "cost_usd": 0.056528, "stop_reason": "end_turn"}
+{"n": 64, "image_sha256": "7023ee07b228ac1bb44267c897961dbde11395aeced6366e3ca6e8e2ce15a822", "model": "claude-opus-5-5", "cost_usd": 0.059268, "stop_reason": "end_turn"}
+{"n": 65, "image_sha256": "bfaee525950e32902241e3ccf91603916e031a47680238c7fcce3bb73f5535b5", "model": "claude-opus-5-5", "cost_usd": 0.070368, "stop_reason": "end_turn"}
+{"n": 66, "image_sha256": "97a4aaeec51f3ca9b66df3937704f11bdd2aa573c1358707b01011d805355a33", "model": "claude-opus-5-5", "cost_usd": 0.029308, "stop_reason": "refusal"}
+{"n": 67, "image_sha256": "e7737c90c9303d62ce6e4acb8e0073d849d41b6dd6c876bd47d99041b1a1675e", "model": "claude-opus-5-5", "cost_usd": 0.037268, "stop_reason": "end_turn"}
+{"n": 68, "image_sha256": "cb2ca06a9951c5cfac6ef72488efdc9c57c5ffcc127a8451a0d189d25d926213", "model": "claude-opus-5-5", "cost_usd": 0.056768, "stop_reason": "end_turn"}
+{"n": 69, "image_sha256": "7001789b0d39dd7e467b056be0eec6b71c636442b1112a1e54f39f061dcbe204", "model": "claude-opus-5-5", "cost_usd": 0.057388, "stop_reason": "end_turn"}
+{"n": 70, "image_sha256": "78e3109ce95c555df92910aa408b822c8e06a521158e50af9f2d92d762cc54a0", "model": "claude-opus-5-5", "cost_usd": 0.077308, "stop_reason": "end_turn"}
+{"n": 71, "image_sha256": "56b6ce559853d55620abd9bb37cc6291254465e0fdd17476af3079e385568e82", "model": "claude-opus-5-5", "cost_usd": 0.054308, "stop_reason": "end_turn"}
+{"n": 72, "image_sha256": "3c29bd733ec34030ecdf4021682f46d346df71151f1b85c5e0bd93e16a8e10ca", "model": "claude-opus-5-5", "cost_usd": 0.098088, "stop_reason": "refusal"}
+{"n": 73, "image_sha256": "2de42cd5c2f917cf073ea801e8ca0742710bafe7cee71131ad48366c7352500f", "model": "claude-opus-5-5", "cost_usd": 0.087508, "stop_reason": "end_turn"}
+{"n": 74, "image_sha256": "fc196684af9a67314e13d8afb3f2d052f180e833d8c9d3c6595b806173ace70c", "model": "claude-opus-5-5", "cost_usd": 0.057448, "stop_reason": "end_turn"}
+{"n": 75, "image_sha256": "e511b425f6c80cb515738878d9cdc945482e18e0cc488f46005e18002fb95c03", "model": "claude-opus-5-5", "cost_usd": 0.051028, "stop_reason": "end_turn"}
+{"n": 76, "image_sha256": "b057a0a0edadcfcc21b20b938d407b0f21eb546c55c2a1a4e4f0425b05258763", "model": "claude-opus-5-5", "cost_usd": 0.059688, "stop_reason": "end_turn"}
+{"n": 77, "image_sha256": "d62ef4dd080c0ba954b23eb75fbc1ebc043707e48ad01b1c0e575a7cca4e0b30", "model": "claude-opus-5-5", "cost_usd": 0.062168, "stop_reason": "end_turn"}
+{"n": 78, "image_sha256": "7d96a2c3f010905f9174aa05dab1e05a905cacdca4abb8cf48d60679519a6466", "model": "claude-opus-5-5", "cost_usd": 0.060568, "stop_reason": "end_turn"}
+{"n": 79, "image_sha256": "0a0fa5cbca04c7283a40682ead04a7077c7ca3ff39a9fa4c9fc5399184793bd1", "model": "claude-opus-5-5", "cost_usd": 0.054468, "stop_reason": "end_turn"}
+{"n": 80, "image_sha256": "b663d221bfa30acd998e2f5455f25373f15eb536b3172b4c2d8acacd80d8d62f", "model": "claude-opus-5-5", "cost_usd": 0.058928, "stop_reason": "end_turn"}
+{"n": 81, "image_sha256": "9c28756ea8a6c1e413b91138346e51c889dfa2474a6fd13f6652d51d1f4139cb", "model": "claude-opus-5-5", "cost_usd": 0.060668, "stop_reason": "end_turn"}
+{"n": 82, "image_sha256": "87adae331c888c1fe734268a00b0324ccd632d6815f6f1919a17b6a974c93f9e", "model": "claude-opus-5-5", "cost_usd": 0.063128, "stop_reason": "end_turn"}
+{"n": 83, "image_sha256": "511e3714ece1f23ec174b03065317175d4a8ab8a96d32d4815b80fe77f1f803c", "model": "claude-opus-5-5", "cost_usd": 0.064968, "stop_reason": "end_turn"}
+{"n": 84, "image_sha256": "9e4b169b55fce3fa72cc6bfd2a0dd03ac1d6fea182202a2438b138b4e5a17d4b", "model": "claude-opus-5-5", "cost_usd": 0.058308, "stop_reason": "end_turn"}
+{"n": 85, "image_sha256": "532582b77c2f2b0c69abfc738c8f9f0e0967d348383b682836e3ac0c38ccd3c6", "model": "claude-opus-5-5", "cost_usd": 0.065588, "stop_reason": "end_turn"}
+{"n": 86, "image_sha256": "06cd5f0c35afa6c89fbd659a96eb138fc3905c99344fcd5fa50361768bc0aef0", "model": "claude-opus-5-5", "cost_usd": 0.062968, "stop_reason": "end_turn"}
+{"n": 87, "image_sha256": "25a654b250752ef01ce61eb3ff667f84e0ad7ace78338f54f4574357518e1213", "model": "claude-opus-5-5", "cost_usd": 0.051048, "stop_reason": "end_turn"}
+{"n": 88, "image_sha256": "ce28f30a0f31d47e5bf21e9f19bfb04413112c9ba3765e5fc8d7f4c51f19048e", "model": "claude-opus-5-5", "cost_usd": 0.058988, "stop_reason": "end_turn"}
+{"n": 89, "image_sha256": "472a7136aea168a4ce7a4eb6f63645ede32b11fa2b20ab642a24aaeb90f02163", "model": "claude-opus-5-5", "cost_usd": 0.062988, "stop_reason": "end_turn"}
+{"n": 90, "image_sha256": "d9d9cb2b5e3f981596f0aa9a736d06fc2ad8b46a0dfc80e7eb8eda2f77290fed", "model": "claude-opus-5-5", "cost_usd": 0.067048, "stop_reason": "end_turn"}
+{"n": 91, "image_sha256": "aeb84187cbcb3646eb1211fa73c5d0c00e933b5aebfb9586b6b7428ad94265f7", "model": "claude-opus-5-5", "cost_usd": 0.065128, "stop_reason": "end_turn"}
+{"n": 92, "image_sha256": "67af2505cef835f27e21251e8a89587fd3b16657f8b328cb471adcf932000d59", "model": "claude-opus-5-5", "cost_usd": 0.056308, "stop_reason": "end_turn"}
+{"n": 93, "image_sha256": "3bbe01b04de299b1f5385d6f0fb87bf7927de5b9d69dd05e4918d2cfab9ba779", "model": "claude-opus-5-5", "cost_usd": 0.071728, "stop_reason": "end_turn"}
+{"n": 94, "image_sha256": "3ca8a81d39544e997d97c1850bd4fdd6c9318015d58397a609ee94f8886cea49", "model": "claude-opus-5-5", "cost_usd": 0.069548, "stop_reason": "end_turn"}
+{"n": 95, "image_sha256": "f4d641a2164d3a6f9603696947e90015482edb35cde8fc2fd9efeabc5b128f4b", "model": "claude-opus-5-5", "cost_usd": 0.061948, "stop_reason": "end_turn"}
+{"n": 96, "image_sha256": "13c42103dc7ed8efc854456c393453020b111fec705520bf4389bd6823d33fff", "model": "claude-opus-5-5", "cost_usd": 0.067708, "stop_reason": "end_turn"}
+{"n": 97, "image_sha256": "543c09fe533c1da110b76f4f2fc9b71677c717dbf0964581db53dcb9a53b9999", "model": "claude-opus-5-5", "cost_usd": 0.066428, "stop_reason": "end_turn"}
+{"n": 98, "image_sha256": "5d8d3c895a0fe07bec7dbbc2e641ec447bca6b8148c169047b6bb73e36bc4347", "model": "claude-opus-5-5", "cost_usd": 0.070768, "stop_reason": "end_turn"}
+{"n": 99, "image_sha256": "af63b0fc007e60c54af93c24bd314f75057da2778030c57a16c55305a2d6d563", "model": "claude-opus-5-5", "cost_usd": 0.051528, "stop_reason": "end_turn"}
+{"n": 100, "image_sha256": "e992deabdcd744c61010396aa7a7da5c45f5d42d6d1c577621968f10f6c5808f", "model": "claude-opus-5-5", "cost_usd": 0.059308, "stop_reason": "end_turn"}
+{"n": 101, "error": "not read: the per-run spending limit was reached (page re-run later or not needed)"}
+{"n": 102, "error": "not read: the per-run spending limit was reached (page re-run later or not needed)"}
+{"n": 103, "error": "not read: the per-run spending limit was reached (page re-run later or not needed)"}
+{"n": 104, "error": "not read: the per-run spending limit was reached (page re-run later or not needed)"}
+{"n": 105, "error": "not read: the per-run spending limit was reached (page re-run later or not needed)"}
+{"n": 106, "error": "not read: the per-run spending limit was reached (page re-run later or not needed)"}
+{"n": 107, "error": "not read: the per-run spending limit was reached (page re-run later or not needed)"}
+{"n": 108, "error": "not read: the per-run spending limit was reached (page re-run later or not needed)"}
+{"n": 109, "image_sha256": "ecc3db0ef28f64b7c55574e8b83ba205d0877abc0974b81cb31c3804d55ea807", "model": "claude-opus-5-5", "cost_usd": 0.058128, "stop_reason": "end_turn"}
+{"n": 110, "error": "not read: the per-run spending limit was reached (page re-run later or not needed)"}
+{"n": 111, "error": "not read: the per-run spending limit was reached (page re-run later or not needed)"}
+{"n": 112, "error": "not read: the per-run spending limit was reached (page re-run later or not needed)"}
+{"n": 101, "image_sha256": "750269dee9fea6ba4c9264a2f0c408d8f14493d77c3786d08fca439219f00727", "model": "claude-opus-5-5", "cost_usd": 0.039928, "stop_reason": "end_turn"}
+{"n": 102, "image_sha256": "9d778f750a9df461508ff7c7e97f9653cfde584f5c3f20a57d066dc227119311", "model": "claude-opus-5-5", "cost_usd": 0.062708, "stop_reason": "end_turn"}
+{"n": 104, "image_sha256": "f8dd0d8974e49644013c8a0a916757e6b9f5bd3eb556d03c5342e9a29d9af42f", "model": "claude-opus-5-5", "cost_usd": 0.026648, "stop_reason": "end_turn"}
+{"n": 106, "image_sha256": "440413e579f0e904a3e77d2d5a9329cab68ebf1f83cadb25b058cbeb71f5a17a", "model": "claude-opus-5-5", "cost_usd": 0.029448, "stop_reason": "end_turn"}
+{"n": 108, "image_sha256": "d42e77b2724956ec5935445255fec47db4a77a121d4e906126f19e037a8c7c0f", "model": "claude-opus-5-5", "cost_usd": 0.042708, "stop_reason": "end_turn"}
+{"n": 262, "image_sha256": "493831c411b79d62a9f01b9c0adba531e95cb027882b2b195c25ff5c57f3f26a", "model": "claude-opus-5-5", "cost_usd": 0.041328, "stop_reason": "end_turn"}
+{"n": 266, "image_sha256": "78675453570d47d94978deb54a1feba481c938359872fb6a3b5bccd076f4276d", "model": "claude-opus-5-5", "cost_usd": 0.020348, "stop_reason": "refusal"}
+{"n": 267, "image_sha256": "71127f1c0514dd2654dabb86e798d016656c361c54da0b5fc87c1c3b174867a3", "model": "claude-opus-5-5", "cost_usd": 0.127788, "stop_reason": "end_turn"}
+{"n": 268, "image_sha256": "8d65380f2566fc0f78ec044170c53d044cda4f3cd194cff5e60992f29569415e", "model": "claude-opus-5-5", "cost_usd": 0.048428, "stop_reason": "end_turn"}
+{"n": 269, "image_sha256": "6127f5b2350c21579e741091b2068985dac5fd05dc47bba41807a68d6ec47e98", "model": "claude-opus-5-5", "cost_usd": 0.073868, "stop_reason": "end_turn"}
+{"n": 270, "image_sha256": "0254d2d3d30e8126d640ca35c7ee5b3a38a9cf103fdfcf6114dd87cec4e55b65", "model": "claude-opus-5-5", "cost_usd": 0.065968, "stop_reason": "end_turn"}
+{"n": 271, "image_sha256": "4e877f62adfcc3cb21122740963870cf4ce210f4837d90ba14897dde0dc59943", "model": "claude-opus-5-5", "cost_usd": 0.023548, "stop_reason": "refusal"}
+{"n": 272, "image_sha256": "63b6de52be78d235243582e3ed85656d93c9c23af45e10ae432e61363f94ccde", "model": "claude-opus-5-5", "cost_usd": 0.033328, "stop_reason": "refusal"}
+{"n": 273, "image_sha256": "71ca0c7b2dfea823766f67bcbc5783cf3c5b8fbc84b5d778d4d35906fd5c5405", "model": "claude-opus-5-5", "cost_usd": 0.022188, "stop_reason": "refusal"}
+{"n": 274, "image_sha256": "cec45ccc251adef28a911ab6c1d13f59fe15beee360ce12d3b41b64ab60ca143", "model": "claude-opus-5-5", "cost_usd": 0.059068, "stop_reason": "end_turn"}
+{"n": 276, "image_sha256": "14368adee121152111d7a5d6ffebe63621cf674d1c8756ab88ecf4550802249b", "model": "claude-opus-5-5", "cost_usd": 0.067468, "stop_reason": "end_turn"}
+{"n": 277, "image_sha256": "d417324dc4976e24341cdb89401dd3626774304454a2c1392c2602af753dc645", "model": "claude-opus-5-5", "cost_usd": 0.114128, "stop_reason": "end_turn"}
+{"n": 278, "image_sha256": "204d7771907e3318a50d07e83b5fa7ec714557a02677718d281ce27b64d6d219", "model": "claude-opus-5-5", "cost_usd": 0.062888, "stop_reason": "end_turn"}
+{"n": 279, "image_sha256": "43b5e89655c9291c78816a03698bd4def4f581692ea37113775447dc382ea458", "model": "claude-opus-5-5", "cost_usd": 0.020348, "stop_reason": "refusal"}

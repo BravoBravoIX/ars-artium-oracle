@@ -1,0 +1,39 @@
+51.
+
+Causa Numerum alphabeticum, non integre ibi apponendo,
+sed reiecto toties Numero Alfabetico, quoties ibi occurret; Re=
+siduum ſolummodò in Canale depones, ut hic factum uides
+inferius suo loco.
+
+[DIAGRAM: The whole figure is made of two rhomboid grids joined by curved channels ("Brancae") to a central vertical canal. Below, the canal runs between two sets of concentric semicircular channels. No numbers are written in any cell.
+
+UPPER LEFT: heading "Rhomboides Sinistra". Under it, "Angulus Superior" stands above the top cell. The grid is cross/rhomboid-shaped and all its cells are empty. Reading top to bottom, the rows are approximately: 1 cell (stem) | 3 | 5 | 7 | 7 | 5 | 3 | 1 cell (stem). Labels around it:
+- upper left edge: "Exteriores" [?]
+- left: "Angulus Exterior"
+- right: "Angulus Interior"
+- lower left: "Cellulae" [?]
+- below: "Angulus Inferior"
+The lower stem curves down into a channel. Along this channel, reading downward and toward the centre, the letters are "D." "C." "B." "A.". Beneath the channel is the label "Branca Sinistra".
+
+UPPER RIGHT: heading "Rhomboides Dextra". Under it, "Angulus Superior". The grid has the same shape and all cells are empty. Labels around it:
+- upper right: "Cellulae"
+- left: "Angulus interior"
+- right: "Angulus Exterior"
+- lower right: "Exterior" [?]
+- below: "Angulus Inferior"
+Along the curved channel, reading from the centre outward, the letters are "A." "B." "C." "D.". Beneath it is the label "Dextra Branca".
+
+CENTRAL CANAL, read top to bottom:
+- "℞" between the two rhomboids
+- "℞" at the junction of the branches
+- 5 "℞" in the upper section. On the left side of this section is the label "Semid. Superior Semic. Sinistri", and on the right side "Semid. Superior Semic. Dextri".
+- 4 "℞" in the lower section. On the left side of this section is the label "Semid. Inferior Semic. Sinistri", and on the right side "Semid. infer. Semic. Dextri".
+
+LOWER CIRCLES: There are two sets of concentric semicircles (c. 8 rings each), one on each side of the canal. Both sets are crossed by dashed radii.
+- Ring ends on the left lower side, read bottom to top: "A." "I." "N." "G." "F." "E." [?] "D." "C."
+- Outer labels on the left semicircle, read top to bottom: "æ" [?], "mn" [?], "Lu", "Co".
+- Outer labels on the right semicircle, read top to bottom: "Co", "Lu", "mn" [?], "æ" [?].
+- Vertical label at the far left: "Semicirculus Sinister".
+- Vertical label at the far right: "Semicirculus Dexter".]
+
+[MARGIN: left edge, text bleeding from facing page, partly cut off: "...Sortmum[?] / ...ntem / ...ijetis[?] / ...rem / ...ntem / Semitir[?] / ...semiti / ...Angulo[?] / ...lta p[?] / ...o fa... / ...claust[?] / ...uidenti[?] / ...attqui[?] / ...num / ...quoque / Partem / Causa / ...rbitam[?] / ...in tota[?] / ...expletus[?] / ...e simul[?] / Secunda / Tertia / Canalis[?] / ...ma tertij[?] / ...earum / ...e quilibet[?] / ...tur. / ...ruce[?] / ...b sinistri[?] / ...quaesi[?] / Causa"]

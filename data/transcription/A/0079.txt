@@ -1,0 +1,21 @@
+42
+
+et Subductio, et Additio necessaria; idcirco ex hoc sequitur Quesitum tuum quinque dictionum minorem non constituendum, ut monui faciendum in quarto huius operis Capite; aliter Opus conficere frustrà tentares.
+
+Insuper Multiplicatio suam ostendit prestantiam, que ex Additione, et Subductione eruitur sic. Accipe residuum Subductionis superius exhibitae, et cum producto ex Superiori Additione multiplicabis, obseruata secundum Cossicas regulas literarum permutatione, non solum literarum P. et M., sed etiam R. Q. C. & inde more algebrico omnes productorum Species cum similibus Speciebus addes, scilicet Q. cum Q., C. cum C., QQ. cum QQ. obseruatas omnes Algebre regulas, ut sequenti conscripto Exemplo ex petitione an in Leedensi Oppido fruges abbundarentur, patet.
+
+[MARGIN: a short diagonal pen stroke beside "Insuper Multiplicatio"]
+
+Multiplicationis Exemplum
+
+P.50. R.P.1700. Q. M.45. R.M.1277. Q. — Subductionis residuum
+P.3069. R.P.5794903. Q. ——— Additionis Quantitas
+
+P.153450. Q.P.5217300. C.M.138105. Q.M.3919113. C.
+P.289745150. C.P.9861335100. QQ.M.260770635. C.M.7400091131. QQ
+
+P.15345. Q.P.30272702. C.P.2451243969. QQ. Productum Multiplicationis
+
+Hic tria tamen sunt adnotanda, et primum. Si una ex Quantitatibus residui tue Subductiones foret 0, quod accidere posse superius in Subductionis Exempla demonstrauimus, tunc cum Zifra seu Zero nullam generet quantitatem, idcirco loco producti talis multiplicationis Zifras conscribes, ut in Exemplo Multiplicationis de futuri Pontificis Electione in fine exarato, et hic quoque inscripto aperte conspicies.
+
+Alter
