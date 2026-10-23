@@ -74,7 +74,9 @@ The core operation throughout is the book's "difference" of two numbers *a* and 
 - **Leipzig, UB, Cod. mag. 28**, *Kabala mosaica* (Public Domain Mark): a related number "cabala" looked at briefly. Its operations (*chorda*, *detractio*, *numeri restricti*) are different, and it is left for another study.
 - **Not online:** Wellcome Library MS.4464 (a mid-18th-century transcript of 139 ff.; the catalogue calls it "a copy of an extremely rare printed book on fortune-telling by letters and numbers") and Florence, BNCF II.III.323.
 
-**Transcription.** Claude (Anthropic's API) read 113 pages of LJS 251 (pass A, Claude Opus 5.5) and 33 rule and example pages a second time (pass B, Claude Sonnet 5.5), at a cost of 7.82 US dollars. Every number used in a test was checked by eye against the page image, and the model declined seven diagram pages, which were read by eye where needed. Details and prompts are in `data/transcription/README.md`. The worked numbers used in the tests are in `data/examples.json` (stages 1–2 and the answers) and `data/sheets.json` (stages 3–7), with image numbers.
+**Transcription.** Claude (Anthropic's API) was given 113 page images of LJS 251 (pass A, Claude Opus 5.5) and returned text for 106 of them, and read 33 rule and example pages a second time (pass B, Claude Sonnet 5.5), at a cost of 7.82 US dollars. The model declined seven diagram pages; Claude read those that were needed from the images, and checked every number used in a test against the page image. Details are in `data/transcription/README.md`. The worked numbers used in the tests are in `data/examples.json` (stages 1–2 and the answers) and `data/sheets.json` (stages 3–7), with image numbers.
+
+**How AI was used.** The pages of LJS 251 were read from the images by Claude (Anthropic, model Opus 5.5), with 33 rule and example pages read a second time by Claude (Anthropic, model Sonnet 5.5). The two passes agree on a median 0.93 of the numbers on each page, and all 71 worked numbers checked on pages both passes read were found by both (`results/passes.json`). Claude also read the diagram pages the model declined and checked every number used in a test against the page image. An AI coding assistant (Claude Code) was used. The analysis reruns without any AI service; Claude's readings are stored as data.
 
 ## 3. Method
 
@@ -139,7 +141,7 @@ The evidence weighs strongly toward answers that were written first, with the ca
 ## 7. Caveats
 
 - **Three of six copies.** Only two Penn copies were read; the third Penn copy, the Wellcome and Florence copies and the 2011 sale copy were not.
-- **Machine transcription.** The transcription is by a language model. The numbers used in tests were checked by eye, but by the AI coding assistant, not by a palaeographer.
+- **Machine transcription.** The transcription is by Claude, and Claude checked the numbers used in tests against the page images. It awaits a palaeographer's reading.
 - **Partial coverage.** Stages 3–7 are coded for 7–10-word questions only (all three surviving sheets have 9 words). Some fill rules for larger rhomboids and for the angles are not coded.
 - **Exploratory findings.** The sheet-D slips (lower semidiameters, skipped root) are exploratory and were found after scoring.
 - **The cipher variant.** The "sheets' reading" of the upper semidiameter was seen on the sheets before test 9 was scored; the pre-registration says so, and the text's reading is the primary score.
@@ -164,7 +166,7 @@ The code uses the Python standard library only; `run_all.sh` asks `uv` for Pytho
 - **Left out:**
   - Source Library's transcription and translation (CC BY-SA 4.0), which was used only to find chapters.
   - The Project Gutenberg texts, which are fetched and not redistributed.
-  - The API reading script, which called the author's private client and is not needed to rerun the analysis. Its prompts are in `data/transcription/README.md`.
+  - The API reading script, which called the author's private client and is not needed to rerun the analysis, and its prompts.
 
 ## References
 
@@ -182,6 +184,7 @@ The code uses the Python standard library only; `run_all.sh` asks `uv` for Pytho
 
 ## Versions
 
+- **1.0.1** (21 October 2026): documentation update: a "How AI was used" section, tidier wording, files not needed to check the results removed. Run-record hashes refreshed; numbers unchanged.
 - **1.0** (20 October 2026): stages 1–7 coded and tested against the example sheets; the answer tests; the transcription; the paper.
 
 ## How to cite

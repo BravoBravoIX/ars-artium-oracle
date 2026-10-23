@@ -1,5 +1,5 @@
 {
- "_note": "Worked examples of Penn LJS 251 as written (operations 1-2). Sources: image numbers of the Internet Archive item ljs251 (0-based, as in ljs251_NNNN.jp2). Pass A (Claude Opus) transcription, every number eye-checked against the image by the analyst (eye readings win; see data/transcription/README.md). l4 lists the numbers of line 4 including the extra one for the last word. roots: value and whether marked with the cross (reversed). null = not legible or not on the pages read.",
+ "_note": "Worked examples of Penn LJS 251 as written (operations 1-2). Sources: image numbers of the Internet Archive item ljs251 (0-based, as in ljs251_NNNN.jp2). Pass A (Claude Opus) transcription, every number checked by Claude against the image (Claude's image readings win; see data/transcription/README.md). l4 lists the numbers of line 4 including the extra one for the last word. roots: value and whether marked with the cross (reversed). null = not legible or not on the pages read.",
  "examples": [
   {"id": "A_text", "where": "image 23 and 25 (chapter II text)", "words": ["An", "Antonius", "Pacutus", "Venetus", "Mercaturam", "exercebit"],
    "sums": [41, 530, 654, 640, 530, 509], "l1": ["3", "23", "11", "24", "23", "58"], "l2": [3, 5, 2, 6, 5, 13],

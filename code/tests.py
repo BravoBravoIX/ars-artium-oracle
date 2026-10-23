@@ -56,7 +56,7 @@ class CharLM:
 def test2() -> dict:
     """Chapter IX worked letter count for the Maximilian query (image 90), as written."""
     steps = [
-        {"step": "6290 - 1536 (eye: 1536 or 1538)", "book": 4553,
+        {"step": "6290 - 1536 (image: 1536 or 1538)", "book": 4553,
          "correct": [6290 - 1536, 6290 - 1538]},
         {"step": "4553 / 16: quotient", "book": 252, "correct": 4553 // 16},
         {"step": "4553 / 16: remainder", "book": 16, "correct": 4553 % 16},

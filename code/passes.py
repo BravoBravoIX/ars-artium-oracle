@@ -1,5 +1,5 @@
 """Two-pass check: agreement of the numbers read by pass A (Opus) and pass B (Sonnet) on each
-page both read, and whether each eye-checked worked number (data/examples.json) is found in
+page both read, and whether each image-checked worked number (data/examples.json) is found in
 each pass of its page. Writes results/passes.json.
 """
 

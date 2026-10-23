@@ -1,8 +1,8 @@
 # Pre-registrations
 
-Two documents, reproduced word for word. Each was written and committed in the author's working repository before the tests it names were scored: the first on 20 October 2026 (tests 2–5), the second later the same day, after the first round (tests 6–11). Where the originals give paths to private working folders, this copy gives the public repository's equivalents: `work/train.txt` and `work/heldout.txt` for the Latin reference text.
+Two documents, reproduced word for word. Each was written and committed in the author's working repository before the tests it names were scored: the first on 20 October 2026 (tests 2–5), the second later the same day, after the first round (tests 6–11). Where the originals give paths to private working folders, this copy gives the public repository's equivalents: `work/train.txt` and `work/heldout.txt` for the Latin reference text. Where they say "read by eye", "I checked by hand" or "hand checks", it was Claude that read or checked against the page images.
 
-The second document reports one hand check that was wrong. It said that sheet D's golden number ignores the rule for crossed roots. That was a slip of mental arithmetic: 12 against 11 gives 1, not 0. The scored test 10 shows that the rule as written gives sheet D's golden number.
+The second document reports one check that was wrong. It said that sheet D's golden number ignores the rule for crossed roots. That was a slip of arithmetic: 12 against 11 gives 1, not 0. The scored test 10 shows that the rule as written gives sheet D's golden number.
 
 ---
 

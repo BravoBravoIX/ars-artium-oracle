@@ -17,7 +17,7 @@
   #v(0.2em)
   #text(size: 9pt)[ORCID #link("https://orcid.org/0009-0003-6599-8297")[0009-0003-6599-8297] · Independent researcher, Australia]
   #v(0.2em)
-  #text(size: 9pt)[Working paper, version 1.0, 20 October 2026 · not peer reviewed]
+  #text(size: 9pt)[Working paper, version 1.0.1, 21 October 2026 · not peer reviewed]
   #v(0.2em)
   #text(size: 9pt)[Code, data and results: #link("https://github.com/BravoBravoIX/ars-artium-oracle")[github.com/BravoBravoIX/ars-artium-oracle]]
 ]
@@ -43,7 +43,9 @@ Les Enluminures' description of the copy now Penn Ms. Codex 1636 (TM 623) gives 
 
 The main witness is LJS 251 (Germany, 1655–1699; 139 ff.), from the Internet Archive images that Penn uploaded under the Public Domain Mark. Its example sheets were compared with those of Ms. Codex 1201 (part 2 only), read through Penn's IIIF service. Ms. Codex 1636 could not be obtained; the Wellcome and Florence copies are not online.
 
-Claude (Anthropic's API) read 113 pages of LJS 251: part 1 and the example sheets with Claude Opus 5.5, and 33 rule and example pages a second time with Claude Sonnet 5.5, at a cost of 7.82 US dollars. The model declined seven diagram pages. Every number used in a test was read by eye against the page image, by the AI coding assistant rather than by a palaeographer; the median page-level agreement of the numbers read by the two passes is 0.93.
+Claude (Anthropic's API) was given 113 page images of LJS 251 and returned text for 106: part 1 and the example sheets with Claude Opus 5.5, and 33 rule and example pages a second time with Claude Sonnet 5.5, at a cost of 7.82 US dollars. The model declined seven diagram pages. Claude read the declined pages that were needed from the images and checked every number used in a test against the page image; the median page-level agreement of the numbers read by the two passes is 0.93.
+
+*How AI was used.* The pages of LJS 251 were read from the images by Claude (Anthropic, model Opus 5.5), with 33 rule and example pages read a second time by Claude (Anthropic, model Sonnet 5.5). The two passes agree on a median 0.93 of the numbers on each page, and all 71 worked numbers checked on pages both passes read were found by both. Claude also read the diagram pages the model declined and checked every number used in a test against the page image. An AI coding assistant (Claude Code) was used. The analysis reruns without any AI service; Claude's readings are stored as data.
 
 = Method
 
@@ -97,7 +99,7 @@ The procedure is real, and its copyists followed it with care through seven stag
 
 = Limits
 
-Two of the six known copies were read. The transcription is by a language model, checked by eye by an AI assistant, not by a palaeographer. Stages 3–7 are coded for questions of 7–10 words only (all surviving sheets have nine). The division and answer stages are not implemented, so "where it breaks" marks where the book stops showing its work, not a proof that no rule could exist. The sheet-D slips are exploratory; the sheets' reading of the upper semidiameter was seen before the cipher test was scored, and the text's reading is the primary score. The Latin-likeness test shows the answers are Latin; it cannot say who wrote them.
+Two of the six known copies were read. The transcription is by Claude, which also checked the numbers used in tests against the images; it awaits a palaeographer's reading. Stages 3–7 are coded for questions of 7–10 words only (all surviving sheets have nine). The division and answer stages are not implemented, so "where it breaks" marks where the book stops showing its work, not a proof that no rule could exist. The sheet-D slips are exploratory; the sheets' reading of the upper semidiameter was seen before the cipher test was scored, and the text's reading is the primary score. The Latin-likeness test shows the answers are Latin; it cannot say who wrote them.
 
 = References
 
