@@ -13,11 +13,11 @@ The book gives worked example sheets. Two of them carry answers, and both answer
 
 **What is new, in one sentence.** No study of how this machine works has been published. We rebuilt the first seven stages from the rule text, and they reproduce the book's own sheets almost cell for cell, down to a 108-cell grid. But the two printed answers are fluent Latin verse that names events the book's own date could not know, and the steps that would turn the arithmetic into those letters are left blank in both surviving Penn copies. So the evidence weighs strongly toward the arithmetic being real and the answers being written first.
 
-**New in version 1.1.** We chained the machine end to end, so that it runs from the question alone. It reproduces about two thirds of every printed value on each sheet (B 130 of 192, C 83 of 126, D 133 of 192). Random questions get 7–17 (p = 0.0001). It cannot reach either answer. Both answered questions need the general division (golden number 8 or 5, and 2), and that rule, like the first proportion table, was on two leaves now missing from LJS 251 (pp. 85–86 and 105–106). Every departure of the book from its own rules is listed with its correction (22 items). They do not cluster where the answer is decided (7 of 50, against 7.0 by chance).
+**New in version 1.1 (25 October 2026).** We chained the machine end to end, so that it runs from the question alone. It reproduces about two thirds of every printed value on each sheet (B 130 of 192, C 83 of 126, D 133 of 192). Random questions get 7–17 (p = 0.0001). It cannot reach either answer. Both answered questions need the general division (golden number 8 or 5, and 2), and that rule, like the first proportion table, was on two leaves now missing from LJS 251 (pp. 85–86 and 105–106). Every departure of the book from its own rules is listed with its correction (22 items). They do not cluster where the answer is decided (7 of 50, against 7.0 by chance).
 
 This is a study of how a device works. Nothing here is a decipherment, and nothing here suggests that the device predicts anything.
 
-October 2026. CPU only; Python standard library. The whole analysis reruns in under a minute.
+October 2026 (v1.1: 25 October). CPU only; Python standard library. The whole analysis reruns in under a minute.
 
 **The paper:** [`paper/ars-artium-oracle.pdf`](paper/ars-artium-oracle.pdf) is a working paper, built from `paper/ars-artium-oracle.typ` by `paper/build.sh`. This README covers the same ground in more detail.
 
