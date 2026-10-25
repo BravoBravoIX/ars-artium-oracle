@@ -1,20 +1,27 @@
 {
  "python": "3.13.14",
- "seed": 20261020,
+ "seeds": [
+  20261020,
+  20261025
+ ],
  "code": {
   "build_corpus.py": "be29e42ab3f865afa185a5b1f3cbba12013b6e094c30a24635908b9554401604",
   "explore_d.py": "f77ada4fd4abeeb22c477ab233e579591fbc0d070bb74b1fe181f118c2f3e905",
+  "machine.py": "358114c41284f4381373c07d736dcd5b8b3acef01a3adb9d770a19e9a276a7f6",
+  "machine_tests.py": "f665cfac84e9b4a058427b5e495227705d6fde8d464e932528ab6e65b703ca10",
   "oracle.py": "aa342e4cc250613a3df21b571db8b1d4e6efa955146c7b5d51978d22be2b2312",
   "passes.py": "e2ea08524ee3808fb252a0887b98a9f80385afe4f81c234295cd22ad05708d43",
   "reproduce.py": "a5ada6c07d43cac075b3f63282302b17959ee4f6292afc85af491737605ed896",
-  "run_records.py": "8c24805185950f36f60f7a5e659e76871dff98c2a94e6b264675efc663eb702a",
+  "run_records.py": "c9758a4cc39a20d2fabb42bd1a8308fed1cfdf2acfbb9d6ccc7d08adbd29976f",
   "stage_tests.py": "88d95a9e4e6af9e721dd72ba17acca91afa120a9c4f8b5a1cfae117798d46f81",
   "stages.py": "be80a09a3ec03d8db5f4415fa40c45ad947747dadc64158f0b1d852ea381d7ba",
   "tests.py": "37f2085edec31bc959e1781303765199eed76f384f90d88740578317ef5f6f81"
  },
  "data": {
   "data/examples.json": "37f9f2dac9e15c2096fe88f3a7a5fdf796eb46188eca07b82e21c280f4d4901b",
-  "data/sheets.json": "af2f3dca744496194610073174127d9bae67f11c616bba63fe67477cea9eef4e"
+  "data/sheets.json": "af2f3dca744496194610073174127d9bae67f11c616bba63fe67477cea9eef4e",
+  "data/tables.json": "5b4d862f2499a7437ae9b1b638d6f14554dc49d43c49a1cc63a4c956b13b4cee",
+  "data/text_algebra.json": "01f0c2f72a8b378ec4485731f02cf539053d5796ca9d0b1cf336781259978636"
  },
  "sources": {
   "gutenberg/pg14945.txt": "b439d7728c7a4c9a26551a86760c7cf1f6091116fa9926075811542920b18663",
@@ -33,6 +40,7 @@
  },
  "results": {
   "explore_d.json": "774c4b6bdc56cafe39f822f75abb2613e4685eb4c3facba30f281bf6f42ca4bd",
+  "machine_tests.json": "d5776475d2d0fd441a0f235d7e82b87a1be83d5ab85422609f00fec250618883",
   "passes.json": "3dbfd5dd6667be75f99c3d4b3963b3bd6ddc3e3acf50a9956552cfdc79c84a7b",
   "reproduction.json": "5503939137e59a0ed3d6ec962c9b63c1fbf31344198d21e2ffba1e7b242fb05d",
   "stage_tests.json": "6461b20d9c5edef107f0729d834682171b2d0311de6f60c61643862735de2c12",

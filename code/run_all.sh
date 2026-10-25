@@ -20,6 +20,8 @@ WORK_DIR="$WORK" nice -n 19 $PY code/tests.py > /dev/null
 # Tests 6-11 (stages 3-7 against the example sheets; pre-registered) and the exploratory look at D
 nice -n 19 $PY code/stage_tests.py > /dev/null
 $PY code/explore_d.py > /dev/null
+# Tests 12-16 (the machine chained end to end; v1.1, pre-registered)
+WORK_DIR="$WORK" nice -n 19 $PY code/machine_tests.py > /dev/null
 # Agreement of the two transcription passes
 $PY code/passes.py > /dev/null
 $PY code/run_records.py "$SRC" "$WORK"

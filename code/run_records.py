@@ -22,7 +22,7 @@ def sha(p: Path) -> str:
 def main(src: str, work: str) -> None:
     rec = {
         "python": platform.python_version(),
-        "seed": 20261020,
+        "seeds": [20261020, 20261025],
         "code": {p.name: sha(p) for p in sorted((HERE / "code").glob("*.py"))},
         "data": {str(p.relative_to(HERE)): sha(p) for p in sorted((HERE / "data").glob("*.json"))},
         "sources": {str(p.relative_to(src)): sha(p)

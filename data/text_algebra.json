@@ -1,0 +1,52 @@
+{
+ "_note": "Worked examples of chapters VIII-IX of LJS 251 (algebra, division, use of the quotients), as written. Image numbers of the Internet Archive item ljs251. Numbers from pass A, checked against the images in session on 25 Oct 2026 (read by Claude Opus 5.5 in the Claude Code session, not by a person). Signed numbers: P positive, M negative. Subtraction lines are [[R, Q], [R, Q]] left to right.",
+ "subtraction": [
+  {"id": "brother", "where": "image 77 (p. 80), query on the author's brother's captivity",
+   "roots": {"first": 44, "last": 2, "second": 8, "penultimate": 31},
+   "crossed": {"first": false, "last": false, "second": true, "penultimate": false},
+   "top": [[-2, -4], [44, 1936]], "bottom": [[-8, -64], [31, 961]], "result": [[6, 60], [13, 975]]},
+  {"id": "pontiff_text", "where": "image 77 (p. 80), query on the election of the pope (text version)",
+   "top": [[16, 256], [-7, -49]], "bottom": [[16, 256], [-15, -225]], "result": [[0, 0], [8, 176]]},
+  {"id": "zero_root", "where": "image 77 (p. 80), example of a zero root",
+   "top": [[0, 0], [19, 361]], "bottom": [[69, 4761], [-7, -49]], "result": [[69, 4761], [26, 410]]},
+  {"id": "equal_pair", "where": "image 78 (p. 81), equal pairs both P",
+   "top": [[18, 324], [18, 324]], "bottom": [[-13, -169], [20, 400]], "result": [[31, 493], [-2, -76]]}
+ ],
+ "addition": [
+  {"id": "maximilian_text", "where": "image 78 (p. 81)", "roots": [16, 4, 5, 31], "result": [56, 1258],
+   "rule_roots_of_sheet_D_question": [16, 4, 5, 31, 39]},
+  {"id": "pontiff_text", "where": "image 80 (p. 83), addition quantity of the pope example", "result": [80, 2174],
+   "rule_roots_of_sheet_B_question": [4, 13, 30, 33, 6]}
+ ],
+ "multiplication": [
+  {"id": "leedensi", "where": "image 79 (p. 82)", "residue": [[50, 1700], [-45, -1277]], "addition": [3069, 5794903],
+   "partials": [153450, 5217300, -138105, -3919113, 289745150, 9861335100, -260770635, -7400091131],
+   "product": [15345, 30272702, 2451243969]},
+  {"id": "pontiff_text", "where": "image 80 (p. 83)", "residue_printed": [[0, 0], [640, 14080]],
+   "residue_from_subtraction": [[0, 0], [8, 176]], "addition": [80, 2174],
+   "partials": [0, 0, 640, 14080, 0, 0, 17392, 382624], "product": [640, 31472, 382624]},
+  {"id": "residues_zero", "where": "image 80 (p. 83)", "residue": [[0, 0], [0, 0]], "addition": [20, 400],
+   "product": [20, 400, 8000]},
+  {"id": "addition_zero", "where": "image 81 (p. 84)", "residue": [[7, 49], [-5, -25]], "addition": [0, 0],
+   "product": [2, 24, 48]}
+ ],
+ "division": [
+  {"id": "golden_zero", "where": "image 85 (p. 90)", "golden": 0, "dividend": [278, 7590, 85672],
+   "parts": [[92, 2], [69, 2]], "first_line": [282, 7682, 85741], "q1": 7590, "q2": 85672},
+  {"id": "golden_one", "where": "image 86 (p. 91)", "golden": 1, "dividend": [278, 7590, 85672],
+   "first_line": [282, 7862, 85741], "correctors": [283, 7863, 85742]},
+  {"id": "general_golden_7", "where": "image 82 (p. 87)", "golden": 7, "dividend": [640, 31472, 382624],
+   "lines": {"under": [4953, 31917], "remainder": [-4313, -445, 382624], "box": [[-57894, -371550], [57449, 754174]]},
+   "q1": "642 5/7", "q2": "7468 268/343", "_note": "golden >= 2: rule on missing pages 85-86; not coded"}
+ ],
+ "quotient_use": [
+  {"id": "start_cell", "where": "image 88 (p. 93), 'An tertia Decembris plueret'", "q1": -47888, "cells": 84,
+   "quotient": 570, "remainder": 8, "start": 7},
+  {"id": "first_letter", "where": "image 89 (p. 94), Antonius query", "q2": 5840, "quotient": 297, "remainder": 9, "first_letter": 10},
+  {"id": "count_general", "where": "image 90 (p. 95)", "golden": 16, "q1": 256, "q1_less_golden": 240,
+   "fraction": "2/13", "parts": [106, 107], "left": 27, "_note": "golden >= 2 case; arithmetic only"},
+  {"id": "count_maximilian", "where": "image 90 (p. 95)", "golden": 0, "first_dividend": 56,
+   "q_larger": 6290, "q_smaller": 1538, "difference": 4553, "div1": {"by": 16, "quotient": 252, "remainder": 16},
+   "div2": {"by": 14, "quotient": 17, "remainder": 0}, "after_subtraction": 40, "letters_after_first": 41}
+ ]
+}

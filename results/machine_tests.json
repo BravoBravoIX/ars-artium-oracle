@@ -1,0 +1,2197 @@
+{
+ "seed": 20261025,
+ "N": 10000,
+ "test12_chained": {
+  "sheets": {
+   "B": {
+    "by_stage": {
+     "roots": {
+      "match": 6,
+      "n": 9
+     },
+     "canal": {
+      "match": 6,
+      "n": 9
+     },
+     "left": {
+      "match": 20,
+      "n": 20
+     },
+     "right": {
+      "match": 20,
+      "n": 20
+     },
+     "branch_left": {
+      "match": 4,
+      "n": 4
+     },
+     "branch_right": {
+      "match": 4,
+      "n": 4
+     },
+     "cipher": {
+      "match": 66,
+      "n": 108
+     },
+     "golden": {
+      "match": 0,
+      "n": 1
+     },
+     "sub_top": {
+      "match": 2,
+      "n": 4
+     },
+     "sub_bottom": {
+      "match": 2,
+      "n": 4
+     },
+     "sub_result": {
+      "match": 0,
+      "n": 4
+     },
+     "addition": {
+      "match": 0,
+      "n": 2
+     },
+     "product": {
+      "match": 0,
+      "n": 3
+     }
+    },
+    "match": 130,
+    "n": 192,
+    "share": 0.6770833333333334
+   },
+   "C": {
+    "by_stage": {
+     "roots": {
+      "match": 6,
+      "n": 6
+     },
+     "side_roots": {
+      "match": 10,
+      "n": 12
+     },
+     "cipher": {
+      "match": 67,
+      "n": 108
+     }
+    },
+    "match": 83,
+    "n": 126,
+    "share": 0.6587301587301587
+   },
+   "D": {
+    "by_stage": {
+     "roots": {
+      "match": 7,
+      "n": 9
+     },
+     "canal": {
+      "match": 7,
+      "n": 9
+     },
+     "left": {
+      "match": 20,
+      "n": 20
+     },
+     "right": {
+      "match": 20,
+      "n": 20
+     },
+     "branch_left": {
+      "match": 4,
+      "n": 4
+     },
+     "branch_right": {
+      "match": 4,
+      "n": 4
+     },
+     "cipher": {
+      "match": 58,
+      "n": 108
+     },
+     "golden": {
+      "match": 1,
+      "n": 1
+     },
+     "sub_top": {
+      "match": 4,
+      "n": 4
+     },
+     "sub_bottom": {
+      "match": 4,
+      "n": 4
+     },
+     "sub_result": {
+      "match": 4,
+      "n": 4
+     },
+     "addition": {
+      "match": 0,
+      "n": 2
+     },
+     "product": {
+      "match": 0,
+      "n": 3
+     }
+    },
+    "match": 133,
+    "n": 192,
+    "share": 0.6927083333333334
+   }
+  },
+  "text": {
+   "B": {
+    "by_stage": {
+     "roots": {
+      "match": 6,
+      "n": 9
+     },
+     "canal": {
+      "match": 4,
+      "n": 9
+     },
+     "left": {
+      "match": 20,
+      "n": 20
+     },
+     "right": {
+      "match": 20,
+      "n": 20
+     },
+     "branch_left": {
+      "match": 4,
+      "n": 4
+     },
+     "branch_right": {
+      "match": 4,
+      "n": 4
+     },
+     "cipher": {
+      "match": 38,
+      "n": 108
+     },
+     "golden": {
+      "match": 0,
+      "n": 1
+     },
+     "sub_top": {
+      "match": 0,
+      "n": 4
+     },
+     "sub_bottom": {
+      "match": 0,
+      "n": 4
+     },
+     "sub_result": {
+      "match": 0,
+      "n": 4
+     },
+     "addition": {
+      "match": 0,
+      "n": 2
+     },
+     "product": {
+      "match": 0,
+      "n": 3
+     }
+    },
+    "match": 96,
+    "n": 192,
+    "share": 0.5
+   },
+   "C": {
+    "by_stage": {
+     "roots": {
+      "match": 6,
+      "n": 6
+     },
+     "side_roots": {
+      "match": 5,
+      "n": 12
+     },
+     "cipher": {
+      "match": 17,
+      "n": 108
+     }
+    },
+    "match": 28,
+    "n": 126,
+    "share": 0.2222222222222222
+   },
+   "D": {
+    "by_stage": {
+     "roots": {
+      "match": 7,
+      "n": 9
+     },
+     "canal": {
+      "match": 6,
+      "n": 9
+     },
+     "left": {
+      "match": 20,
+      "n": 20
+     },
+     "right": {
+      "match": 20,
+      "n": 20
+     },
+     "branch_left": {
+      "match": 4,
+      "n": 4
+     },
+     "branch_right": {
+      "match": 4,
+      "n": 4
+     },
+     "cipher": {
+      "match": 44,
+      "n": 108
+     },
+     "golden": {
+      "match": 1,
+      "n": 1
+     },
+     "sub_top": {
+      "match": 0,
+      "n": 4
+     },
+     "sub_bottom": {
+      "match": 0,
+      "n": 4
+     },
+     "sub_result": {
+      "match": 0,
+      "n": 4
+     },
+     "addition": {
+      "match": 0,
+      "n": 2
+     },
+     "product": {
+      "match": 0,
+      "n": 3
+     }
+    },
+    "match": 106,
+    "n": 192,
+    "share": 0.5520833333333334
+   }
+  },
+  "control": {
+   "N": 10000,
+   "failures": 0,
+   "random_mean": {
+    "B": 13.7606,
+    "C": 7.2441,
+    "D": 16.8998
+   },
+   "random_max": {
+    "B": 38,
+    "C": 30,
+    "D": 50
+   },
+   "observed": {
+    "B": 130,
+    "C": 83,
+    "D": 133
+   },
+   "holm": {
+    "B": {
+     "p": 9.999000099990002e-05,
+     "p_holm": 0.00029997000299970003,
+     "below_0.05": true
+    },
+    "C": {
+     "p": 9.999000099990002e-05,
+     "p_holm": 0.00029997000299970003,
+     "below_0.05": true
+    },
+    "D": {
+     "p": 9.999000099990002e-05,
+     "p_holm": 0.00029997000299970003,
+     "below_0.05": true
+    }
+   },
+   "min_p": 9.999000099990002e-05
+  }
+ },
+ "test13_departures": {
+  "sheets": [
+   {
+    "sheet": "B",
+    "stage": "roots",
+    "i": 1,
+    "printed": 5,
+    "rule": 15
+   },
+   {
+    "sheet": "B",
+    "stage": "roots",
+    "i": 6,
+    "printed": 68,
+    "rule": 6
+   },
+   {
+    "sheet": "B",
+    "stage": "roots",
+    "i": 8,
+    "printed": 11,
+    "rule": 7
+   },
+   {
+    "sheet": "B",
+    "stage": "cipher",
+    "i": 14,
+    "printed": 1,
+    "rule": 0
+   },
+   {
+    "sheet": "B",
+    "stage": "cipher",
+    "i": 30,
+    "printed": 2,
+    "rule": 1
+   },
+   {
+    "sheet": "B",
+    "stage": "cipher",
+    "i": 38,
+    "printed": 2,
+    "rule": 3
+   },
+   {
+    "sheet": "B",
+    "stage": "cipher",
+    "i": 46,
+    "printed": 1,
+    "rule": 2
+   },
+   {
+    "sheet": "B",
+    "stage": "cipher",
+    "i": 54,
+    "printed": 3,
+    "rule": 1
+   },
+   {
+    "sheet": "B",
+    "stage": "sub_result",
+    "i": 0,
+    "printed": 21,
+    "rule": -21
+   },
+   {
+    "sheet": "B",
+    "stage": "sub_result",
+    "i": 1,
+    "printed": 281,
+    "rule": -281
+   },
+   {
+    "sheet": "D",
+    "stage": "roots",
+    "i": 2,
+    "printed": 3,
+    "rule": 16
+   },
+   {
+    "sheet": "D",
+    "stage": "roots",
+    "i": 5,
+    "printed": 10,
+    "rule": 31
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 3,
+    "printed": 2,
+    "rule": 3
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 4,
+    "printed": 3,
+    "rule": 1
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 5,
+    "printed": 4,
+    "rule": 7
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 6,
+    "printed": 8,
+    "rule": 11
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 12,
+    "printed": 1,
+    "rule": 2
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 13,
+    "printed": 6,
+    "rule": 9
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 14,
+    "printed": 0,
+    "rule": 5
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 21,
+    "printed": 7,
+    "rule": 10
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 22,
+    "printed": 6,
+    "rule": 9
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 29,
+    "printed": 8,
+    "rule": 11
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 30,
+    "printed": 8,
+    "rule": 11
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 37,
+    "printed": 6,
+    "rule": 9
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 38,
+    "printed": 3,
+    "rule": 6
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 45,
+    "printed": 8,
+    "rule": 11
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 46,
+    "printed": 7,
+    "rule": 10
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 53,
+    "printed": 4,
+    "rule": 2
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 54,
+    "printed": 3,
+    "rule": 0
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 61,
+    "printed": 2,
+    "rule": 5
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 69,
+    "printed": 5,
+    "rule": 8
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 70,
+    "printed": 3,
+    "rule": 4
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 77,
+    "printed": 8,
+    "rule": 3
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 78,
+    "printed": 4,
+    "rule": 7
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 79,
+    "printed": 3,
+    "rule": 4
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 80,
+    "printed": 4,
+    "rule": 2
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 85,
+    "printed": 3,
+    "rule": 1
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 86,
+    "printed": 7,
+    "rule": 2
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 87,
+    "printed": 4,
+    "rule": 7
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 88,
+    "printed": 2,
+    "rule": 5
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 89,
+    "printed": 6,
+    "rule": 9
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 93,
+    "printed": 1,
+    "rule": 2
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 95,
+    "printed": 7,
+    "rule": 2
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 96,
+    "printed": 5,
+    "rule": 8
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 97,
+    "printed": 8,
+    "rule": 11
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 98,
+    "printed": 7,
+    "rule": 10
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 102,
+    "printed": 2,
+    "rule": 3
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 104,
+    "printed": 8,
+    "rule": 3
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 105,
+    "printed": 8,
+    "rule": 11
+   },
+   {
+    "sheet": "D",
+    "stage": "cipher",
+    "i": 106,
+    "printed": 3,
+    "rule": 0
+   }
+  ],
+  "sheets_text_vs_sheets_reading": {
+   "B": {
+    "misses_sheets_reading": 10,
+    "misses_text_reading": 41
+   },
+   "D": {
+    "misses_sheets_reading": 40,
+    "misses_text_reading": 59
+   },
+   "C": {
+    "misses_sheets_reading": 0,
+    "misses_text_reading": 5
+   }
+  },
+  "text_examples": [
+   {
+    "where": "image 77 (p. 80), query on the author's brother's captivity",
+    "item": "brother: upper line from roots",
+    "printed": [
+     [
+      -2,
+      -4
+     ],
+     [
+      44,
+      1936
+     ]
+    ],
+    "rule": [
+     [
+      -2,
+      -4
+     ],
+     [
+      44,
+      1936
+     ]
+    ],
+    "match": true
+   },
+   {
+    "where": "image 77 (p. 80), query on the author's brother's captivity",
+    "item": "brother: lower line from roots",
+    "printed": [
+     [
+      -8,
+      -64
+     ],
+     [
+      31,
+      961
+     ]
+    ],
+    "rule": [
+     [
+      -8,
+      -64
+     ],
+     [
+      31,
+      961
+     ]
+    ],
+    "match": true
+   },
+   {
+    "where": "image 77 (p. 80), query on the author's brother's captivity",
+    "item": "brother: residue (algebraic)",
+    "printed": [
+     [
+      6,
+      60
+     ],
+     [
+      13,
+      975
+     ]
+    ],
+    "rule": [
+     [
+      6,
+      60
+     ],
+     [
+      13,
+      975
+     ]
+    ],
+    "match": true
+   },
+   {
+    "where": "image 77 (p. 80), query on the author's brother's captivity",
+    "item": "brother: residue (abs_P)",
+    "printed": [
+     [
+      6,
+      60
+     ],
+     [
+      13,
+      975
+     ]
+    ],
+    "rule": [
+     [
+      6,
+      60
+     ],
+     [
+      13,
+      975
+     ]
+    ],
+    "match": true
+   },
+   {
+    "where": "image 77 (p. 80), query on the election of the pope (text version)",
+    "item": "pontiff_text: residue (algebraic)",
+    "printed": [
+     [
+      0,
+      0
+     ],
+     [
+      8,
+      176
+     ]
+    ],
+    "rule": [
+     [
+      0,
+      0
+     ],
+     [
+      8,
+      176
+     ]
+    ],
+    "match": true
+   },
+   {
+    "where": "image 77 (p. 80), query on the election of the pope (text version)",
+    "item": "pontiff_text: residue (abs_P)",
+    "printed": [
+     [
+      0,
+      0
+     ],
+     [
+      8,
+      176
+     ]
+    ],
+    "rule": [
+     [
+      0,
+      0
+     ],
+     [
+      8,
+      176
+     ]
+    ],
+    "match": true
+   },
+   {
+    "where": "image 77 (p. 80), example of a zero root",
+    "item": "zero_root: residue (algebraic)",
+    "printed": [
+     [
+      69,
+      4761
+     ],
+     [
+      26,
+      410
+     ]
+    ],
+    "rule": [
+     [
+      -69,
+      -4761
+     ],
+     [
+      26,
+      410
+     ]
+    ],
+    "match": false
+   },
+   {
+    "where": "image 77 (p. 80), example of a zero root",
+    "item": "zero_root: residue (abs_P)",
+    "printed": [
+     [
+      69,
+      4761
+     ],
+     [
+      26,
+      410
+     ]
+    ],
+    "rule": [
+     [
+      69,
+      4761
+     ],
+     [
+      26,
+      410
+     ]
+    ],
+    "match": true
+   },
+   {
+    "where": "image 78 (p. 81), equal pairs both P",
+    "item": "equal_pair: residue (algebraic)",
+    "printed": [
+     [
+      31,
+      493
+     ],
+     [
+      -2,
+      -76
+     ]
+    ],
+    "rule": [
+     [
+      31,
+      493
+     ],
+     [
+      -2,
+      -76
+     ]
+    ],
+    "match": true
+   },
+   {
+    "where": "image 78 (p. 81), equal pairs both P",
+    "item": "equal_pair: residue (abs_P)",
+    "printed": [
+     [
+      31,
+      493
+     ],
+     [
+      -2,
+      -76
+     ]
+    ],
+    "rule": [
+     [
+      31,
+      493
+     ],
+     [
+      -2,
+      -76
+     ]
+    ],
+    "match": true
+   },
+   {
+    "where": "image 78 (p. 81)",
+    "item": "maximilian_text: sum of the roots it lists",
+    "printed": [
+     56,
+     1258
+    ],
+    "rule": [
+     56,
+     1258
+    ],
+    "match": true
+   },
+   {
+    "where": "image 78 (p. 81)",
+    "item": "maximilian_text: rule roots of the sheet question, all middle",
+    "printed": [
+     56,
+     1258
+    ],
+    "rule": [
+     95,
+     2779
+    ],
+    "match": false
+   },
+   {
+    "where": "image 78 (p. 81)",
+    "item": "maximilian_text: rule roots, last middle root left out",
+    "printed": [
+     56,
+     1258
+    ],
+    "rule": [
+     56,
+     1258
+    ],
+    "match": true
+   },
+   {
+    "where": "image 80 (p. 83), addition quantity of the pope example",
+    "item": "pontiff_text: rule roots of the sheet question, all middle",
+    "printed": [
+     80,
+     2174
+    ],
+    "rule": [
+     86,
+     2210
+    ],
+    "match": false
+   },
+   {
+    "where": "image 80 (p. 83), addition quantity of the pope example",
+    "item": "pontiff_text: rule roots, last middle root left out",
+    "printed": [
+     80,
+     2174
+    ],
+    "rule": [
+     80,
+     2174
+    ],
+    "match": true
+   },
+   {
+    "where": "image 79 (p. 82)",
+    "item": "leedensi: product",
+    "printed": [
+     15345,
+     30272702,
+     2451243969
+    ],
+    "rule": [
+     15345,
+     30272702,
+     2451243969
+    ],
+    "match": true
+   },
+   {
+    "where": "image 79 (p. 82)",
+    "item": "leedensi: partial product 1",
+    "printed": 153450,
+    "rule": 153450,
+    "match": true
+   },
+   {
+    "where": "image 79 (p. 82)",
+    "item": "leedensi: partial product 2",
+    "printed": 5217300,
+    "rule": 5217300,
+    "match": true
+   },
+   {
+    "where": "image 79 (p. 82)",
+    "item": "leedensi: partial product 3",
+    "printed": -138105,
+    "rule": -138105,
+    "match": true
+   },
+   {
+    "where": "image 79 (p. 82)",
+    "item": "leedensi: partial product 4",
+    "printed": -3919113,
+    "rule": -3919113,
+    "match": true
+   },
+   {
+    "where": "image 79 (p. 82)",
+    "item": "leedensi: partial product 5",
+    "printed": 289745150,
+    "rule": 289745150,
+    "match": true
+   },
+   {
+    "where": "image 79 (p. 82)",
+    "item": "leedensi: partial product 6",
+    "printed": 9861335100,
+    "rule": 9851335100,
+    "match": false
+   },
+   {
+    "where": "image 79 (p. 82)",
+    "item": "leedensi: partial product 7",
+    "printed": -260770635,
+    "rule": -260770635,
+    "match": true
+   },
+   {
+    "where": "image 79 (p. 82)",
+    "item": "leedensi: partial product 8",
+    "printed": -7400091131,
+    "rule": -7400091131,
+    "match": true
+   },
+   {
+    "where": "image 80 (p. 83)",
+    "item": "pontiff_text: residue line as printed vs the subtraction (image 77)",
+    "printed": [
+     [
+      0,
+      0
+     ],
+     [
+      640,
+      14080
+     ]
+    ],
+    "rule": [
+     [
+      0,
+      0
+     ],
+     [
+      8,
+      176
+     ]
+    ],
+    "match": false
+   },
+   {
+    "where": "image 80 (p. 83)",
+    "item": "pontiff_text: product",
+    "printed": [
+     640,
+     31472,
+     382624
+    ],
+    "rule": [
+     640,
+     31472,
+     382624
+    ],
+    "match": true
+   },
+   {
+    "where": "image 80 (p. 83)",
+    "item": "pontiff_text: partial product 1",
+    "printed": 0,
+    "rule": 0,
+    "match": true
+   },
+   {
+    "where": "image 80 (p. 83)",
+    "item": "pontiff_text: partial product 2",
+    "printed": 0,
+    "rule": 0,
+    "match": true
+   },
+   {
+    "where": "image 80 (p. 83)",
+    "item": "pontiff_text: partial product 3",
+    "printed": 640,
+    "rule": 640,
+    "match": true
+   },
+   {
+    "where": "image 80 (p. 83)",
+    "item": "pontiff_text: partial product 4",
+    "printed": 14080,
+    "rule": 14080,
+    "match": true
+   },
+   {
+    "where": "image 80 (p. 83)",
+    "item": "pontiff_text: partial product 5",
+    "printed": 0,
+    "rule": 0,
+    "match": true
+   },
+   {
+    "where": "image 80 (p. 83)",
+    "item": "pontiff_text: partial product 6",
+    "printed": 0,
+    "rule": 0,
+    "match": true
+   },
+   {
+    "where": "image 80 (p. 83)",
+    "item": "pontiff_text: partial product 7",
+    "printed": 17392,
+    "rule": 17392,
+    "match": true
+   },
+   {
+    "where": "image 80 (p. 83)",
+    "item": "pontiff_text: partial product 8",
+    "printed": 382624,
+    "rule": 382624,
+    "match": true
+   },
+   {
+    "where": "image 80 (p. 83)",
+    "item": "residues_zero: product",
+    "printed": [
+     20,
+     400,
+     8000
+    ],
+    "rule": [
+     20,
+     400,
+     8000
+    ],
+    "match": true
+   },
+   {
+    "where": "image 81 (p. 84)",
+    "item": "addition_zero: product",
+    "printed": [
+     2,
+     24,
+     48
+    ],
+    "rule": [
+     2,
+     24,
+     48
+    ],
+    "match": true
+   },
+   {
+    "where": "image 85 (p. 90)",
+    "item": "golden_zero: thirds and quarters of the first dividend",
+    "printed": [
+     [
+      92,
+      2
+     ],
+     [
+      69,
+      2
+     ]
+    ],
+    "rule": [
+     [
+      92,
+      2
+     ],
+     [
+      69,
+      2
+     ]
+    ],
+    "match": true
+   },
+   {
+    "where": "image 85 (p. 90)",
+    "item": "golden_zero: line after adding the parts",
+    "printed": [
+     282,
+     7682,
+     85741
+    ],
+    "rule": [
+     282,
+     7682,
+     85741
+    ],
+    "match": true
+   },
+   {
+    "where": "image 85 (p. 90)",
+    "item": "golden_zero: quotients",
+    "printed": [
+     7590,
+     85672
+    ],
+    "rule": [
+     7590,
+     85672
+    ],
+    "match": true
+   },
+   {
+    "where": "image 86 (p. 91)",
+    "item": "golden_one: line after adding the parts",
+    "printed": [
+     282,
+     7862,
+     85741
+    ],
+    "rule": [
+     282,
+     7682,
+     85741
+    ],
+    "match": false
+   },
+   {
+    "where": "image 86 (p. 91)",
+    "item": "golden_one: correctors",
+    "printed": [
+     283,
+     7863,
+     85742
+    ],
+    "rule": [
+     283,
+     7683,
+     85742
+    ],
+    "match": false
+   },
+   {
+    "where": "image 86 (p. 91)",
+    "item": "golden_one: correctors from the printed line + 1",
+    "printed": [
+     283,
+     7863,
+     85742
+    ],
+    "rule": [
+     283,
+     7863,
+     85742
+    ],
+    "match": true
+   },
+   {
+    "where": "image 82 (p. 87)",
+    "item": "general_golden_7: general division",
+    "printed": "printed",
+    "rule": "not coded (pages 85-86 missing)",
+    "match": false
+   },
+   {
+    "where": "image 88 (p. 93), 'An tertia Decembris plueret'",
+    "item": "start cell: quotient and remainder",
+    "printed": [
+     570,
+     8
+    ],
+    "rule": [
+     570,
+     8
+    ],
+    "match": true
+   },
+   {
+    "where": "image 88 (p. 93), 'An tertia Decembris plueret'",
+    "item": "start cell",
+    "printed": 7,
+    "rule": 7,
+    "match": true
+   },
+   {
+    "where": "image 89 (p. 94), Antonius query",
+    "item": "first letter: quotient and remainder",
+    "printed": [
+     297,
+     9
+    ],
+    "rule": [
+     253,
+     21
+    ],
+    "match": false
+   },
+   {
+    "where": "image 89 (p. 94), Antonius query",
+    "item": "first letter (rule, from the printed quotient)",
+    "printed": 10,
+    "rule": 22,
+    "match": false
+   },
+   {
+    "where": "image 89 (p. 94), Antonius query",
+    "item": "first letter (from the printed remainder + 1)",
+    "printed": 10,
+    "rule": 10,
+    "match": true
+   },
+   {
+    "where": "image 90 (p. 95)",
+    "item": "q1 less golden",
+    "printed": 240,
+    "rule": 240,
+    "match": true
+   },
+   {
+    "where": "image 90 (p. 95)",
+    "item": "denominator split in two (from the printed fraction)",
+    "printed": [
+     106,
+     107
+    ],
+    "rule": [
+     6,
+     7
+    ],
+    "match": false
+   },
+   {
+    "where": "image 90 (p. 95)",
+    "item": "left after subtracting the printed parts",
+    "printed": 27,
+    "rule": 27,
+    "match": true
+   },
+   {
+    "where": "image 90 (p. 95)",
+    "item": "difference of the quotients",
+    "printed": 4553,
+    "rule": 4752,
+    "match": false
+   },
+   {
+    "where": "image 90 (p. 95)",
+    "item": "first divisor = third part of the first dividend",
+    "printed": 16,
+    "rule": 18,
+    "match": false
+   },
+   {
+    "where": "image 90 (p. 95)",
+    "item": "second divisor = fourth part of the first dividend",
+    "printed": 14,
+    "rule": 14,
+    "match": true
+   },
+   {
+    "where": "image 90 (p. 95)",
+    "item": "first division (printed numbers)",
+    "printed": [
+     252,
+     16
+    ],
+    "rule": [
+     284,
+     9
+    ],
+    "match": false
+   },
+   {
+    "where": "image 90 (p. 95)",
+    "item": "second division (printed numbers)",
+    "printed": [
+     17,
+     0
+    ],
+    "rule": [
+     18,
+     0
+    ],
+    "match": false
+   },
+   {
+    "where": "image 90 (p. 95)",
+    "item": "first dividend less remainder (printed)",
+    "printed": 40,
+    "rule": 40,
+    "match": true
+   },
+   {
+    "where": "image 90 (p. 95)",
+    "item": "plus 1 for P",
+    "printed": 41,
+    "rule": 41,
+    "match": true
+   }
+  ],
+  "text_examples_mismatches": [
+   {
+    "where": "image 77 (p. 80), example of a zero root",
+    "item": "zero_root: residue (algebraic)",
+    "printed": [
+     [
+      69,
+      4761
+     ],
+     [
+      26,
+      410
+     ]
+    ],
+    "rule": [
+     [
+      -69,
+      -4761
+     ],
+     [
+      26,
+      410
+     ]
+    ],
+    "match": false
+   },
+   {
+    "where": "image 78 (p. 81)",
+    "item": "maximilian_text: rule roots of the sheet question, all middle",
+    "printed": [
+     56,
+     1258
+    ],
+    "rule": [
+     95,
+     2779
+    ],
+    "match": false
+   },
+   {
+    "where": "image 80 (p. 83), addition quantity of the pope example",
+    "item": "pontiff_text: rule roots of the sheet question, all middle",
+    "printed": [
+     80,
+     2174
+    ],
+    "rule": [
+     86,
+     2210
+    ],
+    "match": false
+   },
+   {
+    "where": "image 79 (p. 82)",
+    "item": "leedensi: partial product 6",
+    "printed": 9861335100,
+    "rule": 9851335100,
+    "match": false
+   },
+   {
+    "where": "image 80 (p. 83)",
+    "item": "pontiff_text: residue line as printed vs the subtraction (image 77)",
+    "printed": [
+     [
+      0,
+      0
+     ],
+     [
+      640,
+      14080
+     ]
+    ],
+    "rule": [
+     [
+      0,
+      0
+     ],
+     [
+      8,
+      176
+     ]
+    ],
+    "match": false
+   },
+   {
+    "where": "image 86 (p. 91)",
+    "item": "golden_one: line after adding the parts",
+    "printed": [
+     282,
+     7862,
+     85741
+    ],
+    "rule": [
+     282,
+     7682,
+     85741
+    ],
+    "match": false
+   },
+   {
+    "where": "image 86 (p. 91)",
+    "item": "golden_one: correctors",
+    "printed": [
+     283,
+     7863,
+     85742
+    ],
+    "rule": [
+     283,
+     7683,
+     85742
+    ],
+    "match": false
+   },
+   {
+    "where": "image 82 (p. 87)",
+    "item": "general_golden_7: general division",
+    "printed": "printed",
+    "rule": "not coded (pages 85-86 missing)",
+    "match": false
+   },
+   {
+    "where": "image 89 (p. 94), Antonius query",
+    "item": "first letter: quotient and remainder",
+    "printed": [
+     297,
+     9
+    ],
+    "rule": [
+     253,
+     21
+    ],
+    "match": false
+   },
+   {
+    "where": "image 89 (p. 94), Antonius query",
+    "item": "first letter (rule, from the printed quotient)",
+    "printed": 10,
+    "rule": 22,
+    "match": false
+   },
+   {
+    "where": "image 90 (p. 95)",
+    "item": "denominator split in two (from the printed fraction)",
+    "printed": [
+     106,
+     107
+    ],
+    "rule": [
+     6,
+     7
+    ],
+    "match": false
+   },
+   {
+    "where": "image 90 (p. 95)",
+    "item": "difference of the quotients",
+    "printed": 4553,
+    "rule": 4752,
+    "match": false
+   },
+   {
+    "where": "image 90 (p. 95)",
+    "item": "first divisor = third part of the first dividend",
+    "printed": 16,
+    "rule": 18,
+    "match": false
+   },
+   {
+    "where": "image 90 (p. 95)",
+    "item": "first division (printed numbers)",
+    "printed": [
+     252,
+     16
+    ],
+    "rule": [
+     284,
+     9
+    ],
+    "match": false
+   },
+   {
+    "where": "image 90 (p. 95)",
+    "item": "second division (printed numbers)",
+    "printed": [
+     17,
+     0
+    ],
+    "rule": [
+     18,
+     0
+    ],
+    "match": false
+   }
+  ],
+  "maximilian_chain": {
+   "both": {
+    "letters_after_first": 45,
+    "letters_total": 46
+   },
+   "first_only": {
+    "letters_after_first": 57,
+    "letters_total": 58
+   },
+   "book": {
+    "letters_after_first": 41,
+    "letters_total": 42
+   },
+   "printed_answer_letters": 35
+  }
+ },
+ "test14_clustering": {
+  "N_values": 384,
+  "answer_path_values": 54,
+  "departures": 50,
+  "departures_in_answer_path": 7,
+  "expected_in_answer_path": 7.03125,
+  "p_cluster": 0.5766999238174382,
+  "min_achievable_p": 1.643169492826983e-58,
+  "informative": true,
+  "by_stage": {
+   "roots": 5,
+   "cipher": 43,
+   "sub_result": 2
+  }
+ },
+ "test15_answers": {
+  "B": {
+   "rule_sheets": {
+    "golden": 8,
+    "roots": [
+     16,
+     15,
+     4,
+     13,
+     30,
+     33,
+     6,
+     16,
+     7
+    ],
+    "crossed": [
+     true,
+     true,
+     false,
+     true,
+     false,
+     false,
+     true,
+     false,
+     false
+    ],
+    "multiplication": {
+     "case": "general",
+     "species": [
+      "Q",
+      "C",
+      "QQ"
+     ],
+     "q": [
+      -688,
+      -32816,
+      -388960
+     ]
+    },
+    "division_coded": false,
+    "stop": "golden number >= 2: rule on the missing pages 85-86",
+    "start_cell": null,
+    "first_letter": null,
+    "letters_total": null
+   },
+   "sheet_roots_sheets": {
+    "golden": 5,
+    "roots": [
+     16,
+     5,
+     4,
+     13,
+     30,
+     33,
+     68,
+     16,
+     11
+    ],
+    "crossed": [
+     true,
+     true,
+     false,
+     true,
+     false,
+     false,
+     true,
+     false,
+     false
+    ],
+    "multiplication": {
+     "case": "general",
+     "species": [
+      "Q",
+      "C",
+      "QQ"
+     ],
+     "q": [
+      888,
+      54996,
+      652608
+     ]
+    },
+    "division_coded": false,
+    "stop": "golden number >= 2: rule on the missing pages 85-86",
+    "start_cell": null,
+    "first_letter": null,
+    "letters_total": null
+   },
+   "rule_text": {
+    "golden": 8,
+    "roots": [
+     16,
+     15,
+     4,
+     13,
+     30,
+     33,
+     6,
+     16,
+     7
+    ],
+    "crossed": [
+     true,
+     true,
+     false,
+     true,
+     false,
+     false,
+     true,
+     false,
+     false
+    ],
+    "multiplication": {
+     "case": "general",
+     "species": [
+      "Q",
+      "C",
+      "QQ"
+     ],
+     "q": [
+      688,
+      32816,
+      388960
+     ]
+    },
+    "division_coded": false,
+    "stop": "golden number >= 2: rule on the missing pages 85-86",
+    "start_cell": null,
+    "first_letter": null,
+    "letters_total": null
+   },
+   "sheet_roots_text": {
+    "golden": 5,
+    "roots": [
+     16,
+     5,
+     4,
+     13,
+     30,
+     33,
+     68,
+     16,
+     11
+    ],
+    "crossed": [
+     true,
+     true,
+     false,
+     true,
+     false,
+     false,
+     true,
+     false,
+     false
+    ],
+    "multiplication": {
+     "case": "general",
+     "species": [
+      "Q",
+      "C",
+      "QQ"
+     ],
+     "q": [
+      -888,
+      -54996,
+      -652608
+     ]
+    },
+    "division_coded": false,
+    "stop": "golden number >= 2: rule on the missing pages 85-86",
+    "start_cell": null,
+    "first_letter": null,
+    "letters_total": null
+   },
+   "printed_answer": {
+    "letters": 67,
+    "first": 7
+   }
+  },
+  "D": {
+   "rule_sheets": {
+    "golden": 2,
+    "roots": [
+     8,
+     11,
+     16,
+     4,
+     5,
+     31,
+     39,
+     12,
+     4
+    ],
+    "crossed": [
+     false,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     true
+    ],
+    "multiplication": {
+     "case": "general",
+     "species": [
+      "Q",
+      "C",
+      "QQ"
+     ],
+     "q": [
+      -285,
+      -10712,
+      -69475
+     ]
+    },
+    "division_coded": false,
+    "stop": "golden number >= 2: rule on the missing pages 85-86",
+    "start_cell": null,
+    "first_letter": null,
+    "letters_total": null
+   },
+   "sheet_roots_sheets": {
+    "golden": 2,
+    "roots": [
+     8,
+     11,
+     3,
+     4,
+     5,
+     10,
+     39,
+     12,
+     4
+    ],
+    "crossed": [
+     false,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     true
+    ],
+    "multiplication": {
+     "case": "general",
+     "species": [
+      "Q",
+      "C",
+      "QQ"
+     ],
+     "q": [
+      -183,
+      -6538,
+      -41775
+     ]
+    },
+    "division_coded": false,
+    "stop": "golden number >= 2: rule on the missing pages 85-86",
+    "start_cell": null,
+    "first_letter": null,
+    "letters_total": null
+   },
+   "rule_text": {
+    "golden": 2,
+    "roots": [
+     8,
+     11,
+     16,
+     4,
+     5,
+     31,
+     39,
+     12,
+     4
+    ],
+    "crossed": [
+     false,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     true
+    ],
+    "multiplication": {
+     "case": "general",
+     "species": [
+      "Q",
+      "C",
+      "QQ"
+     ],
+     "q": [
+      285,
+      10712,
+      69475
+     ]
+    },
+    "division_coded": false,
+    "stop": "golden number >= 2: rule on the missing pages 85-86",
+    "start_cell": null,
+    "first_letter": null,
+    "letters_total": null
+   },
+   "sheet_roots_text": {
+    "golden": 2,
+    "roots": [
+     8,
+     11,
+     3,
+     4,
+     5,
+     10,
+     39,
+     12,
+     4
+    ],
+    "crossed": [
+     false,
+     false,
+     false,
+     false,
+     false,
+     false,
+     true,
+     false,
+     true
+    ],
+    "multiplication": {
+     "case": "general",
+     "species": [
+      "Q",
+      "C",
+      "QQ"
+     ],
+     "q": [
+      183,
+      6538,
+      41775
+     ]
+    },
+    "division_coded": false,
+    "stop": "golden number >= 2: rule on the missing pages 85-86",
+    "start_cell": null,
+    "first_letter": null,
+    "letters_total": null
+   },
+   "printed_answer": {
+    "letters": 35,
+    "first": 4
+   }
+  },
+  "control": {
+   "N_run": 10000,
+   "golden_distribution": {
+    "0": 172,
+    "1": 172,
+    "2": 156,
+    "3": 147,
+    "4": 133,
+    "5": 127,
+    "6": 136,
+    "7": 112,
+    "8": 116,
+    "9": 116,
+    "10": 98,
+    "11": 103
+   },
+   "share_golden_0_or_1": 0.0344,
+   "reached_letter_count": 344,
+   "letters_total_quantiles": {
+    "0.0": -10053129790,
+    "0.05": -130811454,
+    "0.25": -101694,
+    "0.5": 224,
+    "0.75": 643,
+    "0.95": 3325,
+    "max": 30941
+   },
+   "share_total_35": 0.0,
+   "share_total_67": 0.0,
+   "share_total_nonpositive": 0.2616279069767442,
+   "first_letter_distribution": {
+    "1": 18,
+    "2": 5,
+    "3": 11,
+    "4": 20,
+    "5": 18,
+    "6": 18,
+    "7": 14,
+    "8": 13,
+    "9": 14,
+    "10": 17,
+    "11": 17,
+    "12": 11,
+    "13": 15,
+    "14": 13,
+    "15": 17,
+    "16": 20,
+    "17": 17,
+    "18": 18,
+    "19": 13,
+    "20": 10,
+    "21": 12,
+    "22": 20,
+    "23": 13
+   }
+  }
+ },
+ "test16_tables": {
+  "B": {
+   "sheet_cipher": {
+    "superparticular": 13,
+    "multiple": 26,
+    "multiple_superparticular": 20,
+    "zero": 12,
+    "equality": 8,
+    "superpartient": 22,
+    "multiple_superpartient": 7
+   },
+   "rule_cipher": {
+    "superparticular": 18,
+    "multiple": 19,
+    "multiple_superparticular": 17,
+    "zero": 14,
+    "superpartient": 23,
+    "equality": 12,
+    "multiple_superpartient": 5
+   }
+  },
+  "D": {
+   "sheet_cipher": {
+    "superparticular": 22,
+    "multiple": 26,
+    "multiple_superpartient": 12,
+    "equality": 6,
+    "zero": 9,
+    "multiple_superparticular": 13,
+    "superpartient": 20
+   },
+   "rule_cipher": {
+    "superparticular": 23,
+    "multiple": 16,
+    "equality": 4,
+    "multiple_superpartient": 11,
+    "superpartient": 24,
+    "zero": 16,
+    "multiple_superparticular": 14
+   }
+  },
+  "control_all_cells": {
+   "cells": 1080000,
+   "share": {
+    "multiple": 0.2534388888888889,
+    "superparticular": 0.1434287037037037,
+    "superpartient": 0.1763212962962963,
+    "multiple_superparticular": 0.1430861111111111,
+    "multiple_superpartient": 0.09694074074074074,
+    "equality": 0.05567777777777778,
+    "zero": 0.1311064814814815
+   },
+   "status": {
+    "multiple": "table missing (pp. 105-106)",
+    "superparticular": "table present",
+    "superpartient": "table present",
+    "multiple_superparticular": "table blank; built from the missing multiple table",
+    "multiple_superpartient": "table blank; built from the missing multiple table",
+    "equality": "table blank; rule given (double less one)",
+    "zero": "rule given (read as 1)"
+   },
+   "share_needing_missing_multiple_table": 0.49346574074074073,
+   "particular_ratios_in_listed_rows": 265182,
+   "particular_ratios_not_in_listed_rows": 80148
+  }
+ },
+ "exploratory": {
+  "E1_tables": {
+   "superparticular": {
+    "rows": 21,
+    "breaks": [
+     {
+      "row": "11:10",
+      "column": 6,
+      "printed": 229,
+      "pattern": 219
+     }
+    ]
+   },
+   "superpartient": {
+    "rows": 25,
+    "breaks": [
+     {
+      "row": "11:7",
+      "column": 3,
+      "printed": 35,
+      "pattern": 34
+     }
+    ]
+   }
+  },
+  "E2_general_division": {
+   "Q_less_under": [
+    -4313,
+    -4313
+   ],
+   "C_less_under": [
+    -445,
+    -445
+   ],
+   "box_C": [
+    -445,
+    -445
+   ],
+   "box_QQ": [
+    382624,
+    382624
+   ],
+   "C_over_golden_squared": [
+    642,
+    14
+   ],
+   "q1_printed": "642 5/7"
+  }
+ }
+}
